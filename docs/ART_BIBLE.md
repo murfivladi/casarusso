@@ -124,7 +124,7 @@ Su tablet (preset Medio) tutte le texture scendono di un livello (mip 1) salvo l
 | Esterno al tramonto | luce volumetrica (raggi tra le case) intensità 0,3, bloom 0,3, foschia di distanza (densità 0,0006), LUT del mese |
 | Notte con spiriti | luce volumetrica sulla nebbia 0,6, bloom 0,45, vignetta 0,25, grana 8, cromatica leggera 0,15 sui bordi solo durante le apparizioni |
 | Pioggia | SSR forte sulle superfici bagnate, gocce sulla camera disattivate (prima persona realistica: niente gocce su «lenti»), particelle di pioggia GPU, nebbia di distanza 0,0012 |
-| Aeroporto | SSR sul granito, polvere nella luce (particelle GPU nei fasci del sole, 400 su PC, 120 su tablet) |
+| Aeroporto | SSR sul granito, polvere nella luce (particelle GPU nei fasci del sole, 400 al preset Alto, scalate dal moltiplicatore del preset: 160 su Medio) |
 | Auto (cap. 1) | riflessi del finestrino, fumo dell'Etna (particelle GPU + mesh volumetrica lontana) |
 
 ## 11. Donne di Fora — specifica VFX
