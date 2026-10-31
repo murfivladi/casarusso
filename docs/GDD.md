@@ -478,7 +478,7 @@ Zone delle collezioni libere: v1.0 = Casa Russo, scalinate, casa di Concetta, Co
 Totale v1.0: 53 min · v2.0: 83 min · v3.0: 91 min. Verifica a ogni Beta: un giocatore di test (Vlad) e il giro automatico misurano la durata; scarto ammesso ±15% per capitolo, totale dentro 180–240 min.
 
 ### 5.2 Durata massima dei raccordi
-Ogni raccordo ha una durata massima; oltre il massimo il gioco «spinge» con un pensiero di Vera e, dopo altri 60 s, il marker si accende anche se disattivato (solo per i raccordi). Elenco completo con massimi in `NARRATIVA/raccordi.md` (somma dei massimi: 71 min).
+Ogni raccordo ha una durata massima; oltre il massimo il gioco «spinge» con un pensiero di Vera e, dopo altri 60 s, il marker si accende anche se disattivato (solo per i raccordi). Elenco completo con massimi in `NARRATIVA/raccordi.md` (26 raccordi; somma dei massimi: 86,5 min).
 
 ### 5.3 Mondo libero atteso
 | Rilascio | Contenuto libero | Tempo atteso per completare tutto |
