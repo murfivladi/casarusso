@@ -63,7 +63,7 @@
 - **Beat**: B-10-05.
 - **Testo del libro**: [LIBRO §10.025–10.033] (a Mazzarò le impronte quasi sparite; Mattia gira in tondo sul piazzale per cinque minuti; Vera guarda l'orologio del telefono; «Di là»: la strada lungo il mare verso Giardini Naxos, mare a sinistra e rocce a destra; «Sei sicuro?» «C'è odore di pane nero.»; Vera annusa mare, benzina e frittura; la stazione vecchia, tetto spiovente, finestre ad arco, pareti color crema sul bordo della spiaggia; «È lì. Il signore piccolo vuole prendere il treno.»).
 - **Sistema**: 6 impronte IMP-10-19…24 sul marciapiede della strada lungo il mare (sole radente: impronte visibili in ginocchio controsole); traffico (macchine, motorini, un autobus blu — SFX-072); orologio del telefono (SIS-07) mostra 15:40.
-- Doppiato: MATTIA §10.029, §10.033 [VOX-10-07, 08].
+- Doppiato: MATTIA §10.029, §10.033 [VOX-10-07…08].
 - **Fotografabile**: FOT-10-03 la stazione di Taormina-Giardini vista dall'alto della curva.
 - **Voce del quaderno**: IND-10-04 [NUOVO] «A Mazzarò le impronte finiscono. Mattia sente "odore di pane nero" lungo la strada del mare. Laggiù c'è la stazione di Taormina-Giardini. "Il signore piccolo vuole prendere il treno."»
 

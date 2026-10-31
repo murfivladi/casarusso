@@ -36,7 +36,7 @@ Vera organizza una riunione, come i presidenti in televisione: tovaglia della do
 ### SCN-08-02 — Le Donne arrivano (cinematica + dialogo)
 - **Beat**: B-08-02.
 - **Testo del libro**: [LIBRO §08.004–08.010] (a mezzanotte meno cinque la nebbia; Rosalia si forma per prima, poi Nina, poi Tina; vedono la tovaglia, i biscotti, la candela, Vera a capotavola con le mani giunte; «E questo cos'è?» «È una riunione. Per fare la pace. Prego, accomodatevi.»; Tina sorride e fa per sedersi, Rosalia la ferma col ventaglio; «Con chi?» «Con Fomà.»).
-- Doppiato: ROSALIA §08.006, §08.009 [VOX-08-01, 02].
+- Doppiato: ROSALIA §08.006, §08.009 [VOX-08-01…02].
 - **Scelta della formula di Vera** (la battuta del libro resta, cambia il tono di consegna — tag di recitazione e animazione delle mani):
   - `*` (1) solenne («come un presidente») → nessun effetto
   - `*` (2) gentile (sorriso) → rap_tina +1

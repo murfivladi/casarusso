@@ -53,7 +53,7 @@ La mattina dopo il consiglio il lapot' non c'è più. Dietro il frigo, con la to
 ### SCN-09-04 — La mamma sul gradino (dialogo)
 - **Beat**: B-09-04.
 - **Testo del libro**: [LIBRO §09.015–09.021] (Irina seduta sul gradino sotto la crepa, il viso nelle mani; Vera si siede accanto e le appoggia la testa sulla spalla; «È colpa mia. L'ho portata qui. L'ho tolta da casa sua. A settantaquattro anni.» «Non è colpa tua, mamma.» «E allora di chi è?»; «Era la stessa domanda di Giulia… O forse sì.»).
-- Doppiato: IRINA §09.017, §09.019 [VOX-09-03, 04].
+- Doppiato: IRINA §09.017, §09.019 [VOX-09-03…04].
 - **Interazione**: sedersi accanto (punto «Siediti») e appoggiare la testa (Azione tenuta 2 s) → rap_irina +1.
 - **Voce del quaderno**: IND-09-03 [NUOVO] «Mamma pensa che sia colpa sua. "E allora di chi è?" La stessa domanda di Giulia. Forse io lo so.»
 
@@ -85,7 +85,7 @@ La mattina dopo il consiglio il lapot' non c'è più. Dietro il frigo, con la to
 - Doppiato: MATTIA §09.038 [VOX-09-07], §09.042 [VOX-09-08].
 - PEN-09-07 [LIBRO §09.034] (voce della memoria, eco): «Qui sei forestiero. E i forestieri, prima o poi, se ne vanno.» (riprodotta con la voce di Rosalia VOX-08-08 filtrata, solo l'ultima frase)
 - **Effetti**: rap_mattia +1.
-- **Fine**: VOX-09-09 [LIBRO §09.042] (Mattia) chiude il capitolo; scheda con frase [NUOVO]: «Il lapot' non c'è, la babuška brucia di febbre, la casa cade a pezzi. Ma mio fratello sa da che parte è andato.»
+- **Fine**: la battuta di Mattia VOX-09-08 chiude il capitolo; scheda con frase [NUOVO]: «Il lapot' non c'è, la babuška brucia di febbre, la casa cade a pezzi. Ma mio fratello sa da che parte è andato.»
 - **Cosa cambia nel mondo**: → SCN-10-01 la domenica dopo pranzo.
 
 ## Voci del quaderno del capitolo

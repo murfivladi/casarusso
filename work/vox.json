@@ -1,0 +1,1834 @@
+[
+ {
+  "id": "VOX-01-01",
+  "scena": "SCN-01-01",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Mi chiamo Vera Russo, ho dodici anni, e il mio cognome è una barzelletta.",
+  "car": 73
+ },
+ {
+  "id": "VOX-01-02",
+  "scena": "SCN-01-01",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Non lo dico io. Lo dice chiunque conosca mia madre. Perché mia madre si chiama Irina, è nata a San Pietroburgo, parla l'italiano meglio di mio padre ma con le erre che rotolano come biglie, e quando è arrivata in Sicilia, diciotto anni fa, ha conosciuto un ragazzo di Taormina che faceva i caffè in un bar sul Corso. Lui si chiamava Salvo. Salvo Russo.",
+  "car": 352
+ },
+ {
+  "id": "VOX-01-03",
+  "scena": "SCN-01-01",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "— Quindi ora sei Irina Russo — le dicevano tutti. — Una russa che si chiama Russo. E ridevano. Mia madre rideva anche lei, la prima volta. La centesima, un po' meno.",
+  "car": 165
+ },
+ {
+  "id": "VOX-01-04",
+  "scena": "SCN-01-01",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Io sono venuta dopo. Poi Giulia, che in realtà è venuta prima di me, perché ha sedici anni, ma io la considero comunque dopo, perché è nata senza la parte del cervello che si stupisce delle cose. E poi Mattia, che ha sei anni e si stupisce di tutto, anche dei cucchiai.",
+  "car": 269
+ },
+ {
+  "id": "VOX-01-05",
+  "scena": "SCN-01-01",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Quel sabato di settembre eravamo tutti e cinque all'aeroporto di Catania, davanti alla porta scorrevole degli arrivi, ad aspettare la babuška.",
+  "car": 142
+ },
+ {
+  "id": "VOX-01-06",
+  "scena": "SCN-01-02",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Quanto resta?",
+  "car": 13
+ },
+ {
+  "id": "VOX-01-07",
+  "scena": "SCN-01-02",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "Te l'ho detto. Solo per un po'.",
+  "car": 31
+ },
+ {
+  "id": "VOX-01-08",
+  "scena": "SCN-01-02",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Quanto è un po'?",
+  "car": 16
+ },
+ {
+  "id": "VOX-01-09",
+  "scena": "SCN-01-06",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Babuška vuol dire nonna. In russo. Però è una nonna vera, non una bambola. Le bambole sono le matrioške.",
+  "car": 104
+ },
+ {
+  "id": "VOX-01-10",
+  "scena": "SCN-01-06",
+  "chi": "IL SIGNORE",
+  "lingua": "it",
+  "testo": "Ah.",
+  "car": 3
+ },
+ {
+  "id": "VOX-01-11",
+  "scena": "SCN-01-09",
+  "chi": "IRINA",
+  "lingua": "ru",
+  "testo": "Мамочка!",
+  "car": 8
+ },
+ {
+  "id": "VOX-01-12",
+  "scena": "SCN-01-09",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Ты худая. Совсем не ешь.",
+  "car": 24
+ },
+ {
+  "id": "VOX-01-13",
+  "scena": "SCN-01-09",
+  "chi": "IRINA",
+  "lingua": "ru",
+  "testo": "Ем, мама.",
+  "car": 9
+ },
+ {
+  "id": "VOX-01-14",
+  "scena": "SCN-01-09",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Ты худая.",
+  "car": 9
+ },
+ {
+  "id": "VOX-01-15",
+  "scena": "SCN-01-09",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "Benvenuta, Galina Petrovna.",
+  "car": 27
+ },
+ {
+  "id": "VOX-01-16",
+  "scena": "SCN-01-09",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Salvatore.",
+  "car": 10
+ },
+ {
+  "id": "VOX-01-17",
+  "scena": "SCN-01-10",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Верочка… Ты выросла. У тебя глаза твоего деда.",
+  "car": 46
+ },
+ {
+  "id": "VOX-01-18",
+  "scena": "SCN-01-11",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Ничего.",
+  "car": 7
+ },
+ {
+  "id": "VOX-01-19",
+  "scena": "SCN-01-11",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "È un lapot'.",
+  "car": 12
+ },
+ {
+  "id": "VOX-01-20",
+  "scena": "SCN-01-11",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Конечно, привезла. А что мне было делать, оставить его там?",
+  "car": 59
+ },
+ {
+  "id": "VOX-01-21",
+  "scena": "SCN-01-12",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Babuška… La scarpa ha starnutito.",
+  "car": 33
+ },
+ {
+  "id": "VOX-01-22",
+  "scena": "SCN-01-13",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Обувь не чихает, Верочка. Пойдём. Я устала и есть хочу.",
+  "car": 55
+ },
+ {
+  "id": "VOX-01-23",
+  "scena": "SCN-01-15",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Io non dissi niente. Ma in quel momento decisi che avrei scoperto cosa c'era in quella scarpa, a qualunque costo.",
+  "car": 113
+ },
+ {
+  "id": "VOX-01-24",
+  "scena": "SCN-01-16",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Non sapevo ancora che dentro quella scarpa c'era la guerra.",
+  "car": 59
+ },
+ {
+  "id": "VOX-02-01",
+  "scena": "SCN-02-02",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Arancini. Al ragù e al burro. Per la signora che viene da lontano, che avrà fame.",
+  "car": 81
+ },
+ {
+  "id": "VOX-02-02",
+  "scena": "SCN-02-02",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Grazie. Ho portato i pirožki.",
+  "car": 29
+ },
+ {
+  "id": "VOX-02-03",
+  "scena": "SCN-02-02",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "Che bello. Mangiamo tutto. Insieme. Tutti contenti.",
+  "car": 51
+ },
+ {
+  "id": "VOX-02-04",
+  "scena": "SCN-02-07",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Дедушка, дедушка, пойдём с нами. Это новый дом. Пойдём жить с нами. ×3",
+  "car": 210
+ },
+ {
+  "id": "VOX-02-05",
+  "scena": "SCN-02-09",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Fu.",
+  "car": 3
+ },
+ {
+  "id": "VOX-02-06",
+  "scena": "SCN-02-09",
+  "chi": "FOMÀ",
+  "lingua": "ru",
+  "testo": "[parole in russo che la babuška non vorrà tradurre]",
+  "car": 51
+ },
+ {
+  "id": "VOX-02-07",
+  "scena": "SCN-02-09",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "E la stufa? Dov'è la stufa? Che casa è una casa senza stufa?",
+  "car": 60
+ },
+ {
+  "id": "VOX-02-08",
+  "scena": "SCN-02-09",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Здесь нет печки, дедушка. Здесь тепло. Не нужно.",
+  "car": 48
+ },
+ {
+  "id": "VOX-02-09",
+  "scena": "SCN-02-09",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Non serve! Non serve, dice! E io dove dormo? Sul pavimento, come un cane? In una scarpa, come un ciabattino?",
+  "car": 108
+ },
+ {
+  "id": "VOX-02-10",
+  "scena": "SCN-02-09",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Qui. Qui dietro è caldo. Ronza. Mi piace. Mi metto qui.",
+  "car": 55
+ },
+ {
+  "id": "VOX-02-11",
+  "scena": "SCN-02-09",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Спокойной ночи, Фома.",
+  "car": 21
+ },
+ {
+  "id": "VOX-02-12",
+  "scena": "SCN-02-09",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Buona notte, buona notte. Senza stufa. Ma si può.",
+  "car": 49
+ },
+ {
+  "id": "VOX-02-13",
+  "scena": "SCN-02-10",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Restai sveglia a lungo, a guardare il soffitto. Da giù, ogni tanto, arrivava il ronzio del frigorifero. E una volta, una volta sola, mi sembrò di sentire qualcuno che russava.",
+  "car": 175
+ },
+ {
+  "id": "VOX-03-01",
+  "scena": "SCN-03-02",
+  "chi": "NICOLÒ",
+  "lingua": "it",
+  "testo": "Tu sei russa?",
+  "car": 13
+ },
+ {
+  "id": "VOX-03-02",
+  "scena": "SCN-03-02",
+  "chi": "NICOLÒ",
+  "lingua": "it",
+  "testo": "Quale metà?",
+  "car": 11
+ },
+ {
+  "id": "VOX-03-03",
+  "scena": "SCN-03-02",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Non lo so. Credo che siano mescolate.",
+  "car": 37
+ },
+ {
+  "id": "VOX-03-04",
+  "scena": "SCN-03-05",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Non ci sono.",
+  "car": 12
+ },
+ {
+  "id": "VOX-03-05",
+  "scena": "SCN-03-05",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Hai visto la polvere. In questa casa non pulisce nessuno.",
+  "car": 57
+ },
+ {
+  "id": "VOX-03-06",
+  "scena": "SCN-03-09",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Bene, bene. Vediamo come la tengono, questa casa.",
+  "car": 49
+ },
+ {
+  "id": "VOX-03-07",
+  "scena": "SCN-03-09",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Polvere. Di nuovo.",
+  "car": 18
+ },
+ {
+  "id": "VOX-03-08",
+  "scena": "SCN-03-09",
+  "chi": "NINA",
+  "lingua": "it",
+  "testo": "Gliel'avevo detto, Donna Rosalia. Da quando è arrivata la forestiera, qui nessuno pulisce più come si deve. Pensa che stamattina ho visto le lenzuola del bambino stese storte.",
+  "car": 175
+ },
+ {
+  "id": "VOX-03-09",
+  "scena": "SCN-03-09",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Donna Tina! Non si gira per le stanze senza permesso.",
+  "car": 53
+ },
+ {
+  "id": "VOX-03-10",
+  "scena": "SCN-03-09",
+  "chi": "TINA",
+  "lingua": "it",
+  "testo": "C'è un odore strano. Di pane. Pane nero. Non l'ho mai sentito.",
+  "car": 62
+ },
+ {
+  "id": "VOX-03-11",
+  "scena": "SCN-03-10",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Chi è? Chi c'è? Chi entra a quest'ora in casa mia?",
+  "car": 50
+ },
+ {
+  "id": "VOX-03-12",
+  "scena": "SCN-03-10",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Casa sua?",
+  "car": 9
+ },
+ {
+  "id": "VOX-03-13",
+  "scena": "SCN-03-10",
+  "chi": "NINA",
+  "lingua": "it",
+  "testo": "E questa cos'è? Un topo?",
+  "car": 24
+ },
+ {
+  "id": "VOX-03-14",
+  "scena": "SCN-03-10",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Un topo! Io sono il domovoj di questa famiglia! Da duecento anni! Ho protetto sette generazioni di Ivanov, ho scaldato le loro stufe, ho intrecciato le criniere dei loro cavalli...",
+  "car": 180
+ },
+ {
+  "id": "VOX-03-15",
+  "scena": "SCN-03-10",
+  "chi": "TINA",
+  "lingua": "it",
+  "testo": "Qui non ci sono cavalli.",
+  "car": 24
+ },
+ {
+  "id": "VOX-03-16",
+  "scena": "SCN-03-10",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "...e adesso sono qui, e questa è la mia casa!",
+  "car": 45
+ },
+ {
+  "id": "VOX-03-17",
+  "scena": "SCN-03-10",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Ah no, caro mio. Questa casa è nostra. Noi siamo le Donne di Fora. Veniamo in questa casa il martedì, il giovedì e il sabato, da quando c'erano i nonni dei nonni di Salvatore Russo. Noi portiamo la fortuna in questa casa, se la tengono bene. E la sfortuna, se non la tengono bene. Nessuno ci ha detto niente di una bestia forestiera dietro il frigorifero.",
+  "car": 355
+ },
+ {
+  "id": "VOX-03-18",
+  "scena": "SCN-03-10",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Bestia! Bestia a me! Gallinelle! Gallinelle con il pizzo!",
+  "car": 57
+ },
+ {
+  "id": "VOX-03-19",
+  "scena": "SCN-03-10",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Fuori. Fuori da questa casa.",
+  "car": 28
+ },
+ {
+  "id": "VOX-03-20",
+  "scena": "SCN-03-10",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Fuori voi!",
+  "car": 10
+ },
+ {
+  "id": "VOX-03-21",
+  "scena": "SCN-03-11",
+  "chi": "TINA",
+  "lingua": "it",
+  "testo": "Lei ci vede.",
+  "car": 12
+ },
+ {
+  "id": "VOX-03-22",
+  "scena": "SCN-03-11",
+  "chi": "NINA",
+  "lingua": "it",
+  "testo": "Impossibile.",
+  "car": 12
+ },
+ {
+  "id": "VOX-03-23",
+  "scena": "SCN-03-11",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Ci vede. Lo sapevo. Lo dicevo io. Quella mi vede dal primo giorno.",
+  "car": 66
+ },
+ {
+  "id": "VOX-03-24",
+  "scena": "SCN-03-11",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Vera Russo. Figlia di Salvatore. Vieni qui.",
+  "car": 43
+ },
+ {
+  "id": "VOX-04-01",
+  "scena": "SCN-04-01",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Noi siamo le signore che entrano nelle case di notte, dal buco della serratura. Se troviamo la casa in ordine, i letti fatti e le lenzuola pulite, portiamo fortuna. Se no, no. Un tempo eravamo tante, in tutta la Sicilia. Adesso siamo poche: la gente non ci crede più e chiude le porte con le chiavi moderne, quelle senza buco. Noi tre veniamo in casa Russo da più di cent'anni.",
+  "car": 377
+ },
+ {
+  "id": "VOX-04-02",
+  "scena": "SCN-04-01",
+  "chi": "NINA",
+  "lingua": "it",
+  "testo": "Nella scarpa.",
+  "car": 13
+ },
+ {
+  "id": "VOX-04-03",
+  "scena": "SCN-04-01",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "È la tradizione! Il domovoj si porta nel lapot'! Lo sanno tutti! Che ignoranza!",
+  "car": 79
+ },
+ {
+  "id": "VOX-04-04",
+  "scena": "SCN-04-01",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Qui nessuno porta niente nelle scarpe. Qui nelle scarpe si mettono i piedi.",
+  "car": 75
+ },
+ {
+  "id": "VOX-04-05",
+  "scena": "SCN-04-02",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Dov'è la mia moka?",
+  "car": 18
+ },
+ {
+  "id": "VOX-04-06",
+  "scena": "SCN-04-02",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Io non tocco le cose degli altri.",
+  "car": 33
+ },
+ {
+  "id": "VOX-04-07",
+  "scena": "SCN-04-02",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Ah.",
+  "car": 3
+ },
+ {
+  "id": "VOX-04-08",
+  "scena": "SCN-04-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Gallinelle. Adesso vediamo.",
+  "car": 27
+ },
+ {
+  "id": "VOX-04-09",
+  "scena": "SCN-04-04",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Не испортился. Кто-то его испортил.",
+  "car": 35
+ },
+ {
+  "id": "VOX-04-10",
+  "scena": "SCN-04-05",
+  "chi": "NINA",
+  "lingua": "it",
+  "testo": "Lasciate fare a me. Gli faccio cagliare il latte, a quel topo, e alla sua padrona.",
+  "car": 82
+ },
+ {
+  "id": "VOX-04-11",
+  "scena": "SCN-04-11",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Il signore dice che sono state le signore",
+  "car": 41
+ },
+ {
+  "id": "VOX-04-12",
+  "scena": "SCN-04-11",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Quello piccolo. Quello che brontola. Lo sento la notte. Dice che le signore sono cattive e che gli hanno detto topo.",
+  "car": 116
+ },
+ {
+  "id": "VOX-04-13",
+  "scena": "SCN-04-11",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "Mattia con chi parli tu, la notte?",
+  "car": 34
+ },
+ {
+  "id": "VOX-04-14",
+  "scena": "SCN-04-11",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Con nessuno",
+  "car": 11
+ },
+ {
+  "id": "VOX-04-15",
+  "scena": "SCN-04-11",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "E allora cosa sarebbe successo?",
+  "car": 31
+ },
+ {
+  "id": "VOX-05-01",
+  "scena": "SCN-05-03",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Signore mie, la casa è pulita, i letti sono fatti. Se volete passare, siete le benvenute.",
+  "car": 89
+ },
+ {
+  "id": "VOX-05-02",
+  "scena": "SCN-05-03",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "E se passate anche da mio figlio, fatemi la cortesia di lasciare in pace la vecchia russa. Non è cattiva. È solo forestiera.",
+  "car": 124
+ },
+ {
+  "id": "VOX-05-03",
+  "scena": "SCN-05-04",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Фома. Фомушка. Я знаю, что ты сердишься. Я знаю, что тебе не нравится. Печки нет, жарко, тут эти дамы. Но надо потерпеть. Мы в гостях. В чужом доме не озорничают. Понял? Оставь в покое кофеварку синьоры Кончетты. Она хорошая женщина. Просто… сицилийка.",
+  "car": 252
+ },
+ {
+  "id": "VOX-05-04",
+  "scena": "SCN-05-04",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Знаю. Знаю. Я тоже скучаю по дому.",
+  "car": 34
+ },
+ {
+  "id": "VOX-05-05",
+  "scena": "SCN-05-06",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Alle fate? Che domande. Le fate sono nelle favole.",
+  "car": 50
+ },
+ {
+  "id": "VOX-05-06",
+  "scena": "SCN-05-06",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Veročka Sono una donna vecchia. Ho visto la guerra fredda, la perestrojka e i telefoni con le foto. Non credo a niente.",
+  "car": 119
+ },
+ {
+  "id": "VOX-05-07",
+  "scena": "SCN-05-06",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Mentivano tutte e due. E lo sapevano tutte e due.",
+  "car": 49
+ },
+ {
+  "id": "VOX-06-01",
+  "scena": "SCN-06-02",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Сегодня Покров.",
+  "car": 15
+ },
+ {
+  "id": "VOX-06-02",
+  "scena": "SCN-06-02",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Покров значит… покрывало. Плащ. То, что укрывает и защищает. Это праздник Богородицы. Рассказывают, что однажды, давным-давно, в Константинополе люди боялись, шла война, и Богородица явилась в церкви и простёрла свой покров над всеми, чтобы их защитить. С тех пор четырнадцатого октября в России празднуют.",
+  "car": 306
+ },
+ {
+  "id": "VOX-06-03",
+  "scena": "SCN-06-02",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Более-менее. Но у нас Покров — это ещё и другое. В деревне у моей бабушки говорили, что Покров — это день, когда зима покрывает землю. Первым снегом. Первой белизной. И девушки говорили: Батюшка Покров, покрой землю снежком, а меня женишком.",
+  "car": 241
+ },
+ {
+  "id": "VOX-06-04",
+  "scena": "SCN-06-02",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Часто. Не всегда. Но четырнадцатого октября это уже чувствовалось. Воздух становился тонким, холодным, пах железом. Листья на берёзах все жёлтые, и падали. Первый раз затапливали печку. Окна заклеивали бумагой, чтобы не дуло. Доставали валенки. И дом… дом становился маленьким и тёплым, и все были рядом.",
+  "car": 304
+ },
+ {
+  "id": "VOX-06-05",
+  "scena": "SCN-06-02",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Коля всегда топил печку на Покров. Всегда. Даже когда у нас в городе появились батареи, он купил чугунную печурку, вот такую маленькую, и четырнадцатого октября её затапливал. Говорил, что это для домового. А я ему говорила, что он старый дурак.",
+  "car": 245
+ },
+ {
+  "id": "VOX-06-06",
+  "scena": "SCN-06-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Tu! Sempre tu. Non dormi mai, tu?",
+  "car": 33
+ },
+ {
+  "id": "VOX-06-07",
+  "scena": "SCN-06-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Lo so che giorno era. Credi che non lo sappia? Duecento anni, Pokrov dopo Pokrov. La stufa accesa. Il primo fuoco. Io mi mettevo dietro, nell'angolo caldo, e sentivo il legno che scoppiettava, e la famiglia che mangiava le frittelle, e fuori la neve. Kolja la accendeva per me, la stufetta. Lo sapevi? Lo diceva a tua nonna che era per il domovoj, e lei rideva. Ma era vero. La accendeva per me.",
+  "car": 395
+ },
+ {
+  "id": "VOX-06-08",
+  "scena": "SCN-06-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Quest'anno niente stufa. Niente neve. Niente Kolja.",
+  "car": 51
+ },
+ {
+  "id": "VOX-06-09",
+  "scena": "SCN-06-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Il domovoj non ha nostalgia Il domovoj sta dove sta la famiglia. È la regola. Ma la famiglia è lì, e la casa era là. E adesso io non so più dove sto.",
+  "car": 149
+ },
+ {
+  "id": "VOX-06-10",
+  "scena": "SCN-06-04",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Brava. Brava, Veročka.",
+  "car": 22
+ },
+ {
+  "id": "VOX-06-11",
+  "scena": "SCN-06-05",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Fuori, sul cortile, il limone si mosse appena, anche se non c'era vento. E dal buco della serratura dell'ingresso, mi sembrò, per un attimo, di vedere uscire un filo di nebbia bianca, che guardava dentro, e poi si ritirava.",
+  "car": 223
+ },
+ {
+  "id": "VOX-07-01",
+  "scena": "SCN-07-05",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Sta morendo Questo limone l'ha piantato il nonno di tuo nonno, Vera. Non si è mai ammalato. Mai. Nemmeno con la siccità del Novantadue.",
+  "car": 135
+ },
+ {
+  "id": "VOX-07-02",
+  "scena": "SCN-07-07",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "...non ho detto questo, Irina Ho detto solo che dobbiamo parlarne.",
+  "car": 66
+ },
+ {
+  "id": "VOX-07-03",
+  "scena": "SCN-07-07",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "Non ho detto di mandarla via. Ho detto che la casa è piccola. Che io lavoro sul tavolo della cucina. Che i ragazzi sono nervosi. Che tua madre e mia madre non si possono vedere...",
+  "car": 179
+ },
+ {
+  "id": "VOX-07-04",
+  "scena": "SCN-07-07",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "Ah, ecco. Adesso è colpa di mia madre.",
+  "car": 38
+ },
+ {
+  "id": "VOX-07-05",
+  "scena": "SCN-07-07",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "Parlarne di cosa? Di mandarla via? Mia madre è sola, Salvo. Sola. In un appartamento al quarto piano, senza ascensore, a settantaquattro anni, con il ginocchio che non va. Dove deve andare?",
+  "car": 189
+ },
+ {
+  "id": "VOX-07-06",
+  "scena": "SCN-07-07",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "Tua madre non può vedere mia madre.",
+  "car": 35
+ },
+ {
+  "id": "VOX-07-07",
+  "scena": "SCN-07-07",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "Avevi detto solo per un po'. Va bene. Ma un po' quanto, Salvo? Dimmelo tu. Quanto?",
+  "car": 82
+ },
+ {
+  "id": "VOX-07-08",
+  "scena": "SCN-07-07",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "L'hai detto.",
+  "car": 12
+ },
+ {
+  "id": "VOX-07-09",
+  "scena": "SCN-07-07",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "L'hai detto.",
+  "car": 12
+ },
+ {
+  "id": "VOX-07-10",
+  "scena": "SCN-07-08",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Hai sentito?",
+  "car": 12
+ },
+ {
+  "id": "VOX-07-11",
+  "scena": "SCN-07-08",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "È tutto da quando è arrivata lei Tutto. La casa che si rompe. Mamma e papà che litigano. Le nonne che si odiano. Era tutto normale, prima.",
+  "car": 138
+ },
+ {
+  "id": "VOX-07-12",
+  "scena": "SCN-07-08",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "E di chi è?",
+  "car": 11
+ },
+ {
+  "id": "VOX-07-13",
+  "scena": "SCN-07-09",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "E io rimasi lì, al buio, divisa in due, e non sapevo più quale delle due metà fossi io.",
+  "car": 87
+ },
+ {
+  "id": "VOX-08-01",
+  "scena": "SCN-08-02",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "E questo cos'è?",
+  "car": 15
+ },
+ {
+  "id": "VOX-08-02",
+  "scena": "SCN-08-02",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Con chi?",
+  "car": 8
+ },
+ {
+  "id": "VOX-08-03",
+  "scena": "SCN-08-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Io non faccio la pace con le gallinelle.",
+  "car": 40
+ },
+ {
+  "id": "VOX-08-04",
+  "scena": "SCN-08-04",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Io voglio che le cose stiano come sono sempre state. Questa è una casa siciliana. È la casa dei Russo da centocinquant'anni. Noi la proteggiamo da quando era un pagliaio con il tetto di canne. Abbiamo visto nascere il nonno di Salvatore, e il padre di Salvatore, e Salvatore, e te. Noi sappiamo come si tiene questa casa. Questo... signore... arriva in una scarpa, dalla Russia, senza chiedere permesso a nessuno, si mette dietro il frigorifero e dice che la casa è sua. Voglio che se ne vada.",
+  "car": 493
+ },
+ {
+  "id": "VOX-08-05",
+  "scena": "SCN-08-04",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "E io voglio che loro se ne vadano! Io sono il domovoj della famiglia di Galina Petrovna. Della famiglia Ivanov. La figlia di Galina Petrovna vive in questa casa. I figli della figlia vivono in questa casa. Quindi questa è la mia famiglia, e io devo proteggerla. È la regola! Il domovoj sta dove sta la famiglia! E voi chi siete? Venite tre notti a settimana, guardate se c'è la polvere e ve ne andate. Che protezione è? Io ci sto sempre. Giorno e notte. Dietro il frigo.",
+  "car": 470
+ },
+ {
+  "id": "VOX-08-06",
+  "scena": "SCN-08-06",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "BASTA! Basta, basta, basta! Voi due, voi tre, sempre a dire mia, nostra, siciliana, russa! E io? Io cosa sono? Mia mamma è russa e mio papà è siciliano! Io ho una nonna che fa gli arancini e una nonna che fa i pirožki! Io parlo russo con la babuška e siciliano con la nonna Concetta! Io sono metà e metà! Quindi di chi sono io, eh? Vostra? O sua? Ditemelo! Di chi sono?",
+  "car": 369
+ },
+ {
+  "id": "VOX-08-07",
+  "scena": "SCN-08-07",
+  "chi": "TINA",
+  "lingua": "it",
+  "testo": "È vero. Lei è tutte e due le cose. Per questo ci vede. Ci vede tutti.",
+  "car": 69
+ },
+ {
+  "id": "VOX-08-08",
+  "scena": "SCN-08-07",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "La bambina è di tutti e due, va bene. Ma tu, vecchio, qui non sei di casa. Non lo sarai mai. Questa terra non è la tua. Il sole non è il tuo, il mare non è il tuo, i santi non sono i tuoi. Qui sei forestiero. E i forestieri, prima o poi, se ne vanno.",
+  "car": 250
+ },
+ {
+  "id": "VOX-08-09",
+  "scena": "SCN-08-08",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Solo silenzio.",
+  "car": 14
+ },
+ {
+  "id": "VOX-09-01",
+  "scena": "SCN-09-03",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Я в порядке, Верочка. Мне просто немного холодно.",
+  "car": 49
+ },
+ {
+  "id": "VOX-09-02",
+  "scena": "SCN-09-03",
+  "chi": "DOTTORE",
+  "lingua": "it",
+  "testo": "Niente di grave Ma è stanca, la signora. Stanca dentro. Succede, a quell'età, quando si cambia paese.",
+  "car": 101
+ },
+ {
+  "id": "VOX-09-03",
+  "scena": "SCN-09-04",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "È colpa mia L'ho portata qui. L'ho tolta da casa sua. A settantaquattro anni.",
+  "car": 77
+ },
+ {
+  "id": "VOX-09-04",
+  "scena": "SCN-09-04",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "E allora di chi è?",
+  "car": 18
+ },
+ {
+  "id": "VOX-09-05",
+  "scena": "SCN-09-05",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Коля… Коля… Малая Посадская… печка…",
+  "car": 35
+ },
+ {
+  "id": "VOX-09-06",
+  "scena": "SCN-09-05",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Верочка. Лапоть. Он на месте?",
+  "car": 29
+ },
+ {
+  "id": "VOX-09-07",
+  "scena": "SCN-09-07",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Vera Lo cerchi, il signore piccolo?",
+  "car": 35
+ },
+ {
+  "id": "VOX-09-08",
+  "scena": "SCN-09-07",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "No Però so da che parte è andato.",
+  "car": 33
+ },
+ {
+  "id": "VOX-10-01",
+  "scena": "SCN-10-01",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Farina",
+  "car": 6
+ },
+ {
+  "id": "VOX-10-02",
+  "scena": "SCN-10-01",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Il signore piccolo ha sempre la farina sui piedi. Perché dorme dietro il frigo, e il frigo è vicino al sacco della farina della babuška. Io lo sento camminare la notte, e la mattina ci sono i puntini bianchi per terra. La mamma pensa che sono io che rovescio la farina. Mi sgrida. Ma non sono io.",
+  "car": 296
+ },
+ {
+  "id": "VOX-10-03",
+  "scena": "SCN-10-04",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Il signore piccolo è stanco Ha le gambe corte. Le scale sono lunghe.",
+  "car": 68
+ },
+ {
+  "id": "VOX-10-04",
+  "scena": "SCN-10-05",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Vera Il signore piccolo torna?",
+  "car": 30
+ },
+ {
+  "id": "VOX-10-05",
+  "scena": "SCN-10-05",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Se non torna, la babuška guarisce lo stesso?",
+  "car": 44
+ },
+ {
+  "id": "VOX-10-06",
+  "scena": "SCN-10-05",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Io voglio che torna Mi piace sentirlo russare.",
+  "car": 46
+ },
+ {
+  "id": "VOX-10-07",
+  "scena": "SCN-10-06",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "C'è odore di pane nero.",
+  "car": 23
+ },
+ {
+  "id": "VOX-10-08",
+  "scena": "SCN-10-06",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "È lì Il signore piccolo vuole prendere il treno.",
+  "car": 48
+ },
+ {
+  "id": "VOX-10-09",
+  "scena": "SCN-10-07",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Vera! Mattia! Fermi lì!",
+  "car": 23
+ },
+ {
+  "id": "VOX-10-10",
+  "scena": "SCN-10-07",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Che cavolo state facendo? La mamma vi crede alla Villa! Vi ho visti dalla finestra mentre attraversavate il Corso e vi ho seguiti fin qui! In funivia! Da soli! Con un bambino di sei anni! Siete matti?",
+  "car": 200
+ },
+ {
+  "id": "VOX-10-11",
+  "scena": "SCN-10-07",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Niente Giulia. Adesso torniamo a casa. Subito.",
+  "car": 46
+ },
+ {
+  "id": "VOX-10-12",
+  "scena": "SCN-10-07",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Alla stazione? Per andare dove?",
+  "car": 31
+ },
+ {
+  "id": "VOX-10-13",
+  "scena": "SCN-10-07",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Voi due siete completamente pazzi.",
+  "car": 34
+ },
+ {
+  "id": "VOX-10-14",
+  "scena": "SCN-10-07",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Dobbiamo trovare il domovoj della babuška Si chiama Fomà. È scappato giovedì notte perché le Donne di Fora gli hanno detto che qui non è di casa. Senza di lui la casa si ammala, e la babuška si ammala, e mamma e papà litigano. Se non lo riportiamo indietro, va tutto a pezzi.",
+  "car": 275
+ },
+ {
+  "id": "VOX-10-15",
+  "scena": "SCN-10-07",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Ma non mi lasciò il braccio per tornare a casa. Me lo lasciò e basta. E quando io e Mattia cominciammo a scendere verso la stazione, sentii i suoi passi dietro di noi, arrabbiati, ma che venivano.",
+  "car": 196
+ },
+ {
+  "id": "VOX-11-01",
+  "scena": "SCN-11-02",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Dove?",
+  "car": 5
+ },
+ {
+  "id": "VOX-11-02",
+  "scena": "SCN-11-02",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Vera, lì non c'è niente. C'è una scarpa vecchia.",
+  "car": 48
+ },
+ {
+  "id": "VOX-11-03",
+  "scena": "SCN-11-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Vattene Sto aspettando il treno.",
+  "car": 32
+ },
+ {
+  "id": "VOX-11-04",
+  "scena": "SCN-11-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Il treno per la Russia.",
+  "car": 23
+ },
+ {
+  "id": "VOX-11-05",
+  "scena": "SCN-11-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Il domovoj ha tempo. Il domovoj è vecchio. Ho fatto la strada dalla Russia alla Sicilia nella pancia di un aereo, dentro una scarpa, dentro una borsa, tra le calze di tua nonna. Posso fare la strada al contrario.",
+  "car": 212
+ },
+ {
+  "id": "VOX-11-06",
+  "scena": "SCN-11-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Lei ha ragione La signora con il ventaglio. Qui non sono di casa. Il sole è troppo forte. Il mare è troppo blu. Non c'è la neve, non c'è la stufa, non ci sono le betulle. Le persone parlano con le mani. Mangiano le arance a gennaio. Io qui non c'entro niente. Sono un forestiero.",
+  "car": 279
+ },
+ {
+  "id": "VOX-11-07",
+  "scena": "SCN-11-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Tu cosa?",
+  "car": 8
+ },
+ {
+  "id": "VOX-11-08",
+  "scena": "SCN-11-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "E allora come fai?",
+  "car": 18
+ },
+ {
+  "id": "VOX-11-09",
+  "scena": "SCN-11-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "La babuška sta male?",
+  "car": 20
+ },
+ {
+  "id": "VOX-11-10",
+  "scena": "SCN-11-03",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Vecchio scemo Vecchio domovoj scemo e permaloso.",
+  "car": 48
+ },
+ {
+  "id": "VOX-11-11",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Ciao, Fomà.",
+  "car": 11
+ },
+ {
+  "id": "VOX-11-12",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Quale treno?",
+  "car": 12
+ },
+ {
+  "id": "VOX-11-13",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "È lunga, Fomà Tanto lunga.",
+  "car": 26
+ },
+ {
+  "id": "VOX-11-14",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "E dove vai? Il dedushka Kolja non c'è più. L'appartamento è vuoto. La babuška è qui.",
+  "car": 84
+ },
+ {
+  "id": "VOX-11-15",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "E allora io?",
+  "car": 12
+ },
+ {
+  "id": "VOX-11-16",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Io sono metà forestiera Qui, sono la figlia della russa. In Russia, quando ci vado d'estate, sono l'italiana. I bambini del cortile della babuška mi chiamavano ital'janočka, la piccola italiana, e non mi facevano giocare a nascondino perché dicevano che io non sapevo le regole. E a scuola qui, quando la maestra ha fatto l'appello il primo giorno di prima elementare, ha detto «Vera Russo» e tutti hanno riso, perché mia mamma era venuta a prendermi e parlava con l'accento.",
+  "car": 475
+ },
+ {
+  "id": "VOX-11-17",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Io sono sempre un po' forestiera, Fomà. Da tutte e due le parti. Sempre.",
+  "car": 72
+ },
+ {
+  "id": "VOX-11-18",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Non lo so bene Ma penso che una casa non sia un posto. Non è la Russia, non è la Sicilia. Non è la stufa e non è il frigorifero. Una casa sono le persone che ci stanno dentro. La babuška è qui. La mamma è qui. Io sono qui. Mattia è qui, e ti sente russare la notte, e vuole che torni, me l'ha detto in funivia. Anche Giulia è qui, anche se non ti vede e pensa che sono pazza. Sei tu che l'hai detto: il domovoj sta dove sta la famiglia. La tua famiglia non è sul treno delle 17:42. È lassù.",
+  "car": 490
+ },
+ {
+  "id": "VOX-11-19",
+  "scena": "SCN-11-03",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Ha la febbre. Da quando te ne sei andato.",
+  "car": 41
+ },
+ {
+  "id": "VOX-11-20",
+  "scena": "SCN-11-04",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Torno Ma a una condizione. Anzi, a due.",
+  "car": 39
+ },
+ {
+  "id": "VOX-11-21",
+  "scena": "SCN-11-04",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "La prima: mi dovete invitare. Per bene. Come si fa. Non si porta via un domovoj da una stazione come un sacco di patate. Bisogna chiamarlo con le parole giuste.",
+  "car": 160
+ },
+ {
+  "id": "VOX-11-22",
+  "scena": "SCN-11-04",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "La seconda è che le signore. Quelle tre. Devono chiedermelo anche loro. Devono dire che posso restare. Altrimenti è inutile. Una casa con due padroni che si odiano è una casa malata. L'hai vista anche tu.",
+  "car": 204
+ },
+ {
+  "id": "VOX-11-23",
+  "scena": "SCN-11-04",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Va bene Ci provo.",
+  "car": 17
+ },
+ {
+  "id": "VOX-11-24",
+  "scena": "SCN-11-05",
+  "chi": "VERA",
+  "lingua": "ru",
+  "testo": "Дедушка, дедушка, пойдём с нами. Пойдём домой.",
+  "car": 46
+ },
+ {
+  "id": "VOX-11-25",
+  "scena": "SCN-11-05",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Andiamo. Ho fame.",
+  "car": 17
+ },
+ {
+  "id": "VOX-11-26",
+  "scena": "SCN-11-06",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "È lì dentro?",
+  "car": 12
+ },
+ {
+  "id": "VOX-11-27",
+  "scena": "SCN-11-06",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Ciao, signore piccolo! Bentornato!",
+  "car": 34
+ },
+ {
+  "id": "VOX-11-28",
+  "scena": "SCN-11-06",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Sì, sì. Ciao. Non soffiarmi in faccia.",
+  "car": 38
+ },
+ {
+  "id": "VOX-11-29",
+  "scena": "SCN-11-06",
+  "chi": "GIULIA",
+  "lingua": "it",
+  "testo": "Niente Andiamo. È tardi. La mamma ci ammazza.",
+  "car": 45
+ },
+ {
+  "id": "VOX-11-30",
+  "scena": "SCN-11-06",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Molto tempo dopo, mesi dopo, Giulia mi confessò che in quel momento, sulla banchina della stazione, mentre Mattia salutava la scarpa, aveva sentito una vocina. Una vocina da vecchio, piccola, impastata, che diceva:",
+  "car": 214
+ },
+ {
+  "id": "VOX-11-31",
+  "scena": "SCN-11-06",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Grazie, ragazze.",
+  "car": 16
+ },
+ {
+  "id": "VOX-11-32",
+  "scena": "SCN-11-07",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Ma non lasciò mai la mia mano. Neanche una volta.",
+  "car": 49
+ },
+ {
+  "id": "VOX-12-01",
+  "scena": "SCN-12-04",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Da fuori Da Catania.",
+  "car": 20
+ },
+ {
+  "id": "VOX-12-02",
+  "scena": "SCN-12-04",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "E allora? È fuori. Non è di qua.",
+  "car": 32
+ },
+ {
+  "id": "VOX-12-03",
+  "scena": "SCN-12-04",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Un po' sì Non tanto. Ma un po'.",
+  "car": 31
+ },
+ {
+  "id": "VOX-12-04",
+  "scena": "SCN-12-04",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "Da fuori dove?",
+  "car": 14
+ },
+ {
+  "id": "VOX-12-05",
+  "scena": "SCN-12-06",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "È tornato Lo sento. Puzza di pane nero da qui.",
+  "car": 46
+ },
+ {
+  "id": "VOX-12-06",
+  "scena": "SCN-12-06",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "L'hai riportato tu.",
+  "car": 19
+ },
+ {
+  "id": "VOX-12-07",
+  "scena": "SCN-12-06",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Allora hai deciso da che parte stare.",
+  "car": 37
+ },
+ {
+  "id": "VOX-12-08",
+  "scena": "SCN-12-06",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Falla",
+  "car": 5
+ },
+ {
+  "id": "VOX-12-09",
+  "scena": "SCN-12-06",
+  "chi": "NINA",
+  "lingua": "it",
+  "testo": "Che domanda è?",
+  "car": 14
+ },
+ {
+  "id": "VOX-12-10",
+  "scena": "SCN-12-06",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "No Non ho deciso niente. Ho una domanda. Una sola. Posso farla?",
+  "car": 63
+ },
+ {
+  "id": "VOX-12-11",
+  "scena": "SCN-12-06",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Perché vi chiamate Donne di Fora?",
+  "car": 33
+ },
+ {
+  "id": "VOX-12-12",
+  "scena": "SCN-12-06",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "È una domanda vera. Fora vuol dire fuori. In siciliano. Lo dice anche la nonna Concetta: quelli di fora sono quelli che vengono da fuori. Da un altro posto. I forestieri. Voi vi chiamate Donne di fuori. Perché?",
+  "car": 210
+ },
+ {
+  "id": "VOX-12-13",
+  "scena": "SCN-12-07",
+  "chi": "NINA",
+  "lingua": "it",
+  "testo": "Perché entriamo da fuori Dal buco della serratura. Veniamo da fuori della casa. È ovvio.",
+  "car": 88
+ },
+ {
+  "id": "VOX-12-14",
+  "scena": "SCN-12-07",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Può darsi Ma prima? Prima di entrare dal buco della serratura? Da dove venivate? Siete sempre state qui? Siete nate in questa casa?",
+  "car": 131
+ },
+ {
+  "id": "VOX-12-15",
+  "scena": "SCN-12-07",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Ma è vera?",
+  "car": 10
+ },
+ {
+  "id": "VOX-12-16",
+  "scena": "SCN-12-07",
+  "chi": "TINA",
+  "lingua": "it",
+  "testo": "No Non siamo nate qui. Nessuna di noi.",
+  "car": 38
+ },
+ {
+  "id": "VOX-12-17",
+  "scena": "SCN-12-07",
+  "chi": "TINA",
+  "lingua": "it",
+  "testo": "È vero, Donna Rosalia. Lo sapete anche voi. Io non me lo ricordo bene. È passato tanto tempo. Ma mi ricordo che una volta, all'inizio, eravamo noi quelle che arrivavano. Bussavamo alle case, di notte, e la gente aveva paura, e chiudeva le porte. Ci chiamavano quelle di fuori, e non era un complimento. Era come dire: le estranee. Quelle che non sono di qua. E poi una signora, una sola, in un paese, una notte, ci lasciò la porta aperta. Ci mise il pane sul tavolo e i letti puliti. E noi entrammo, e le portammo fortuna. E da quella volta... Da quella volta siamo diventate di casa. Ma il nome è rimasto. Donne di fuori.",
+  "car": 622
+ },
+ {
+  "id": "VOX-12-18",
+  "scena": "SCN-12-07",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Tina",
+  "car": 4
+ },
+ {
+  "id": "VOX-12-19",
+  "scena": "SCN-12-07",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "È una storia vecchia",
+  "car": 20
+ },
+ {
+  "id": "VOX-12-20",
+  "scena": "SCN-12-07",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "È vera Anche noi, una volta, eravamo forestiere.",
+  "car": 48
+ },
+ {
+  "id": "VOX-12-21",
+  "scena": "SCN-12-08",
+  "chi": "VERA",
+  "lingua": "it",
+  "testo": "Fomà ha detto che resta solo se glielo chiedete voi. Se gli dite che può stare. Non ve lo chiede perché è orgoglioso. È orgoglioso come voi. Ma se non glielo dite, la casa resta malata. E la babuška resta malata. E mamma e papà continuano a litigare. E io... io resto divisa a metà. Per sempre.",
+  "car": 294
+ },
+ {
+  "id": "VOX-12-22",
+  "scena": "SCN-12-08",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Hai pulito tu?",
+  "car": 14
+ },
+ {
+  "id": "VOX-12-23",
+  "scena": "SCN-12-08",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Anche le scale?",
+  "car": 15
+ },
+ {
+  "id": "VOX-12-24",
+  "scena": "SCN-12-08",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Una Russo che pulisce le scale di notte per tre vecchie e un topo con la barba Questo non si era mai visto in centocinquant'anni.",
+  "car": 129
+ },
+ {
+  "id": "VOX-12-25",
+  "scena": "SCN-12-08",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Va bene Gli parleremo. Sabato. La notte dei Morti. Quando tutta la casa è sveglia e la porta è aperta per tutti, vivi e morti, di qua e di fuori. Ma a una condizione.",
+  "car": 166
+ },
+ {
+  "id": "VOX-12-26",
+  "scena": "SCN-12-08",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Che la casa sia in ordine il martedì, il giovedì e il sabato. Sempre. Da adesso in poi. Le lenzuola stese dritte, con le mollette uguali. E niente briciole di pane nero sotto i letti.",
+  "car": 183
+ },
+ {
+  "id": "VOX-12-27",
+  "scena": "SCN-12-08",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Io sorrisi così tanto che mi fecero male le guance.",
+  "car": 51
+ },
+ {
+  "id": "VOX-13-01",
+  "scena": "SCN-13-01",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "In Sicilia, la notte tra il primo e il due novembre, i morti tornano a casa. Non per fare paura. Per portare i regali ai bambini.",
+  "car": 129
+ },
+ {
+  "id": "VOX-13-02",
+  "scena": "SCN-13-03",
+  "chi": "IRINA",
+  "lingua": "ru",
+  "testo": "Что ты делаешь, мама? Тебе нужно отдыхать.",
+  "car": 42
+ },
+ {
+  "id": "VOX-13-03",
+  "scena": "SCN-13-03",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Пеку хлеб.",
+  "car": 10
+ },
+ {
+  "id": "VOX-13-04",
+  "scena": "SCN-13-03",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "В России в ноябре — родительская суббота. Пекут хлеб, идут на кладбище, оставляют хлеб на могиле. Чтобы помнить. В этом году Коля далеко. Хлеб я ему здесь оставлю.",
+  "car": 163
+ },
+ {
+  "id": "VOX-13-05",
+  "scena": "SCN-13-05",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Anche lei?",
+  "car": 10
+ },
+ {
+  "id": "VOX-13-06",
+  "scena": "SCN-13-05",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Da quanto tempo lo sa?",
+  "car": 22
+ },
+ {
+  "id": "VOX-13-07",
+  "scena": "SCN-13-05",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Da sempre. Mia suocera mi ha insegnato il rosmarino. Il martedì, il giovedì e il sabato. E perché non me l'ha detto?",
+  "car": 116
+ },
+ {
+  "id": "VOX-13-08",
+  "scena": "SCN-13-05",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Perché pensavo che lei mi avrebbe presa per matta.",
+  "car": 50
+ },
+ {
+  "id": "VOX-13-09",
+  "scena": "SCN-13-05",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Anche lei?",
+  "car": 10
+ },
+ {
+  "id": "VOX-13-10",
+  "scena": "SCN-13-05",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Da sempre Mia nonna mi ha insegnato a dargli il latte. E lei?",
+  "car": 61
+ },
+ {
+  "id": "VOX-13-11",
+  "scena": "SCN-13-05",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Perché pensavo che lei mi avrebbe presa per matta. E lei, perché non me l'ha detto?",
+  "car": 83
+ },
+ {
+  "id": "VOX-13-13",
+  "scena": "SCN-13-06",
+  "chi": "ROSALIA",
+  "lingua": "it",
+  "testo": "Signor domovoj Stanotte è la notte dei Morti. Stanotte la porta di questa casa è aperta per tutti: per i vivi e per i morti, per quelli di qua e per quelli di fuori. Anche noi, una volta, eravamo di fuori. Ce l'ha ricordato la bambina. Questa casa è grande abbastanza. Se volete restare, restate.",
+  "car": 296
+ },
+ {
+  "id": "VOX-13-14",
+  "scena": "SCN-13-06",
+  "chi": "FOMÀ",
+  "lingua": "it",
+  "testo": "Grazie Signora.",
+  "car": 15
+ },
+ {
+  "id": "VOX-13-15",
+  "scena": "SCN-13-09",
+  "chi": "CONCETTA",
+  "lingua": "it",
+  "testo": "Questo è di Turi. Ci cuciva le vele della barca, da giovane, prima di aprire il bar. L'ho perso trent'anni fa.",
+  "car": 110
+ },
+ {
+  "id": "VOX-13-16",
+  "scena": "SCN-13-09",
+  "chi": "BABUŠKA",
+  "lingua": "ru",
+  "testo": "Это Колина. Он сам вырезал, мальчишкой, в деревне. Лежала в ящике на кухне, в Петербурге. Я её не брала. Точно не брала.",
+  "car": 120
+ },
+ {
+  "id": "VOX-13-17",
+  "scena": "SCN-13-09",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Ci stava perfetto. Come se fossero stati fatti per stare insieme.",
+  "car": 65
+ },
+ {
+  "id": "VOX-14-01",
+  "scena": "SCN-14-02",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "Allora. Dobbiamo parlare di una cosa.",
+  "car": 37
+ },
+ {
+  "id": "VOX-14-02",
+  "scena": "SCN-14-02",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "Per l'inverno In Russia l'inverno è lungo, e il suo appartamento ha quattro piani di scale, e il ginocchio... insomma. Qui c'è il sole. E poi... E poi i pirožki al cavolo mi mancherebbero. Ecco. L'ho detto.",
+  "car": 206
+ },
+ {
+  "id": "VOX-14-03",
+  "scena": "SCN-14-02",
+  "chi": "SALVO",
+  "lingua": "it",
+  "testo": "Li faccio al bar. Tanto d'inverno c'è tempo. E poi abbiamo pensato di chiudere il pezzo di terrazzo sopra la cucina. Farci una stanza piccola. Con una finestra sul mare. Ci vorrà qualche mese. E se dopo l'inverno lei vuole tornare a San Pietroburgo, torna, e la stanza diventa il mio studio. E se no...",
+  "car": 302
+ },
+ {
+  "id": "VOX-14-04",
+  "scena": "SCN-14-02",
+  "chi": "IRINA",
+  "lingua": "it",
+  "testo": "Abbiamo pensato che la babuška resta con noi per l'inverno.",
+  "car": 59
+ },
+ {
+  "id": "VOX-14-05",
+  "scena": "SCN-14-02",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Per l'inverno?",
+  "car": 14
+ },
+ {
+  "id": "VOX-14-06",
+  "scena": "SCN-14-02",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "E lo studio? I tuoi conti, Salvatore?",
+  "car": 37
+ },
+ {
+  "id": "VOX-14-07",
+  "scena": "SCN-14-02",
+  "chi": "BABUŠKA",
+  "lingua": "it",
+  "testo": "Salvatore Sei un brav'uomo. Magro, ma bravo.",
+  "car": 44
+ },
+ {
+  "id": "VOX-14-08",
+  "scena": "SCN-14-03",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Adesso sapevo la risposta. Non c'era una metà. Non ero mezza russa e mezza siciliana, come una pizza con due gusti. Ero tutte e due le cose insieme, intere, mescolate, come la farina e l'acqua nel pane della babuška. E proprio per questo vedevo tutti. Proprio per questo potevo stare in mezzo.",
+  "car": 293
+ },
+ {
+  "id": "VOX-14-09",
+  "scena": "SCN-14-03",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Non ero divisa. Ero un ponte.",
+  "car": 29
+ },
+ {
+  "id": "VOX-14-10",
+  "scena": "SCN-14-04",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Vera Lo sai cosa voglio quest'anno?",
+  "car": 35
+ },
+ {
+  "id": "VOX-14-11",
+  "scena": "SCN-14-04",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Quest'anno non voglio la Befana. Voglio Ded Moroz. Quello russo. Il Nonno Gelo. La babuška dice che arriva a Capodanno con la slitta e i cavalli, e che porta i regali sotto l'albero, e che ha la nipote fatta di neve. La Befana è vecchia e brutta e porta il carbone. Io voglio Ded Moroz.",
+  "car": 286
+ },
+ {
+  "id": "VOX-14-12",
+  "scena": "SCN-14-04",
+  "chi": "MATTIA",
+  "lingua": "it",
+  "testo": "Ho già scritto la lettera. La babuška me la traduce in russo domani. Poi la mettiamo sulla finestra.",
+  "car": 100
+ },
+ {
+  "id": "VOX-14-13",
+  "scena": "SCN-14-05",
+  "chi": "OMBRA",
+  "lingua": "scn",
+  "testo": "Làida iu? Carbuni iu? E 'u Nannu Ielu, eh? 'U Nannu Ielu! Ora videmu.",
+  "car": 69
+ },
+ {
+  "id": "VOX-14-14",
+  "scena": "SCN-14-06",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "Dalla cucina, di sotto, sentii Fomà che russava. Dal buco della serratura, piano, entrava un filo di nebbia che sapeva di rosmarino. Era martedì.",
+  "car": 145
+ },
+ {
+  "id": "VOX-14-15",
+  "scena": "SCN-14-06",
+  "chi": "NARRATRICE",
+  "lingua": "it",
+  "testo": "E l’inverno stava arrivando.",
+  "car": 28
+ }
+]

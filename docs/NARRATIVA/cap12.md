@@ -44,7 +44,7 @@ Fomà torna dietro il frigo e mangia tutto, anche un pezzo di formaggio che non 
 ### SCN-12-04 — «Da fuori dove?» (dialogo a cena) · CP-12-B
 - **Beat**: B-12-03.
 - **Testo del libro**: [LIBRO §12.009–12.019] (Concetta porta il brodo di gallina per la babuška e resta a cena; parla con Irina di una signora della parrocchia, della nipote che si sposa, della cugina «che veniva da fuori»; «Da fuori dove?» «Da fuori. Da Catania.»; Vera alza la testa: «Nonna. Catania è a cinquanta chilometri.» «E allora? È fuori. Non è di qua.» «Quindi uno di Catania qui è forestiero?» Concetta ci pensa: «Un po' sì. Non tanto. Ma un po'.»; l'idea «come una lampadina in una cucina buia»; «Fuori.»).
-- Doppiato: CONCETTA §12.011, §12.013, §12.016 [VOX-12-01…03]; IRINA §12.010 [VOX-12-04].
+- Doppiato: CONCETTA §12.011, §12.014, §12.017 [VOX-12-01…03]; IRINA §12.010 [VOX-12-04].
 - **Regia**: alla parola «Fuori» la lampadina della cucina si accende più forte per un istante (effetto metaforico, solo per Vera: un lieve bloom); PEN-12-01 [LIBRO §12.018–12.019]: «E mi venne un'idea. Una piccola idea, che si accese nella testa come una lampadina in una cucina buia. Fuori.»
 - **Scelta**: dopo «Un po' sì. Non tanto. Ma un po'.» `*` (1) ringraziare la nonna con un bacio (rap_concetta +1; CONCETTA [NUOVO] «E questo per cosa?» VERA [NUOVO] «Per Catania.») · `*` (2) scrivere subito «FUORI» nel quaderno.
 - **Voce del quaderno**: IND-12-03 [NUOVO] «Nonna Concetta: una di Catania è "di fuori". Un po' forestiera. "Non tanto. Ma un po'." FORA vuol dire FUORI. Donne di Fora = Donne di fuori. PERCHÉ?»
@@ -75,7 +75,7 @@ Fomà torna dietro il frigo e mangia tutto, anche un pezzo di formaggio che non 
 ### SCN-12-07 — Il racconto di Donna Tina (dialogo)
 - **Beat**: B-12-06.
 - **Testo del libro**: [LIBRO §12.037–12.049] (Rosalia non risponde, il ventaglio si ferma a metà, nei suoi occhi «come un ricordo»; Nina: «Perché entriamo da fuori… È ovvio.»; «Può darsi. Ma prima?… Siete nate in questa casa?»; Tina: «No. Non siamo nate qui. Nessuna di noi.»; «Tina.»; «È vero, Donna Rosalia…» — il racconto: all'inizio erano loro quelle che arrivavano, bussavano di notte, la gente aveva paura e chiudeva le porte, le chiamavano «quelle di fuori», le estranee; una signora, in un paese, una notte, lasciò la porta aperta, il pane sul tavolo e i letti puliti; da quella volta sono diventate di casa, ma il nome è rimasto; Rosalia a occhi chiusi: «È una storia vecchia.» «Ma è vera?» — «È vera. Anche noi, una volta, eravamo forestiere.»).
-- Doppiato (scena chiave): NINA §12.039 [VOX-12-13]; VERA §12.040, 12.047 [VOX-12-14, 15]; TINA §12.042, 12.044 [VOX-12-16, 17] (il racconto, 50 s); ROSALIA §12.043, 12.046, 12.049 [VOX-12-18…20].
+- Doppiato (scena chiave): NINA §12.039 [VOX-12-13]; VERA §12.040, 12.047 [VOX-12-14…15]; TINA §12.042, 12.044 [VOX-12-16…17] (il racconto, 50 s); ROSALIA §12.043, 12.046, 12.049 [VOX-12-18…20].
 - **Regia del racconto**: mentre Tina parla, la nebbia della sua gonna si allarga sul pavimento e forma **immagini di nebbia** (VFX ART_BIBLE §11.7): porte che si chiudono, una casa di paese con una porta aperta e una candela, un tavolo con il pane — come un teatro d'ombre bianco, 3 quadri.
 - **Voce del quaderno**: IND-12-05 [NUOVO] «Donna Tina: all'inizio erano loro le forestiere. "Quelle di fuori." La gente chiudeva le porte. Poi una signora lasciò la porta aperta, il pane e i letti puliti. Donna Rosalia: "Anche noi, una volta, eravamo forestiere."»
 

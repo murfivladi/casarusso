@@ -26,7 +26,7 @@ La stazione di Taormina-Giardini è la più bella che Vera abbia mai visto: marm
 ### SCN-11-02 — In fondo al binario (dialogo a tre)
 - **Beat**: B-11-02.
 - **Testo del libro**: [LIBRO §11.004–11.012] (in fondo al binario, dove finisce la pensilina e comincia il sole, seduto sopra una vecchia scarpa di corteccia: Fomà; voltato verso nord, verso Messina; barba arrotolata in grembo, mani sulle ginocchia, immobile «come un sasso»; «Eccolo» «Dove?»; «Vera, lì non c'è niente. C'è una scarpa vecchia.» «È seduto sulla scarpa.»; Giulia si appoggia a una colonnina a braccia incrociate e aspetta; Mattia resta con Giulia, «per una volta, ubbidì»).
-- Doppiato: GIULIA §11.007, §11.009 [VOX-11-01, 02].
+- Doppiato: GIULIA §11.007, §11.009 [VOX-11-01…02].
 - **Regia**: Fomà è visibile da lontano solo per Vera (render normale); dalla prospettiva di Giulia non esiste (nessuna inquadratura soggettiva di Giulia, ma la sua testa punta alla scarpa: SIS-13 «attraverso»).
 - **Scelta** (con Mattia): `*` (1) «Resta con Giulia.» [NUOVO, dal libro «gli dissi di restare con Giulia»] — unica.
 
@@ -70,7 +70,7 @@ La stazione di Taormina-Giardini è la più bella che Vera abbia mai visto: marm
 ### SCN-11-06 — «Grazie, ragazze.» (cinematica)
 - **Beat**: B-11-07.
 - **Testo del libro**: [LIBRO §11.053–11.065] (Vera torna verso la pensilina con la scarpa; Mattia le corre incontro: «È lì dentro?» «Sì.»; quasi ci infila la faccia: «Ciao, signore piccolo! Bentornato!»; la voce brontolona dal fondo della scarpa «Sì, sì. Ciao. Non soffiarmi in faccia.», sentita benissimo da Vera e «mezzo e mezzo» da Mattia; Giulia immobile, pallida; «Che c'è?» «Niente. Andiamo. È tardi. La mamma ci ammazza.»; il labbro che trema).
-- Doppiato: MATTIA §11.054, 11.057 [VOX-11-26, 27]; FOMÀ §11.059 [VOX-11-28] (spazializzato nella scarpa; per Mattia la stessa voce è filtrata «mezzo e mezzo» — l'audio è unico, l'effetto si vede nella reazione di Mattia che ride a metà); GIULIA §11.062 [VOX-11-29].
+- Doppiato: MATTIA §11.054, 11.057 [VOX-11-26…27]; FOMÀ §11.059 [VOX-11-28] (spazializzato nella scarpa; per Mattia la stessa voce è filtrata «mezzo e mezzo» — l'audio è unico, l'effetto si vede nella reazione di Mattia che ride a metà); GIULIA §11.062 [VOX-11-29].
 - **La voce che Giulia sente** (D-81): l'inquadratura resta su Giulia mentre si gira; la narratrice (Vera 13–14) dice:
   - VOX-11-30 [LIBRO §11.064] [VOCE narratrice]: «Molto tempo dopo, mesi dopo, Giulia mi confessò che in quel momento, sulla banchina della stazione, mentre Mattia salutava la scarpa, aveva sentito una vocina. Una vocina da vecchio, piccola, impastata, che diceva:»
   - VOX-11-31 [LIBRO §11.065] [VOCE Fomà, sussurro] «Grazie, ragazze.» — sottotitolo in corsivo con SFX-060 «[vocina: «Grazie, ragazze.»]».
