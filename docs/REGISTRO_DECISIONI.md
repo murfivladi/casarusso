@@ -111,6 +111,10 @@ La numerazione D-NN corrisponde al numero # del piano.
 | D-86 | Ricostruzione 1:1 | Per l'altimetria: DTM LiDAR 1 m della Regione Siciliana (CC BY 4.0) dove copre; TINITALY 10 m (CC BY 4.0) come base continua; Copernicus GLO-30 per il paesaggio lontano (Etna) | Licenze aperte, precisione adeguata | DATI_TAORMINA | Claude |
 | D-87 | Scuola media | La scuola di Vera è collocata nel complesso reale della scuola secondaria di primo grado di Via Dietro Cappuccini, ma resa come scuola **senza nome reale** («Scuola media di Taormina»), interni inventati | Fedeltà 1:1 senza usare l'identità di un istituto reale | LIVELLI, DATI_TAORMINA | Claude |
 | D-88 | Monovolume | Monovolume grigia **generica** (nessun marchio né modello riconoscibile), proporzioni di una 7 posti europea da 4,6 m | Niente marchi | RICHIESTE_ASSET, ART_BIBLE | Claude |
+| D-89 | Posizione di Casa Russo nella scalinata | Casa Russo sta **nella parte alta della scalinata, a 4 gradini dalla strada carrabile** (Via Circonvallazione): l'auto si ferma in cima, il portone è a pochi metri (02.002, 02.005), il gatto dorme sul quarto gradino (02.008); per andare al Corso si scende la scalinata (10.010) | Concilia «casa dentro la scalinata» con «la babuška scese dalla macchina» davanti al portone | LIVELLI, DATI_TAORMINA §6, cap02 | Libro / Claude |
+| D-90 | Viaggio in auto | Nel cap. 1 Vera non parla mai alla babuška della borsa durante il viaggio (01.043 «Io non dissi niente»); la scelta del documento di gioco «chiedere della borsa» diventa «chiedere sottovoce a Mattia o a Giulia» | D-06 | cap01 | Claude |
+| D-91 | Siciliano della Befana | Testo [NUOVO] «Làida iu? Carbuni iu? E 'u Nannu Ielu, eh? 'U Nannu Ielu! Ora videmu.»; da far verificare a un parlante di Taormina prima del doppiaggio (Q-07) | D-51 | cap14, AUDIO | Claude |
+| D-92 | Citazioni del libro nei capitoli 4–14 | Le battute del libro sono indicate per intervallo di paragrafi e importate verbatim da `work/libro.txt` in Fase 2; lo script `work/strumenti/verifica_libro.py` controlla ogni citazione esplicita | Nessun errore di trascrizione | NARRATIVA, TDD strumenti | Claude |
 
 ---
 
@@ -136,6 +140,8 @@ La numerazione D-NN corrisponde al numero # del piano.
 | C-16 | «Giulia: si può parlare con lei, risponde con battute sarcastiche» e cap. 1 del libro dove Giulia parla solo con la mamma | Documento di gioco ↔ libro | Le battute di Giulia con Vera sono [NUOVO] e non contraddicono il libro | D-06 |
 | C-17 | Babylon «FXAA/TAA» generico | FASI §16 ↔ ricerca (TAA disponibile come post-process e nel frame graph) | TAA su Alto/Ultra, FXAA su Basso/Medio | TDD §7 |
 | C-18 | Hosting «es. Vercel» con password | FASI Fase 1 ↔ risposta di Vlad | Hosting proprio, nessuna password | D-44 |
+| C-19 | Il documento di gioco prevede «chiedere della borsa» in auto; il libro: «Io non dissi niente» (01.043) | Documento di gioco §4.1.9 ↔ libro | Si chiede sottovoce a Mattia o Giulia, mai alla babuška | D-90 |
+| C-20 | «Casa dentro la scalinata» (02.001) ma la babuška «scese dalla macchina» davanti al portone (02.005) | libro ↔ libro | Casa a 4 gradini dalla strada carrabile in cima alla scalinata | D-89 |
 
 ## 5. Cosa cambia rispetto a `FASI_DI_SVILUPPO.md` e al documento di gioco (da aggiornare in Fase 1)
 

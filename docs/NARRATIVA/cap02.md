@@ -87,7 +87,7 @@ La monovolume si ferma in cima alla scalinata. Davanti al portone c'è nonna Con
 - **Regia**: Vera a letto, sguardo libero (soffitto, finestra aperta, porta socchiusa). Ambiente: grilli, motorino lontano, ronzio del frigo dal piano di sotto, risate di Giulia attraverso il muro, Mattia che dorme a bocca aperta dal corridoio.
 - PEN-02-13 [LIBRO §02.012–02.013]: «Io non riuscivo a dormire. Era quasi mezzanotte. Dalla finestra entrava l'aria tiepida e l'odore dei gelsomini del vicino.»
 - PEN-02-14 [LIBRO §02.013]: «Giulia, nella stanza di fronte, guardava video con le cuffie e rideva da sola. Mattia dormiva con la bocca aperta, si sentiva dal corridoio.»
-- Dopo 20 s (o quando Vera guarda la porta): SFX-027b «[una porta che si apre piano]» (sinistra) — è la porta della babuška.
+- Dopo 20 s (o quando Vera guarda la porta): SFX-081 «[una porta che si apre piano]» (sinistra) — è la porta della babuška.
   - PEN-02-15 [LIBRO §02.014]: «E poi sentii la porta della babuška aprirsi.»
 
 ### SCN-02-06 — Seguire la babuška (guidata, D-09)
@@ -125,7 +125,7 @@ La monovolume si ferma in cima alla scalinata. Davanti al portone c'è nonna Con
 - PEN-02-26 [LIBRO §02.024]: «Poi uscì lui.» (ANI-FOM-02)
 - PEN-02-27 [LIBRO §02.025]: «Era alto come una bottiglia d'acqua da un litro e mezzo. Aveva una barba grigia lunghissima che gli arrivava ai piedi e che si portava dietro come uno strascico, e i capelli grigi tutti arruffati, e il corpo coperto di peli morbidi, come un gatto vecchio.»
 - PEN-02-28 [LIBRO §02.025]: «Aveva una camicia rossa con la cintura di corda, e niente scarpe: o meglio, la sua scarpa era quella da cui era uscito. Aveva un naso grosso e rosso, e due occhietti neri e lucidi che si guardavano intorno con un'aria offesissima.»
-- **Voci del quaderno**: IND-02-04 [NUOVO] «Dalla scarpa è uscita una manina pelosa, con le unghie gialle. Ha preso il pane. Poi il sale.» · IND-02-05 [LIBRO §02.025, sintesi di Vera NUOVO] «Lui: alto come una bottiglia da un litro e mezzo. Barba fino ai piedi. Camicia rossa, cintura di corda. Naso rosso. Occhietti neri. Peloso come un gatto vecchio.»
+- **Voci del quaderno**: IND-02-04 [NUOVO] «Dalla scarpa è uscita una manina pelosa, con le unghie gialle. Ha preso il pane. Poi il sale.» · IND-02-05 [LIBRO §02.025 + NUOVO] «Lui: alto come una bottiglia da un litro e mezzo. Barba fino ai piedi. Camicia rossa, cintura di corda. Naso rosso. Occhietti neri. Peloso come un gatto vecchio.»
 
 ### SCN-02-09 — Fomà (cinematica osservata, sguardo libero)
 - **Beat**: B-02-12, B-02-13, B-02-14.

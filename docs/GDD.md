@@ -388,7 +388,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 
 ### SIS-25 Caccia ai cannistri e ditale + cucchiaio (cap. 13)
 - **Scopo**: D-14.
-- **Regole**: mattina del 2 novembre: tre cesti nascosti (Vera, Mattia, Giulia) nei punti dove Concetta è salita la notte (D-49: armadio del corridoio, sotto il letto di Mattia, dietro la tenda della camera di Giulia) più 5 dolci sparsi (frutta martorana, pupo di zucchero…). Mattia e Giulia cercano i loro con battute; Vera trova il suo per ultimo. Nel suo cesto, sotto i tetù, **il ditale** e **il cucchiaio**: interazione a due mani (mouse: trascinare il ditale sul manico; gamepad: levette sinistra e destra; touch: due dita) fino all'incastro (feedback tattile/vibrazione e SFX-120 «[clic leggero]»).
+- **Regole**: mattina del 2 novembre: tre cesti nascosti (Vera, Mattia, Giulia) nei punti dove Concetta è salita la notte (D-49: armadio del corridoio, sotto il letto di Mattia, dietro la tenda della camera di Giulia) più 5 dolci sparsi (frutta martorana, pupo di zucchero…). Mattia e Giulia cercano i loro con battute; Vera trova il suo per ultimo. Nel suo cesto, sotto i tetù, **il ditale** e **il cucchiaio**: interazione a due mani (mouse: trascinare il ditale sul manico; gamepad: levette sinistra e destra; touch: due dita) fino all'incastro (feedback tattile/vibrazione e SFX-069 «[clic leggero: ditale nel cucchiaio]»).
 - **Dati salvati**: `val.val_cannistri_trovati` (0–3), `val.val_dolci_trovati` (0–5), `flag.flag_ditale_cucchiaio_uniti`.
 - **Input**: ricerca libera; unione con due mani (mouse, levette, due dita).
 - **Stati**: `notte` → `mattina caccia` → `trovati` → `uniti`.
@@ -431,7 +431,7 @@ Conteggi esatti per insieme, capitolo e zona. Elenchi completi: `NARRATIVA/parol
 | Insieme | Cap.1 | Cap.2 | Cap.3 | Libero v1.0 | **Tot. v1.0** | Capp.4–8 | Libero v2.0 | **Tot. v2.0** | Capp.9–14 | Libero v3.0 | **Tot. v3.0** | **Totale** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Parole russe (RUS) | 8 | 6 | 1 | 2 | **17** | 11 | 2 | **13** | 6 | 1 | **7** | **37** |
-| Ricordi (RIC) | 2 | 1 | 0 | 2 | **5** | 4 | 0 | **4** | 4 | 0 | **4** | **13** |
+| Ricordi (RIC) | 2 | 2 | 0 | 1 | **5** | 4 | 0 | **4** | 4 | 0 | **4** | **13** |
 | Foto di trama (FOT capitoli) | 6 | 2 | 2 | — | **10** | 8 | — | **8** | 8 | — | **8** | **26** |
 | Foto Luoghi | — | — | — | 10 | **10** | — | 10 | **10** | — | 8 | **8** | **28** |
 | Foto Gatti | — | 1 | — | 7 | **8** | — | 8 | **8** | 1 | 5 | **6** | **22** |
