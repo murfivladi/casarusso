@@ -1,0 +1,818 @@
+[00.001|px1] C CAAS
+[00.002|px1] SAA R RUUS SSSO
+[00.c|px1] O ·· L
+[00.c|px1] L II B
+[00.c|px1] BRRO
+[00.c|px1] O 1
+[00.003|px1] Il domovoj nella scarpa V VLLA
+[00.c|px1] ADD
+[00.004|px2] VLAD EDITORE CASA RUSSO · LIBRO 1 IL DOMOVOJ NELLA SCARPA
+[00.005|px2] Due case, una famiglia ✦ ✦ ✦ VLAD
+[00.006|px2] VLAD EDITORE
+[00.007|p4] TA O R M I N A · S I C I L I A Il domovoj nella scarpa Libro 1 della collana Casa Russo. Prima edizione digitale, 2026. © 2026 Vlad. Tutti i diritti riservati. Pubblicato da Vlad Editore, Taormina (Sicilia). Testo di Vlad, scritto con l’aiuto dell’intelligenza artificiale. La copertina è stata creata con strumenti di intelligenza artificiale. Personaggi e vicende sono frutto di fantasia; ogni somiglianza con persone reali è casuale. Il domovoj e le Donne di Fora vengono dalle vere tradizioni popolari della Russia e della Sicilia: le note in fondo dicono cosa è vero e cosa è inventato. ISBN: in attesa di assegnazione
+
+===== CAPITOLO 1 — La scarpa — A E R O P O RT O D I C ATA N I A , U N S A B AT O D I S E T T E M B R E =====
+[01.001|p4] Mi chiamo Vera Russo, ho dodici anni, e il mio cognome è una barzelletta.
+[01.002|p4] Non lo dico io. Lo dice chiunque conosca mia madre. Perché mia madre si chiama Irina, è nata a San Pietroburgo, parla l'italiano meglio di mio padre ma con le erre che rotolano come biglie, e quando è arrivata in Sicilia, diciotto anni fa, ha conosciuto un ragazzo di Taormina che faceva i caffè in un bar sul Corso. Lui si chiamava Salvo. Salvo Russo.
+[01.003|p4] — Quindi ora sei Irina Russo — le dicevano tutti. — Una russa che si chiama Russo.
+[01.004|p4] E ridevano. Mia madre rideva anche lei, la prima volta. La centesima, un po' meno.
+[01.005|p4] Io sono venuta dopo. Poi Giulia, che in realtà è venuta prima di me, perché ha sedici anni, ma io la considero comunque dopo, perché è nata senza la parte del cervello che si stupisce delle cose. E poi Mattia, che ha sei anni e si stupisce di tutto, anche dei cucchiai.
+[01.006|p5] Quel sabato di settembre eravamo tutti e cinque all'aeroporto di Catania, davanti alla porta scorrevole degli arrivi, ad aspettare la babuška.
+[01.007|p5] — Babuška vuol dire nonna — spiegò Mattia a un signore che non gliel'aveva chiesto. — In russo. Però è una nonna vera, non una bambola. Le bambole sono le matrioške.
+[01.008|p5] — Ah — disse il signore, e si allontanò di due passi.
+[01.009|p5] Mio padre camminava avanti e indietro con le mani in tasca. Mia madre teneva in mano un cartello che aveva fatto Mattia, con scritto BABUŠKA GALINA in stampatello e un disegno che doveva essere un orso ma sembrava una patata con le orecchie. Giulia era appoggiata a una colonna con il telefono in mano e la faccia di chi è stata trascinata fuori dal letto contro la Convenzione di Ginevra.
+[01.010|p5] — Quanto resta? — chiese Giulia senza alzare gli occhi.
+[01.011|p5] — Te l'ho detto — disse mia madre. — Solo per un po'.
+[01.012|p5] — Quanto è un po'?
+[01.013|p5] Mia madre non rispose. Mio padre guardò il soffitto. Io guardai tutti e due e capii che un po' era una di quelle parole che i grandi usano quando non lo sanno nemmeno loro.
+[01.014|p5] La babuška aveva settantaquattro anni. Il dedushka Kolja, suo marito, era morto in primavera. Io l'avevo visto tre volte in tutta la vita, sempre d'estate, sempre a San Pietroburgo, sempre con la stessa camicia a quadri e lo stesso odore di tabacco e di mele. Mi chiamava Veročka e mi insegnava a giocare a scacchi barando. Quando la mamma ha ricevuto la telefonata, ad aprile, è rimasta seduta in cucina un'ora intera con il telefono in mano, senza piangere. Ha pianto la sera dopo, mentre lavava i piatti, e io ho fatto finta di non vedere.
+[01.015|p6] Da allora la babuška era rimasta sola, in un appartamento di due stanze al quarto piano senza ascensore. E adesso veniva da noi. Solo per un po'.
+[01.---|p6] * * *
+[01.016|p6] La porta scorrevole si aprì e richiuse cento volte. Uscirono turisti tedeschi abbronzati in anticipo, una squadra di pallavolo, un prete con una valigia a fiori. Poi la porta si aprì e uscì un carrello. Sul carrello c'erano tre valigie, una sopra l'altra, legate con lo spago. Dietro il carrello c'era una signora piccola, con un cappotto di lana verde, a settembre, in Sicilia, e un fazzoletto in testa annodato sotto il mento.
+[01.017|p6] — Mamočka! — gridò mia madre, e le corse incontro.
+[01.018|p6] La babuška la abbracciò forte, poi la tenne a distanza con le mani sulle spalle e la guardò, come si guarda un vestito per vedere se si è ristretto in lavatrice.
+[01.019|p6] — Sei magra — disse in russo. — Non mangi.
+[01.020|p6] — Mangio, mamma.
+[01.021|p6] — Sei magra.
+[01.022|p6] Poi vide noi. Mio padre si fece avanti con il sorriso che usa per i clienti difficili del bar.
+[01.023|p6] — Benvenuta, Galina Petrovna.
+[01.024|p6] — Salvatore — disse la babuška. Era l'unica persona al mondo che chiamava mio padre Salvatore. Gli diede tre baci sulle guance, destra, sinistra, destra, alla russa, e lui alla fine aveva le orecchie rosse.
+[01.025|p6] Poi toccò a noi. Mattia le si buttò addosso e rischiò di farla cadere. Giulia si fece baciare con la faccia di chi viene vaccinato. Io la abbracciai e sentii l'odore del cappotto: naftalina, tè nero e qualcosa di dolce, come pane appena sfornato.
+[01.026|p7] — Veročka — disse lei, e mi guardò a lungo. Aveva gli occhi grigi, chiari, con tante pieghe intorno, come se avesse passato la vita a strizzarli per guardare lontano. — Sei cresciuta. Hai gli occhi di tuo nonno.
+[01.027|p7] Fu in quel momento che vidi la borsa.
+[01.028|p7] Era una borsa di stoffa a fiori, di quelle che si usano per la spesa, e la babuška la teneva stretta sotto il braccio, non sul carrello con le valigie. Come si tiene una cosa preziosa. Dalla borsa spuntava qualcosa di strano: una specie di scarpa vecchia, intrecciata, fatta di strisce di corteccia chiara, consumata sulla punta.
+[01.029|p7] — Che cos'è? — chiesi.
+[01.030|p7] — Niente — disse la babuška, troppo in fretta.
+[01.031|p7] — È una scarpa?
+[01.032|p7] — È un lapot' — disse mia madre, e la guardò in un modo strano. — Mamma. L'hai portato davvero.
+[01.033|p7] — Certo che l'ho portato — disse la babuška. — Cosa dovevo fare, lasciarlo lì?
+[01.034|p7] E tirò su la borsa e la sistemò meglio sotto il braccio, e fu allora che lo sentii.
+[01.035|p7] Dalla scarpa venne uno starnuto.
+[01.036|p7] Un piccolo starnuto secco, come quello di un gatto che ha annusato il pepe. Etcì. Poi un brontolio, una specie di borbottio in una lingua che sembrava russo ma impastato, come se qualcuno parlasse con la bocca piena di pane.
+[01.037|p7] Mi guardai intorno. Mia madre stava parlando con mio padre delle valigie. Giulia guardava il telefono. Mattia faceva il giro del carrello saltellando. La babuška guardava dritto davanti a sé, con la faccia di chi non ha sentito niente.
+[01.038|p8] — Babuška — dissi piano. — La scarpa ha starnutito.
+[01.039|p8] Lei si voltò. Mi guardò. Per un secondo, un secondo solo, nei suoi occhi grigi passò qualcosa: sorpresa, e poi una specie di paura, e poi una cosa che sembrava quasi contentezza.
+[01.040|p8] — Le scarpe non starnutiscono, Veročka — disse. — Andiamo. Sono stanca e ho fame.
+[01.---|p8] * * *
+[01.041|p8] Dall'aeroporto a Taormina c'è un'ora di macchina, se il traffico va bene. Il traffico non andò bene. Nella nostra macchina, che è una monovolume grigia con un'ammaccatura sulla portiera che nessuno ricorda come sia nata, stavamo in sei più tre valigie, e la borsa a fiori era sulle ginocchia della babuška, seduta davanti, e io ero dietro di lei e non le staccavo gli occhi di dosso.
+[01.042|p8] La scarpa non starnutì più. Ma una volta, quando passammo davanti all'Etna che fumava piano nel cielo di settembre, sentii un sospiro. Un sospiro lungo, da vecchio. E la babuška, senza voltarsi, diede due colpetti alla borsa con la mano, come si fa con un cane per dirgli: buono, siamo quasi arrivati.
+[01.043|p8] Io non dissi niente. Ma in quel momento decisi che avrei scoperto cosa c'era in quella scarpa, a qualunque costo.
+[01.044|p8] Non sapevo ancora che dentro quella scarpa c'era la guerra.
+[01.c|p8] ✦  ✦  ✦
+
+===== CAPITOLO 2 — Il vecchietto dietro il frigorifero — TA O R M I N A , C A S A R U S S O , L A P R I M A N O T T E =====
+[02.001|p9] Casa nostra è in una scalinata. Non sopra, non accanto: proprio dentro. A Taormina le strade che salgono dal Corso Umberto verso la montagna a un certo punto si stancano di essere strade e diventano scale, con i gradini di pietra consumati, i vasi di gerani sui lati e i gatti che dormono esattamente dove devi mettere il piede. La nostra è una casa vecchia a due piani, stretta, con le persiane verdi e un cortiletto grande come un tavolo da ping-pong, dove c'è un limone che era lì prima di tutti noi. Mio padre dice che il limone è il vero padrone di casa, e noi siamo in affitto.
+[02.002|p9] Davanti al portone, quel sabato sera, c'era nonna Concetta.
+[02.003|p10] Nonna Concetta è la mamma di mio padre. Abita due scalinate più in là, ha settantun anni, è alta un metro e cinquanta compresi i capelli cotonati, e ha una voce che si sente fino a Giardini Naxos. Quando è morto nonno Turi, sei anni fa, lei si è vestita di nero per un anno, poi ha detto «basta» e si è comprata una vestaglia color fucsia. Quella sera aveva in mano un vassoio coperto da un canovaccio, e il vassoio fumava.
+[02.004|p10] — Arancini — annunciò, prima ancora di salutare. — Al ragù e al burro. Per la signora che viene da lontano, che avrà fame.
+[02.005|p10] La babuška scese dalla macchina, si sistemò il fazzoletto e guardò nonna Concetta dall'alto in basso, il che era difficile, perché erano alte uguali.
+[02.006|p10] — Grazie — disse in italiano, con la erre lunga lunga. — Ho portato i pirožki.
+[02.007|p10] E dalla terza valigia, quella legata con lo spago, tirò fuori un barattolo di latta pieno di fagottini dorati.
+[02.008|p10] Le due nonne si guardarono. Per un momento, nella scalinata, si fece silenzio. Anche il gatto rosso sul quarto gradino aprì un occhio.
+[02.009|p10] — Che bello — disse mio padre in fretta. — Mangiamo tutto. Insieme. Tutti contenti.
+[02.010|p10] Nessuno era contento. Ma mangiammo tutto lo stesso, intorno al tavolo della cucina, e devo dire che sia gli arancini sia i pirožki erano buonissimi, e che le due nonne passarono la cena a dirsi «complimenti» con la stessa voce con cui si dice «ti ho visto, sai».
+[02.---|p10] * * *
+[02.011|p10] La babuška dormiva nella stanza che prima era lo studio di papà, accanto alla mia. Papà aveva portato via il computer e i libri e ci aveva messo un letto, un armadio e una sedia. Lo studio era diventato «la stanza della babuška», e papà, adesso, i conti del bar li faceva sul tavolo della cucina, sospirando.
+[02.012|p10] Io non riuscivo a dormire.
+[02.013|p11] Era quasi mezzanotte. Dalla finestra entrava l'aria tiepida e l'odore dei gelsomini del vicino. Giulia, nella stanza di fronte, guardava video con le cuffie e rideva da sola. Mattia dormiva con la bocca aperta, si sentiva dal corridoio.
+[02.014|p11] E poi sentii la porta della babuška aprirsi.
+[02.015|p11] Mi alzai piano, misi l'occhio alla fessura della mia porta. La babuška passò nel corridoio in camicia da notte, scalza, con la borsa a fiori in mano. Scese le scale, piano, un gradino alla volta, tenendosi al corrimano. Contai fino a dieci e la seguii.
+[02.016|p11] In cucina la luce era spenta. Ma dalla finestra sul cortile entrava la luce del lampione, e vidi la babuška in piedi in mezzo alla stanza, con il lapot' in mano. Lo teneva davanti a sé, con tutte e due le mani, come si tiene una tazza troppo piena.
+[02.017|p11] Poi parlò. In russo, a voce bassa, quasi cantando:
+[02.018|p11] — Nonnino, nonnino, vieni con noi. Questa è la casa nuova. Vieni a vivere con noi.
+[02.019|p11] Lo ripeté tre volte. Poi si inginocchiò, piano, perché le facevano male le ginocchia, e posò il lapot' sul pavimento. Accanto mise un pezzetto di pane nero e un pizzico di sale su un tovagliolo. Si fece il segno della croce, al contrario di come lo fa nonna Concetta, da destra a sinistra. E rimase lì, ad aspettare.
+[02.020|p11] Io trattenevo il fiato dietro lo stipite della porta.
+[02.021|p11] Per un po' non successe niente. Il frigorifero ronzava. Un motorino passò giù sul Corso.
+[02.022|p11] Poi la scarpa si mosse.
+[02.023|p12] Si mosse da sola. Ondeggiò, come una barchetta, e da dentro uscì una mano. Una manina piccola, pelosa, con le unghie lunghe e gialle come quelle di un vecchio. La mano tastò il pavimento, trovò il pane, lo afferrò e sparì dentro la scarpa. Si sentì masticare. Poi la mano uscì di nuovo, prese il sale e sparì anche il sale.
+[02.024|p12] Poi uscì lui.
+[02.025|p12] Era alto come una bottiglia d'acqua da un litro e mezzo. Aveva una barba grigia lunghissima che gli arrivava ai piedi e che si portava dietro come uno strascico, e i capelli grigi tutti arruffati, e il corpo coperto di peli morbidi, come un gatto vecchio. Aveva una camicia rossa con la cintura di corda, e niente scarpe: o meglio, la sua scarpa era quella da cui era uscito. Aveva un naso grosso e rosso, e due occhietti neri e lucidi che si guardavano intorno con un'aria offesissima.
+[02.026|p12] — Fu — disse. Poi una serie di parole in russo che non conoscevo, e che più tardi la babuška si rifiutò di tradurmi. Poi, in un italiano strano, impastato, con tutte le erre sbagliate: — E la stufa? Dov'è la stufa? Che casa è una casa senza stufa?
+[02.027|p12] — Non c'è la stufa, nonnino — sussurrò la babuška. — Qui fa caldo. Non serve.
+[02.028|p12] — Non serve! — Il vecchietto alzò le braccia. — Non serve, dice! E io dove dormo? Sul pavimento, come un cane? In una scarpa, come un ciabattino?
+[02.029|p12] Si guardò intorno. Guardò il fornello a gas, il lavandino, la lavastoviglie. Annusò l'aria. Fece il giro della cucina strisciando la barba sul pavimento. E alla fine si fermò davanti al frigorifero, che ronzava.
+[02.030|p12] Mise la mano sul fianco del frigorifero. Poi infilò la testa nello spazio stretto tra il frigorifero e il muro, dove c'è la griglia nera sul retro. Ne uscì dopo un po', con la barba piena di polvere e un'aria soddisfatta.
+[02.031|p12] — Qui — disse. — Qui dietro è caldo. Ronza. Mi piace. Mi metto qui.
+[02.032|p13] E spinse il lapot' nello spazio dietro il frigorifero, ci saltò dentro e sparì.
+[02.033|p13] La babuška rimase in ginocchio un altro po'. Poi si alzò, si spolverò la camicia da notte e disse, verso il frigorifero:
+[02.034|p13] — Buona notte, Fomà.
+[02.035|p13] — Buona notte, buona notte — rispose una voce brontolona da dietro il frigo. — Senza stufa. Ma si può.
+[02.---|p13] * * *
+[02.036|p13] Io tornai di sopra di corsa, senza far rumore, e mi infilai nel letto con il cuore che batteva come un tamburo.
+[02.037|p13] Avevo appena visto un vecchietto alto come una bottiglia uscire da una scarpa e andare a vivere dietro il nostro frigorifero.
+[02.038|p13] La babuška lo aveva chiamato nonnino, e poi Fomà. Ero quasi sicura di sapere che cosa fosse, perché me ne aveva parlato la mamma quando ero piccola, prima di dormire, insieme a Baba Jaga e all'uccello di fuoco. Un domovoj. Lo spirito della casa. Quello che vive dietro la stufa, che protegge la famiglia, che si offende se non gli dai il pane.
+[02.039|p13] Io avevo sempre pensato che fosse una favola.
+[02.040|p13] Restai sveglia a lungo, a guardare il soffitto. Da giù, ogni tanto, arrivava il ronzio del frigorifero. E una volta, una volta sola, mi sembrò di sentire qualcuno che russava.
+[02.c|p13] ✦   ✦  ✦
+
+===== CAPITOLO 3 — Le signore di fuori — TA O R M I N A , C A S A R U S S O , U N G I O V E D Ì N O T T E =====
+[03.001|p14] Per quattro giorni feci finta di niente. Andai a scuola, la prima settimana di prima media, e conobbi la professoressa di matematica che scriveva i numeri come se la lavagna le avesse fatto un torto, e il professore di musica che parlava solo di Bellini. Il mio compagno di banco si chiamava Nicolò, aveva gli occhiali con la montatura blu e una collezione di carte di dinosauri che mi mostrò il primo giorno, una per una, tutte e centoquaranta.
+[03.002|p14] — Tu sei russa? — mi chiese.
+[03.003|p14] — Metà.
+[03.004|p14] — Quale metà?
+[03.005|p14] Ci pensai. Nessuno me l'aveva mai chiesto così.
+[03.006|p14] — Non lo so — dissi. — Credo che siano mescolate.
+[03.007|p14] Nicolò annuì, come se fosse una risposta normale, e mi mostrò un Pachycephalosaurus.
+[03.008|p15] A casa, intanto, la babuška lasciava il pane dietro il frigorifero ogni sera, e ogni mattina il pane non c'era più. Mia madre diceva che erano le formiche. Mio padre diceva che erano i topi e voleva mettere le trappole, e la babuška lo guardò in un modo che gli fece cambiare idea. Io non dicevo niente. Ma la sera, quando passavo in cucina a prendere un bicchiere d'acqua, sentivo da dietro il frigo qualcuno che brontolava, o canticchiava, o russava.
+[03.009|p15] Una volta, il martedì, vidi la barba. Spuntava di sotto il frigorifero come una coda di gatto. Io mi fermai. La barba si ritirò di scatto.
+[03.010|p15] — Lo so che ci sei — dissi piano.
+[03.011|p15] Silenzio. Poi una voce:
+[03.012|p15] — Non ci sono.
+[03.013|p15] — Ti ho visto.
+[03.014|p15] — Hai visto la polvere. In questa casa non pulisce nessuno.
+[03.015|p15] E poi niente più.
+[03.---|p15] * * *
+[03.016|p15] Il giovedì notte mi svegliai di colpo. Non so che ore fossero. So che la casa era buia e che c'era un profumo nuovo nell'aria. Non i gelsomini del vicino. Un profumo di rosmarino, e di lenzuola stese al sole, e di qualcos'altro, dolce e antico, come le chiese.
+[03.017|p15] Poi sentii delle voci. Voci di donne, che ridevano piano.
+[03.018|p15] Venivano dal piano di sotto.
+[03.019|p15] Scesi le scale a piedi nudi, attenta a saltare il nono gradino, che scricchiola. In fondo alle scale c'è l'ingresso, con il portone di legno, e il portone ha una serratura vecchia, enorme, con il buco della chiave grande come un dito.
+[03.020|p15] Dal buco della chiave stava entrando una nebbia.
+[03.021|p16] Una nebbia bianca e luminosa, che usciva dalla serratura come il fumo da un camino, e si raccoglieva sul pavimento dell'ingresso, e si alzava, e prendeva forma. Prima una gonna. Poi una vita stretta. Poi due braccia con dei braccialetti che tintinnavano. Poi una testa con i capelli raccolti in alto e un pettine di tartaruga.
+[03.022|p16] Una signora. Alta, elegante, vestita di un abito lungo color vino, con un ventaglio in mano. Aveva il viso bellissimo e severo, come le statue delle sante nelle processioni.
+[03.023|p16] Dietro di lei, dal buco della serratura, entrò un'altra nebbia, e poi un'altra.
+[03.024|p16] La seconda signora era più bassa e più tonda, vestita di verde, con una collana di perle e una bocca che non stava mai ferma. La terza era giovane, quasi una ragazza, con un vestito celeste e i capelli sciolti, e si guardava intorno con gli occhi spalancati come se fosse la prima volta che entrava in una casa.
+[03.025|p16] — Bene, bene — disse la prima signora, e si guardò intorno con il ventaglio sotto il mento. — Vediamo come la tengono, questa casa.
+[03.026|p16] Passò un dito sul mobile dell'ingresso. Guardò il dito. Fece una smorfia.
+[03.027|p16] — Polvere — disse. — Di nuovo.
+[03.028|p16] — Gliel'avevo detto, Donna Rosalia — disse la signora in verde. — Da quando è arrivata la forestiera, qui nessuno pulisce più come si deve. Pensa che stamattina ho visto le lenzuola del bambino stese storte.
+[03.029|p16] — Storte, Donna Nina?
+[03.030|p16] — Storte, Donna Rosalia. Con le mollette spaiate.
+[03.031|p16] La ragazza in celeste intanto era andata verso la cucina, e allungava il collo per guardare dentro.
+[03.032|p17] — Donna Tina! — la chiamò la prima. — Non si gira per le stanze senza permesso.
+[03.033|p17] — C'è un odore strano — disse Donna Tina. — Di pane. Pane nero. Non l'ho mai sentito.
+[03.034|p17] E fu allora che dal fondo della cucina, da dietro il frigorifero, venne la voce di Fomà.
+[03.035|p17] — Chi è? Chi c'è? Chi entra a quest'ora in casa mia?
+[03.036|p17] Le tre signore si voltarono tutte insieme. Il ventaglio di Donna Rosalia si chiuse con uno schiocco.
+[03.037|p17] — Casa sua? — disse.
+[03.038|p17] Fomà uscì da dietro il frigorifero. Aveva la barba tutta arruffata e il naso più rosso del solito, e si era messo in piedi sul lapot' per sembrare più alto. Non serviva: era sempre alto come una bottiglia.
+[03.039|p17] Le tre signore lo guardarono. Lui guardò loro. Per un lungo momento nessuno parlò.
+[03.040|p17] — E questa cos'è? — disse alla fine Donna Nina, portandosi una mano alle perle. — Un topo?
+[03.041|p17] — Un topo! — Fomà diventò viola. — Io sono il domovoj di questa famiglia! Da duecento anni! Ho protetto sette generazioni di Ivanov, ho scaldato le loro stufe, ho intrecciato le criniere dei loro cavalli...
+[03.042|p17] — Qui non ci sono cavalli — disse Donna Tina, che sembrava sinceramente dispiaciuta.
+[03.043|p17] — ...e adesso sono qui, e questa è la mia casa!
+[03.044|p18] — Ah no, caro mio. — Donna Rosalia fece un passo avanti, e la nebbia sotto la sua gonna si allargò sul pavimento. — Questa casa è nostra. Noi siamo le Donne di Fora. Veniamo in questa casa il martedì, il giovedì e il sabato, da quando c'erano i nonni dei nonni di Salvatore Russo. Noi portiamo la fortuna in questa casa, se la tengono bene. E la sfortuna, se non la tengono bene. Nessuno ci ha detto niente di una bestia forestiera dietro il frigorifero.
+[03.045|p18] — Bestia! — Fomà saltò giù dal lapot'. — Bestia a me! Gallinelle! Gallinelle con il pizzo!
+[03.046|p18] — Fuori — disse Donna Rosalia, gelida. — Fuori da questa casa.
+[03.047|p18] — Fuori voi!
+[03.048|p18] E fu in quel momento che commisi l'errore. Mi sporsi troppo dallo stipite della porta, e il pavimento dell'ingresso, che era freddo, mi fece starnutire.
+[03.049|p18] Quattro teste si voltarono verso di me.
+[03.050|p18] Tre signore eleganti fatte di nebbia e un vecchietto alto come una bottiglia mi guardarono, nella cucina buia, con la stessa identica espressione.
+[03.051|p18] — Lei ci vede — disse Donna Tina, piano, meravigliata.
+[03.052|p18] — Impossibile — disse Donna Nina.
+[03.053|p18] — Ci vede — disse Fomà. — Lo sapevo. Lo dicevo io. Quella mi vede dal primo giorno.
+[03.054|p18] Donna Rosalia aprì il ventaglio, lentamente. Mi guardò da sopra il bordo, con gli occhi neri e lucidi.
+[03.055|p18] — Vera Russo — disse. — Figlia di Salvatore. Vieni qui.
+[03.c|p18] ✦   ✦  ✦
+
+===== CAPITOLO 4 — La guerra delle tazzine — TA O R M I N A , F I N E S E T T E M B R E =====
+[04.001|p19] Quella notte, in cucina, Donna Rosalia mi fece sedere su una sedia e mi fece tre domande.
+[04.002|p19] La prima fu: «Da quando ci vedi?». Io dissi: «Da cinque minuti». Lei disse: «Bugiarda», ma era vero.
+[04.003|p19] La seconda fu: «Lo sai chi siamo?». Io dissi di no. Lei sospirò, come se fosse una vergogna, e mi spiegò che le Donne di Fora erano le signore che entrano nelle case di notte, dal buco della serratura, e che se trovano la casa in ordine, i letti fatti e le lenzuola pulite, portano fortuna, e se no, no. Che erano tante, un tempo, in tutta la Sicilia, e che adesso erano poche, perché la gente non ci credeva più e chiudeva le serrature con le chiavi moderne, quelle senza buco. Che loro tre venivano in casa Russo da più di cent'anni.
+[04.004|p19] La terza fu: «E lui?». E indicò Fomà con il ventaglio, come si indica una macchia sul pavimento.
+[04.005|p19] — Lui è il domovoj — dissi. — È venuto con la babuška. Nella scarpa.
+[04.006|p20] — Nella scarpa — ripeté Donna Nina, e si coprì la bocca con la mano per non ridere.
+[04.007|p20] — È la tradizione! — gridò Fomà. — Il domovoj si porta nel lapot'! Lo sanno tutti! Che ignoranza!
+[04.008|p20] — Qui nessuno porta niente nelle scarpe — disse Donna Rosalia. — Qui nelle scarpe si mettono i piedi.
+[04.009|p20] E da lì in poi le cose andarono male.
+[04.---|p20] * * *
+[04.010|p20] La mattina dopo, nonna Concetta arrivò alle sette e mezza, come ogni mattina, per fare il caffè a mio padre prima che andasse al bar. Nonna Concetta faceva il caffè con la sua moka, una moka da sei di alluminio tutto annerito, che aveva da quando si era sposata e che teneva a casa nostra, sul fornello di sinistra, perché diceva che il caffè di casa nostra veniva meglio.
+[04.011|p20] La moka non c'era.
+[04.012|p20] — Dov'è la mia moka? — chiese nonna Concetta.
+[04.013|p20] Nessuno lo sapeva. La cercammo dappertutto: nei pensili, nel forno, nella lavastoviglie, sul balcone. Niente. Alla fine mio padre bevve il caffè al bar, e nonna Concetta rimase in cucina, seduta, con le braccia incrociate e la faccia scura.
+[04.014|p20] La babuška scese alle otto.
+[04.015|p20] — Buongiorno — disse.
+[04.016|p20] — Buongiorno — disse nonna Concetta. — Ha visto per caso la mia moka?
+[04.017|p20] — Io non tocco le cose degli altri — disse la babuška.
+[04.018|p20] — Non ho detto che l'ha toccata. Ho detto se l'ha vista.
+[04.019|p20] — Non l'ho vista.
+[04.020|p21] — Ah.
+[04.021|p21] Quell'ah rimase nell'aria della cucina tutta la mattina, come l'odore del pesce fritto.
+[04.022|p21] Io sapevo benissimo dov'era la moka. Ero passata davanti al frigorifero e avevo visto, nello spazio stretto dietro, un luccichio di alluminio. E avevo sentito una vocina soddisfatta che diceva: Gallinelle. Adesso vediamo.
+[04.---|p21] * * *
+[04.023|p21] La sera stessa, la babuška aprì il frigorifero per prendere il suo kefir. Il kefir è una specie di yogurt da bere, acidulo, che in Russia bevono tutti e che a Taormina si trova solo in un negozio di prodotti dell'Est vicino alla stazione, dove la mamma andava apposta una volta alla settimana. La babuška ne beveva un bicchiere tutte le sere prima di dormire, perché diceva che faceva bene al cuore e alla pancia.
+[04.024|p21] La babuška versò il kefir nel bicchiere. Il kefir uscì a pezzi. Grumoso, giallo, puzzolente come un calzino.
+[04.025|p21] — È andato a male — disse mia madre. — Strano. L'ho comprato ieri.
+[04.026|p21] — Non è andato a male — disse la babuška, a bassa voce, guardando il bicchiere. — Qualcuno l'ha fatto andare a male.
+[04.027|p21] E guardò verso la porta. Verso la casa di nonna Concetta, due scalinate più in là.
+[04.028|p22] Io sapevo anche questo. Lo sapevo perché la notte prima, mentre tornavo a letto, avevo sentito Donna Nina che diceva a Donna Rosalia: «Lasciate fare a me. Gli faccio cagliare il latte, a quel topo, e alla sua padrona».
+[04.---|p22] * * *
+[04.029|p22] Da quel giorno fu la guerra. Non una guerra con le bombe. Una guerra con le tazzine. Con le calze. Con le lenzuola. Una guerra fatta di piccole cose che sparivano, si rompevano, si annodavano, cambiavano posto.
+[04.030|p22] Il lunedì, le lenzuola stese in cortile si annodarono tutte insieme, durante la notte, in una specie di treccia lunghissima che andava dal limone alla finestra del bagno. Mia madre ci mise un'ora a scioglierla, e alla fine disse che era stato il vento. Non c'era vento.
+[04.031|p22] Il martedì, sparirono tutte le calze sinistre della famiglia. Le destre no. Solo le sinistre.
+[04.032|p22] Il mercoledì, le tazzine del servizio buono di nonna Concetta, quelle con il bordo d'oro che teneva nella vetrinetta del soggiorno, si girarono tutte a testa in giù. Tutte. Nella notte. Con la vetrinetta chiusa a chiave.
+[04.033|p22] Il giovedì, il pane nero della babuška, quello che si era portata dalla Russia in un sacchetto di plastica e che teneva nella dispensa come un tesoro, diventò verde di muffa. In una notte. A Taormina, a fine settembre, va bene, fa caldo. Ma in una notte.
+[04.034|p22] Il venerdì, la moka di nonna Concetta ricomparve sul fornello. Piena di sale.
+[04.035|p22] E ogni volta, le due nonne si guardavano. E non dicevano niente. Ma non era un niente buono. Era un niente pieno di cose.
+[04.---|p22] * * *
+[04.036|p23] — Tu dici che è stata nonna Concetta? — chiese Giulia alla mamma una sera, a cena, mentre la babuška era già salita a dormire.
+[04.037|p23] — Ma figurati — disse mia madre. — È una donna di settantun anni. Cosa fa, entra di notte a girare le tazzine?
+[04.038|p23] — Allora è stata la babuška.
+[04.039|p23] — Giulia.
+[04.040|p23] — Cosa? Qualcuno sarà stato. Le calze non spariscono da sole.
+[04.041|p23] — Le calze spariscono da sole da quando esistono le lavatrici — disse mio padre, che cercava di sdrammatizzare. Nessuno rise.
+[04.042|p23] Io guardavo il piatto.
+[04.043|p23] Mattia invece guardava il frigorifero.
+[04.044|p23] — Il signore dice che sono state le signore — disse all'improvviso.
+[04.045|p23] Tutti si voltarono verso di lui.
+[04.046|p23] — Quale signore? — chiese la mamma.
+[04.047|p23] Mattia alzò le spalle. Indicò il frigorifero con la forchetta.
+[04.048|p23] — Quello piccolo. Quello che brontola. Lo sento la notte. Dice che le signore sono cattive e che gli hanno detto topo.
+[04.049|p23] Ci fu un silenzio.
+[04.050|p23] — Mattia — disse mio padre, piano — con chi parli tu, la notte?
+[04.051|p23] — Con nessuno — disse Mattia. E tornò a mangiare la pasta, tranquillo, come se niente fosse.
+[04.052|p23] La mamma e il papà si guardarono. Giulia alzò gli occhi al cielo. E io, sotto il tavolo, strinsi le mani così forte che mi fecero male.
+[04.053|p23] Mio fratello di sei anni non vedeva niente. Ma sentiva. E se sentiva lui, forse, prima o poi, avrebbero sentito anche gli altri.
+[04.054|p23] E allora cosa sarebbe successo?
+[04.c|p23] ✦   ✦  ✦
+
+===== CAPITOLO 5 — Due nonne che non sanno niente — TA O R M I N A , I N I Z I O O T T O B R E =====
+[05.001|p24] Il primo sabato di ottobre decisi di fare l'investigatrice. Avevo letto abbastanza libri gialli da sapere come si fa. Si prende un quaderno, si scrivono i sospettati, si scrivono gli indizi, e poi si fanno le frecce. Io presi il quaderno di scienze, che era ancora quasi vuoto, e sull'ultima pagina scrissi:
+[05.002|p24] SOSPETTATI: Fomà (domovoj, dietro il frigo). Donna Rosalia, Donna Nina, Donna Tina (Donne di Fora, buco della serratura).
+[05.003|p24] Poi ci pensai un po' e aggiunsi:
+[05.004|p24] ALTRI SOSPETTATI: babuška Galina. Nonna Concetta.
+[05.005|p25] Perché c'era una cosa che non mi tornava. Le due nonne si accusavano a vicenda con gli occhi, è vero. Ma nessuna delle due, mai, diceva una parola contro l'altra davanti a mio padre o a mia madre. E nessuna delle due sembrava davvero sorpresa. Quando le tazzine si erano girate, nonna Concetta non aveva urlato. Aveva solo chiuso la vetrinetta, piano, e si era fatta il segno della croce. Quando il pane era ammuffito, la babuška non si era arrabbiata. Aveva preso il pane, lo aveva guardato, e aveva sussurrato qualcosa in russo, qualcosa che sembrava pazienza.
+[05.006|p25] Le persone che non sanno niente si sorprendono. Le mie nonne non si sorprendevano.
+[05.---|p25] * * *
+[05.007|p25] Il sabato sera mi offrii di accompagnare nonna Concetta a casa dopo cena. Lei mi guardò sospettosa — io non mi offrivo mai di accompagnare nessuno da nessuna parte — ma disse di sì.
+[05.008|p25] Casa di nonna Concetta è due scalinate più su della nostra, e ha un portone di legno ancora più vecchio, con una serratura ancora più grande. Dentro è tutto pizzi e centrini e santi, e c'è sempre odore di cera per mobili e di sugo. La foto di nonno Turi è sulla credenza, con un lumino davanti sempre acceso.
+[05.009|p25] — Vuoi un biscotto? — chiese nonna Concetta.
+[05.010|p25] — No grazie, nonna. Ora vado.
+[05.011|p25] Uscii. Ma non andai a casa. Mi nascosi dietro il vaso grande dei gerani sul pianerottolo, e aspettai.
+[05.012|p25] Dopo mezz'ora le luci di casa di nonna Concetta si spensero tutte, tranne una. Poi la porta si aprì appena, e uscì un odore.
+[05.013|p25] Rosmarino. Rosmarino bruciato, e alloro, e incenso.
+[05.014|p26] Mi avvicinai alla finestra, piano piano. E vidi nonna Concetta, in vestaglia fucsia, che girava per tutte le stanze con un piattino di ceramica in mano, dove bruciavano dei rametti, e con l'altra mano faceva il fumo verso gli angoli. Poi andò in cucina e mise sul tavolo, sopra una tovaglia bianca pulitissima, un piattino con tre biscotti alle mandorle e un bicchierino di rosolio. Tre biscotti. Tre.
+[05.015|p26] Poi si sedette, si sistemò i capelli e disse, a voce alta, verso il portone:
+[05.016|p26] — Signore mie, la casa è pulita, i letti sono fatti. Se volete passare, siete le benvenute. — Poi, a voce più bassa: — E se passate anche da mio figlio, fatemi la cortesia di lasciare in pace la vecchia russa. Non è cattiva. È solo forestiera.
+[05.017|p26] Io rimasi con la faccia contro il vetro, a bocca aperta.
+[05.018|p26] Nonna Concetta sapeva. Nonna Concetta sapeva tutto.
+[05.---|p26] * * *
+[05.019|p26] Tornai a casa di corsa, e trovai la casa buia. Erano le dieci e mezza. Mamma e papà erano usciti al cinema all'aperto, per la prima volta da mesi; Giulia era da un'amica; Mattia dormiva. La babuška doveva essere a letto.
+[05.020|p26] Ma in cucina c'era una luce.
+[05.021|p26] Era la luce di una candela. Una candela piccola, di quelle che si mettono sulle torte, accesa e piantata in un pezzo di pane.
+[05.022|p26] La babuška era in ginocchio davanti al frigorifero, con il fazzoletto in testa. Davanti a lei, sul pavimento, c'erano una scodellina di latte, un pezzetto di pane con il sale e un cucchiaio di kaša, la pappa di grano saraceno che la mamma odia e che la babuška mangia ogni mattina.
+[05.023|p27] — Fomà — diceva la babuška, piano, in russo. — Fomuška. Lo so che sei arrabbiato. Lo so che non ti piace. Non c'è la stufa, fa caldo, ci sono queste signore. Ma devi avere pazienza. Siamo ospiti. Non si fanno dispetti in casa d'altri. Hai capito? Lascia stare la moka della signora Concetta. È una brava donna. È solo... siciliana.
+[05.024|p27] Da dietro il frigorifero venne un brontolio lungo, offeso.
+[05.025|p27] — Lo so — disse la babuška. — Lo so. Anche a me manca casa.
+[05.026|p27] E restò lì, in ginocchio, a guardare la candela che si consumava.
+[05.027|p27] Io mi tirai indietro piano, salii le scale senza far rumore, saltando il nono gradino. Mi chiusi in camera. Presi il quaderno di scienze, e sotto ALTRI SOSPETTATI tracciai una riga.
+[05.028|p27] Poi scrissi:
+[05.029|p27] LE NONNE SANNO. TUTTE E DUE. E FANNO FINTA DI NO.
+[05.030|p27] E sotto, più piccolo:
+[05.031|p27] Perché?
+[05.---|p27] * * *
+[05.032|p27] La domenica, a pranzo, provai a chiederlo. Eravamo tutti a tavola, anche nonna Concetta, che la domenica pranzava sempre da noi, e la babuška aveva fatto il boršč, la zuppa rossa di barbabietole, e nonna Concetta aveva portato la parmigiana. Due primi. Nessuno dei due voleva cedere. Mio padre aveva mangiato tutti e due e adesso respirava con difficoltà.
+[05.033|p27] — Nonna — dissi, guardando nonna Concetta. — Tu ci credi alle fate?
+[05.034|p27] Nonna Concetta si fermò con la forchetta a mezz'aria.
+[05.035|p28] — Alle fate? — disse. — Che domande. Le fate sono nelle favole.
+[05.036|p28] — E tu, babuška? — dissi. — Ci credi agli spiriti della casa?
+[05.037|p28] La babuška si pulì la bocca con il tovagliolo, con calma.
+[05.038|p28] — Veročka — disse. — Sono una donna vecchia. Ho visto la guerra fredda, la perestrojka e i telefoni con le foto. Non credo a niente.
+[05.039|p28] Le due nonne si guardarono, per un secondo. E poi, tutte e due insieme, tornarono a mangiare. Ma io lo vidi, quel secondo. Fu come quando due persone si incontrano per strada con lo stesso vestito, e fanno finta di non accorgersene.
+[05.040|p28] Mentivano tutte e due. E lo sapevano tutte e due.
+[05.041|p28] E io ero in mezzo, con il cucchiaio nel boršč e la forchetta nella parmigiana, e mi sentivo divisa esattamente a metà.
+[05.c|p28] ✦  ✦   ✦
+
+===== CAPITOLO 6 — Pokrov — TA O R M I N A , 1 4 O T T O B R E =====
+[06.001|p29] Il quattordici ottobre, a Taormina, c'erano ventisei gradi. Lo so perché lo disse la radio del bar di papà, dove andavo il pomeriggio dopo la scuola a fare i compiti al tavolino in fondo, quello vicino al bagno, che nessun turista vuole. I turisti, a metà ottobre, giravano ancora in pantaloncini e infradito, e ordinavano granite al limone come se fosse agosto. Papà diceva che l'estate a Taormina finisce quando lo decide lei, e quest'anno non aveva ancora deciso.
+[06.002|p29] Quando tornai a casa, alle sei, trovai la babuška seduta sul balcone, con il cappotto verde addosso.
+[06.003|p29] Il cappotto. Con ventisei gradi.
+[06.004|p29] — Babuška — dissi. — Non hai caldo?
+[06.005|p29] — Oggi è il Pokrov — disse lei, senza voltarsi.
+[06.006|p29] Mi sedetti accanto a lei, sul gradino del balcone. Da lì si vede un pezzo di mare tra due tetti, e un pezzo di Etna, che a quell'ora diventa viola.
+[06.007|p29] — Che cos'è il Pokrov?
+[06.008|p30] La babuška ci pensò un po', come se cercasse le parole giuste in italiano.
+[06.009|p30] — Pokrov vuol dire... velo. Mantello. Una cosa che copre e protegge. È una festa della Madonna. Si racconta che una volta, tanto tempo fa, a Costantinopoli, la gente aveva paura, c'era la guerra, e la Madonna apparve nella chiesa e stese il suo velo sopra tutti, per proteggerli. Da allora, il quattordici ottobre, in Russia si fa festa.
+[06.010|p30] — Come la Madonna della Lettera a Messina?
+[06.011|p30] — Più o meno. — La babuška sorrise appena. — Ma da noi il Pokrov è anche un'altra cosa. Al villaggio di mia nonna dicevano che il Pokrov è il giorno in cui l'inverno copre la terra. Con la prima neve. Il primo bianco. E le ragazze dicevano: Pokrov, Pokrov, copri la terra di neve, e me di un fidanzato.
+[06.012|p30] Risi. Anche lei rise, piano.
+[06.013|p30] — E nevicava davvero?
+[06.014|p30] — Spesso. Non sempre. Ma il quattordici ottobre si sentiva già. L'aria diventava fina, fredda, sapeva di ferro. Le foglie delle betulle erano tutte gialle e cadevano. Si accendeva la stufa per la prima volta. Si chiudevano le finestre con la carta, per non far entrare il vento. Si tiravano fuori i valenki, gli stivali di feltro. E la casa... la casa diventava piccola e calda, e tutti stavano vicini.
+[06.015|p30] Si strinse nel cappotto.
+[06.016|p30] — Kolja accendeva la stufa il giorno del Pokrov. Sempre. Anche quando abbiamo avuto i termosifoni, in città, lui aveva comprato una stufetta di ghisa, piccola così, e il quattordici ottobre la accendeva. Diceva che era per il domovoj. Io gli dicevo che era un vecchio scemo.
+[06.017|p31] Non disse altro. Guardò il mare, che diventava grigio, e l'Etna, che diventava nera. E io le presi la mano, che era fredda nonostante il caldo, e rimanemmo lì.
+[06.---|p31] * * *
+[06.018|p31] Quella notte non riuscivo a dormire, di nuovo. Scesi in cucina. Fomà era seduto sul bordo del lavandino, con i piedi a penzoloni, e guardava fuori dalla finestra. Non mi sentì arrivare. Era la prima volta che lo vedevo fuori dal suo nascondiglio senza che stesse litigando con qualcuno.
+[06.019|p31] — Fomà — dissi piano.
+[06.020|p31] Lui sobbalzò, e per poco non cadde nel lavandino.
+[06.021|p31] — Tu! Sempre tu. Non dormi mai, tu?
+[06.022|p31] — Non ci riesco.
+[06.023|p31] — Nemmeno io. — Si girò di nuovo verso la finestra. — In questo paese fa troppo caldo per dormire.
+[06.024|p31] Mi sedetti sulla sedia accanto al lavandino. Guardai anch'io fuori. Il cortile, il limone nero contro il cielo, la luce del lampione.
+[06.025|p31] — Oggi era il Pokrov — dissi.
+[06.026|p31] Fomà fece un verso, una specie di sbuffo.
+[06.027|p31] — Lo so che giorno era. Credi che non lo sappia? Duecento anni, Pokrov dopo Pokrov. La stufa accesa. Il primo fuoco. Io mi mettevo dietro, nell'angolo caldo, e sentivo il legno che scoppiettava, e la famiglia che mangiava le frittelle, e fuori la neve. — Si tirò la barba. — Kolja la accendeva per me, la stufetta. Lo sapevi? Lo diceva a tua nonna che era per il domovoj, e lei rideva. Ma era vero. La accendeva per me.
+[06.028|p31] Rimase in silenzio. Poi disse, con la voce più piccola:
+[06.029|p31] — Quest'anno niente stufa. Niente neve. Niente Kolja.
+[06.030|p32] Io non sapevo cosa dire. Guardai il vecchietto seduto sul bordo del lavandino, con la barba lunga fino ai piedi e i pugni stretti sulle ginocchia, e per la prima volta non mi sembrò buffo. Mi sembrò solo vecchio, e lontano da casa.
+[06.031|p32] — Ti manca? — chiesi.
+[06.032|p32] — Il domovoj non ha nostalgia — disse Fomà. — Il domovoj sta dove sta la famiglia. È la regola. — Tirò su con il naso. — Ma la famiglia è lì, e la casa era là. E adesso io non so più dove sto.
+[06.---|p32] * * *
+[06.033|p32] Rimasi un po' con lui. Poi mi venne un'idea. Andai al cassetto dove la mamma tiene le candele per quando salta la luce. Ne presi una, una candela bianca normale, e la misi in un bicchiere. Poi presi un piattino, ci misi sopra un pezzo di pane, e il sale. E accesi la candela con l'accendino del gas.
+[06.034|p32] La misi sul pavimento, nello spazio davanti al frigorifero.
+[06.035|p32] — Non è una stufa — dissi. — Ma è un fuoco. Per il Pokrov.
+[06.036|p32] Fomà mi guardò. Guardò la candela. Per un momento pensai che si sarebbe arrabbiato, che avrebbe detto che era una cosa da niente, una candela da quattro soldi.
+[06.037|p32] Invece scese dal lavandino, piano, si avvicinò e si sedette davanti alla candela, a gambe incrociate. Allungò le manine pelose verso la fiamma, come si fa davanti a un camino.
+[06.038|p32] — Brava — disse, dopo un po', senza guardarmi. — Brava, Veročka.
+[06.039|p32] Era la prima volta che mi chiamava per nome.
+[06.040|p33] Rimasi seduta sulla sedia a guardarlo, mentre la candela si consumava, e pensai alla babuška sul balcone con il cappotto addosso. Pensai che anche lei, come Fomà, non sapeva più dove stava.
+[06.041|p33] E pensai che forse non c'era niente di male in loro due. Non erano cattivi. Non volevano la guerra. Avevano solo freddo, in un posto dove faceva caldo.
+[06.042|p33] Fuori, sul cortile, il limone si mosse appena, anche se non c'era vento. E dal buco della serratura dell'ingresso, mi sembrò, per un attimo, di vedere uscire un filo di nebbia bianca, che guardava dentro, e poi si ritirava.
+[06.c|p33] ✦  ✦   ✦
+
+===== CAPITOLO 7 — La casa tossisce — TA O R M I N A , S E C O N D A M E T À D I O T T O B R E =====
+[07.001|p34] Il giorno dopo il Pokrov la guerra ricominciò, peggio di prima. Non so chi cominciò. Forse Donna Nina, che aveva visto la candela e aveva detto che Fomà voleva bruciare la casa. Forse Fomà, che per vendetta aveva riempito di briciole i letti di tutta la famiglia. Forse nessuno: forse la guerra, una volta che comincia, va avanti da sola, come una bicicletta in discesa.
+[07.002|p34] Ma questa volta successe una cosa diversa.
+[07.003|p34] La casa si ammalò.
+[07.---|p34] * * *
+[07.004|p34] Il primo segno fu la crepa. Una mattina, scendendo le scale per andare a scuola, la vidi. Era sul muro delle scale, all'altezza del nono gradino, quello che scricchiola. Una crepa sottile, lunga come una mano, che partiva da un angolo e andava verso il soffitto, storta, come un fulmine disegnato a matita.
+[07.005|p35] — Papà — dissi. — C'è una crepa.
+[07.006|p35] Mio padre venne a guardare, si grattò la testa, disse che le case vecchie fanno così, che era l'umidità, che avrebbe chiamato il muratore. Ma il giorno dopo la crepa era lunga due mani. E il giorno dopo ancora, tre.
+[07.007|p35] Il secondo segno fu la luce.
+[07.008|p35] Saltava. Senza motivo. Eravamo a cena, o la mamma stava stirando, o Giulia si stava asciugando i capelli, e tac: tutto buio. Papà scendeva al quadro elettrico con la torcia, tirava su l'interruttore, e la luce tornava. Poi, dopo un'ora, tac. L'elettricista venne due volte e disse che l'impianto era a posto. La terza volta non venne più.
+[07.009|p35] Il terzo segno fu l'acqua. Dal rubinetto della cucina cominciò a uscire un'acqua che sapeva di ferro e di ruggine, anche se era limpida. La mamma comprò le casse d'acqua al supermercato e le portammo su per la scalinata, sudando, sei bottiglie per volta.
+[07.010|p35] E il quarto segno, il peggiore, fu il limone.
+[07.011|p35] Il limone del cortile, quello che era il vero padrone di casa, cominciò a perdere le foglie. A ottobre. Un limone. Ogni mattina il cortile era coperto di foglie gialle e accartocciate, e i limoni piccoli, ancora verdi, cadevano a terra e rotolavano contro il muro.
+[07.012|p35] — Sta morendo — disse nonna Concetta, una mattina, guardandolo dalla finestra. Lo disse piano, come si dice una cosa che fa paura. — Questo limone l'ha piantato il nonno di tuo nonno, Vera. Non si è mai ammalato. Mai. Nemmeno con la siccità del Novantadue.
+[07.013|p35] E poi guardò la babuška, che era seduta al tavolo con la sua tazza di tè. E la babuška guardò lei.
+[07.014|p35] E di nuovo non dissero niente.
+[07.---|p35] * * *
+[07.015|p36] Io lo sapevo, perché lo sentivo. Non so come spiegarlo. Era come quando hai l'influenza e ti fanno male le ossa e non sai dire esattamente dove. La casa aveva l'influenza. Si sentiva nelle pareti, nei gradini, nel modo in cui le porte si chiudevano sbattendo da sole. Di notte la casa scricchiolava come un vecchio che si gira nel letto e non trova la posizione. E una notte, giuro, sentii la casa tossire. Un colpo secco, profondo, che veniva da dentro i muri.
+[07.016|p36] E sentivo le altre cose, quelle che non erano nei muri. Fomà, dietro il frigorifero, che non cantava più e non russava più, ma borbottava tutta la notte, arrabbiato. Le Donne di Fora che entravano il martedì, il giovedì e il sabato, e non ridevano più, e invece di girare per le stanze come facevano prima, con il loro profumo di rosmarino, restavano nell'ingresso, rigide, a guardare la cucina come si guarda un nemico.
+[07.017|p36] La casa era malata perché loro litigavano. Ne ero sicura. Era come una famiglia dove tutti si urlano addosso: alla fine anche i muri si stancano.
+[07.---|p36] * * *
+[07.018|p36] Ma il peggio non furono i muri.
+[07.019|p36] Il peggio fu una sera di fine ottobre, un martedì. Ero in camera mia a fare i compiti di inglese, e sentii delle voci dalla cucina. Mia madre e mio padre. Non stavano parlando. Stavano litigando.
+[07.020|p36] Io non li avevo mai sentiti litigare davvero. Discutere sì, su chi doveva portare giù la spazzatura, o se Giulia poteva andare alla festa. Ma litigare così, con le voci basse e dure, no. Mai.
+[07.021|p37] Uscii in corridoio, scalza, e mi sedetti in cima alle scale.
+[07.022|p37] — ...non ho detto questo, Irina — diceva mio padre. — Ho detto solo che dobbiamo parlarne.
+[07.023|p37] — Parlarne di cosa? Di mandarla via? Mia madre è sola, Salvo. Sola. In un appartamento al quarto piano, senza ascensore, a settantaquattro anni, con il ginocchio che non va. Dove deve andare?
+[07.024|p37] — Non ho detto di mandarla via. Ho detto che la casa è piccola. Che io lavoro sul tavolo della cucina. Che i ragazzi sono nervosi. Che tua madre e mia madre non si possono vedere...
+[07.025|p37] — Tua madre non può vedere mia madre.
+[07.026|p37] — Ah, ecco. Adesso è colpa di mia madre.
+[07.027|p37] — Non ho detto questo.
+[07.028|p37] — L'hai detto.
+[07.029|p37] Silenzio. Poi la voce di mia madre, più bassa, e incrinata:
+[07.030|p37] — Avevi detto solo per un po'. Va bene. Ma un po' quanto, Salvo? Dimmelo tu. Quanto?
+[07.031|p37] E mio padre non rispose.
+[07.032|p37] Io rimasi seduta sul gradino, con le ginocchia strette contro il petto. Sentivo una cosa nella pancia, come una mano fredda che stringeva.
+[07.033|p37] Dietro di me si aprì una porta. Era Giulia. Aveva le cuffie al collo e la faccia arrabbiata, ma non di quella rabbia da sedicenne che ha sempre. Una rabbia diversa, spaventata.
+[07.034|p37] — Hai sentito? — disse piano.
+[07.035|p37] Annuii.
+[07.036|p37] — È tutto da quando è arrivata lei — disse Giulia, e la voce le tremava. — Tutto. La casa che si rompe. Mamma e papà che litigano. Le nonne che si odiano. Era tutto normale, prima.
+[07.037|p37] — Non è colpa della babuška.
+[07.038|p38] — E di chi è?
+[07.039|p38] Io non potevo dirglielo. Come facevo a dirle che era colpa di un vecchietto alto come una bottiglia e di tre signore fatte di nebbia? Mi avrebbe riso in faccia. O peggio, mi avrebbe guardata come si guarda una bambina piccola.
+[07.040|p38] — Non lo so — dissi.
+[07.041|p38] Giulia mi guardò un altro momento. Poi rientrò in camera e sbatté la porta.
+[07.042|p38] E nel muro delle scale, accanto a me, la crepa scricchiolò, e si allungò ancora di un dito.
+[07.---|p38] * * *
+[07.043|p38] Quella notte, nel letto, pensai a una cosa che non avevo mai pensato prima.
+[07.044|p38] Pensai che se la babuška se ne andava, sarebbe tornata in Russia, nel suo appartamento al quarto piano, e io l'avrei vista una volta l'anno, d'estate, come il dedushka Kolja. E Fomà sarebbe andato con lei, nella scarpa. E la casa sarebbe tornata come prima: le Donne di Fora il martedì, il giovedì e il sabato, nonna Concetta con la sua moka, papà con i suoi conti nello studio.
+[07.045|p38] Tutto normale. Tutto siciliano.
+[07.046|p38] E una metà di me, una metà piccola e cattiva, pensò: forse sarebbe meglio.
+[07.047|p38] E l'altra metà si mise a piangere.
+[07.048|p38] E io rimasi lì, al buio, divisa in due, e non sapevo più quale delle due metà fossi io.
+[07.c|p38] ✦  ✦  ✦
+
+===== CAPITOLO 8 — Il consiglio di mezzanotte — TA O R M I N A , C A S A R U S S O , U N G I O V E D Ì A M E Z Z A N O T T E =====
+[08.001|p39] Il giovedì decisi di fare una riunione. Avevo visto le riunioni dei grandi in televisione: i presidenti seduti intorno a un tavolo con le bandierine davanti e le bottigliette d'acqua, che parlano, parlano, e alla fine si stringono la mano e firmano un foglio. Pensai che se funzionava con le nazioni, poteva funzionare anche con una cucina.
+[08.002|p39] Preparai tutto con cura. Dopo cena, quando tutti erano saliti, pulii il tavolo della cucina due volte, perché le Donne di Fora vogliono la casa in ordine. Misi la tovaglia bianca, quella della domenica. Da un lato del tavolo misi un piattino con tre biscotti alle mandorle e tre bicchierini d'acqua, perché il rosolio non sapevo dove lo teneva la mamma. Dall'altro lato misi un piattino con pane nero e sale, e una scodellina di latte. In mezzo misi la candela del Pokrov, quella mezza consumata. E un foglio bianco e una penna, per firmare il trattato.
+[08.003|p39] Poi aspettai.
+[08.004|p39] A mezzanotte meno cinque, dal buco della serratura entrò la nebbia.
+[08.---|p39] * * *
+[08.005|p40] Donna Rosalia si formò per prima, con il vestito color vino e il ventaglio. Poi Donna Nina, con le perle. Poi Donna Tina, con il vestito celeste. Si guardarono intorno, videro la tovaglia, i biscotti, la candela, e me seduta a capotavola con le mani giunte.
+[08.006|p40] — E questo cos'è? — disse Donna Rosalia.
+[08.007|p40] — È una riunione — dissi. — Per fare la pace. Prego, accomodatevi.
+[08.008|p40] Le tre signore si guardarono. Donna Tina sorrise, curiosa, e fece per sedersi. Donna Rosalia la fermò con il ventaglio.
+[08.009|p40] — Con chi?
+[08.010|p40] — Con Fomà.
+[08.011|p40] Dal frigorifero venne uno sbuffo.
+[08.012|p40] — Io non faccio la pace con le gallinelle.
+[08.013|p40] — Fomà — dissi. — Per favore. Vieni fuori.
+[08.014|p40] Ci volle un po'. Ma alla fine Fomà uscì, trascinandosi dietro il lapot', e salì sulla sedia dall'altro lato del tavolo, e poi dalla sedia salì sul tavolo, perché dalla sedia non si vedeva niente. Si sedette a gambe incrociate accanto al pane, con la barba arrotolata in grembo.
+[08.015|p40] Le Donne di Fora si sedettero dall'altra parte. Non sulle sedie: un po' sopra. Galleggiavano un dito sopra il legno, con la gonna che scendeva come una cascata di nebbia.
+[08.016|p40] E io in mezzo. A capotavola. Come un presidente.
+[08.017|p40] — Bene — dissi, e mi schiarii la voce. — Allora. Siamo qui perché la casa è malata. C'è una crepa nel muro, la luce salta, l'acqua sa di ferro, il limone perde le foglie. E mamma e papà litigano. E secondo me è perché voi litigate. Quindi dovete smettere.
+[08.018|p40] Silenzio.
+[08.019|p40] — È stato lui a cominciare — disse Donna Nina.
+[08.020|p41] — Io? Voi! Voi mi avete chiamato topo!
+[08.021|p41] — Perché sei un topo.
+[08.022|p41] — Sono un domovoj!
+[08.023|p41] — Un topo con la barba!
+[08.024|p41] — Gallinelle in pizzo!
+[08.025|p41] — Basta! — dissi io. — Così non va. Facciamo un'altra cosa. Facciamo che ognuno dice cosa vuole. Con calma. Comincia Donna Rosalia.
+[08.026|p41] Donna Rosalia aprì il ventaglio, lentamente.
+[08.027|p41] — Io voglio — disse — che le cose stiano come sono sempre state. Questa è una casa siciliana. È la casa dei Russo da centocinquant'anni. Noi la proteggiamo da quando era un pagliaio con il tetto di canne. Abbiamo visto nascere il nonno di Salvatore, e il padre di Salvatore, e Salvatore, e te. Noi sappiamo come si tiene questa casa. Questo... signore... arriva in una scarpa, dalla Russia, senza chiedere permesso a nessuno, si mette dietro il frigorifero e dice che la casa è sua. — Chiuse il ventaglio. — Voglio che se ne vada.
+[08.028|p41] Fomà diventò rosso come la sua camicia.
+[08.029|p41] — E io voglio — disse, alzandosi in piedi sul tavolo — che loro se ne vadano! Io sono il domovoj della famiglia di Galina Petrovna. Della famiglia Ivanov. La figlia di Galina Petrovna vive in questa casa. I figli della figlia vivono in questa casa. Quindi questa è la mia famiglia, e io devo proteggerla. È la regola! Il domovoj sta dove sta la famiglia! — Si girò verso le Donne. — E voi chi siete? Venite tre notti a settimana, guardate se c'è la polvere e ve ne andate. Che protezione è? Io ci sto sempre. Giorno e notte. Dietro il frigo.
+[08.030|p41] — Il frigo! — rise Donna Nina. — Che bel posto per uno spirito!
+[08.031|p41] — Non c'è la stufa!
+[08.032|p42] — E perché non te ne torni dove c'è la stufa?
+[08.033|p42] — Perché la mia famiglia è qui!
+[08.034|p42] — La nostra famiglia è qui!
+[08.035|p42] — Smettetela! — gridai.
+[08.036|p42] Ma non smettevano. Fomà saltava sul tavolo e agitava i pugni. Donna Nina urlava con la voce stridula. Donna Rosalia diceva cose gelide, pianissimo, che erano peggio degli urli. Il pane rotolò per terra. Un bicchierino d'acqua si rovesciò sulla tovaglia. La candela tremò.
+[08.037|p42] E la casa, intorno a noi, cominciò a scricchiolare. Le ante dei pensili si aprivano e si chiudevano da sole. Il frigorifero ronzava più forte, come un gatto arrabbiato. La lampadina sopra il tavolo si accese e si spense, si accese e si spense. Nel muro delle scale sentii la crepa allungarsi con un rumore secco, crac, come un ramo che si rompe.
+[08.038|p42] E io non ce la feci più.
+[08.039|p42] Mi alzai in piedi. Battei le mani sul tavolo, forte, così forte che mi fecero male.
+[08.040|p42] — BASTA! — urlai. — Basta, basta, basta! Voi due, voi tre, sempre a dire mia, nostra, siciliana, russa! E io? Io cosa sono? Mia mamma è russa e mio papà è siciliano! Io ho una nonna che fa gli arancini e una nonna che fa i pirožki! Io parlo russo con la babuška e siciliano con la nonna Concetta! Io sono metà e metà! Quindi di chi sono io, eh? Vostra? O sua? Ditemelo! Di chi sono?
+[08.---|p42] * * *
+[08.041|p43] Ci fu un silenzio enorme. La lampadina smise di lampeggiare. Le ante si fermarono. Il frigorifero tacque.
+[08.042|p43] Le tre Donne di Fora mi guardavano. Fomà mi guardava, in piedi sul tavolo, con un pugno ancora per aria.
+[08.043|p43] Io avevo il fiato corto e le guance bagnate. Non mi ero accorta di piangere.
+[08.044|p43] Fu Donna Tina, la più giovane, a parlare per prima. Lo disse piano, quasi meravigliata:
+[08.045|p43] — È vero. Lei è tutte e due le cose. Per questo ci vede. Ci vede tutti.
+[08.046|p43] Donna Rosalia non disse niente. Guardava me, e poi guardava Fomà, e il ventaglio le tremava appena nella mano.
+[08.047|p43] Poi si alzò. Si sistemò la gonna di nebbia. E disse una cosa che non avrei mai voluto sentire.
+[08.048|p43] Non la disse a me. La disse a Fomà. Con una voce bassa, senza cattiveria, quasi stanca. E proprio per questo fu peggio.
+[08.049|p43] — La bambina è di tutti e due, va bene. Ma tu, vecchio, qui non sei di casa. Non lo sarai mai. Questa terra non è la tua. Il sole non è il tuo, il mare non è il tuo, i santi non sono i tuoi. Qui sei forestiero. E i forestieri, prima o poi, se ne vanno.
+[08.050|p43] E se ne andò, nella nebbia, dal buco della serratura. Donna Nina la seguì, senza voltarsi. Donna Tina esitò un momento, guardò me, guardò Fomà, aprì la bocca come per dire qualcosa. Poi seguì le altre.
+[08.051|p43] Rimanemmo soli, io e Fomà, nella cucina in disordine, con il pane per terra e la tovaglia bagnata.
+[08.052|p43] Fomà non disse niente. Scese dal tavolo, piano, senza saltare. Raccolse il pane da terra, lo spolverò, lo mise sul piattino. Poi prese il lapot' e si trascinò dietro il frigorifero.
+[08.053|p43] — Fomà — dissi.
+[08.054|p43] Niente.
+[08.055|p44] — Fomà, non ascoltarla. Non è vero.
+[08.056|p44] Da dietro il frigorifero non venne nessuna risposta. Né un brontolio, né uno sbuffo.
+[08.057|p44] Solo silenzio.
+[08.c|p44] ✦  ✦  ✦
+
+===== CAPITOLO 9 — La scarpa vuota — TA O R M I N A , I L V E N E R D Ì E I L S A B AT O =====
+[09.001|p45] La mattina dopo, il lapot' non c'era più. Me ne accorsi subito, appena entrata in cucina, prima ancora di fare colazione. Mi inginocchiai davanti al frigorifero e guardai nello spazio dietro, con la torcia del telefono. Polvere. Una molletta da bucato. Il tappo di una bottiglia. E basta. Né la scarpa, né il vecchietto, né la barba.
+[09.002|p45] — Fomà? — sussurrai.
+[09.003|p45] Niente.
+[09.004|p45] Il pane e il sale che avevo rimesso sul piattino erano ancora lì, intatti. Il latte era ancora nella scodellina. Fomà non aveva mangiato. Era la prima volta da quando era arrivato.
+[09.005|p45] Guardai dappertutto. Sotto il lavandino. Nel forno. Nella dispensa. Nel cesto della biancheria, nella scarpiera dell'ingresso, sotto i letti, dietro la lavatrice. Arrivai persino a guardare nel cortile, sotto il limone, tra le foglie gialle. Niente.
+[09.006|p45] Fomà se n'era andato.
+[09.---|p45] * * *
+[09.007|p46] E la casa se ne accorse subito. Quella mattina, quando mia madre aprì il rubinetto, l'acqua uscì marrone. Non di ferro: marrone. La crepa del muro delle scale era diventata così lunga che arrivava al soffitto, e dal soffitto era caduto un pezzetto di intonaco, proprio sul nono gradino. La luce saltò quattro volte prima delle otto. Il limone, in cortile, aveva perso metà delle foglie in una notte, e i rami nudi sembravano dita.
+[09.008|p46] E la babuška non scese a fare colazione.
+[09.009|p46] Salii io a vedere. Era ancora a letto, con la coperta tirata fino al mento, gli occhi lucidi e le guance rosse.
+[09.010|p46] — Babuška?
+[09.011|p46] — Sto bene, Veročka — disse. Ma la voce era roca. — Ho solo un po' di freddo.
+[09.012|p46] Le toccai la fronte. Scottava.
+[09.013|p46] Chiamai la mamma. La mamma chiamò il dottore. Il dottore venne a metà mattina, un signore anziano con la borsa di cuoio che conosceva tutti nella scalinata, e disse che era un'influenza, che con l'età bisognava stare attenti, che doveva stare a letto, bere tanto, prendere la tachipirina, e che se la febbre non scendeva in tre giorni lo dovevamo richiamare.
+[09.014|p46] — Niente di grave — disse alla mamma, sulla porta. — Ma è stanca, la signora. Stanca dentro. Succede, a quell'età, quando si cambia paese.
+[09.015|p46] La mamma annuì. Poi, quando il dottore se ne fu andato, si sedette sul gradino delle scale, proprio sotto la crepa, e si coprì la faccia con le mani.
+[09.016|p46] Io andai a sedermi accanto a lei. Non dissi niente. Le appoggiai la testa sulla spalla.
+[09.017|p47] — È colpa mia — disse la mamma, dopo un po', con la voce soffocata dalle mani. — L'ho portata qui. L'ho tolta da casa sua. A settantaquattro anni.
+[09.018|p47] — Non è colpa tua, mamma.
+[09.019|p47] — E allora di chi è?
+[09.020|p47] Era la stessa domanda di Giulia. E io, di nuovo, non potevo rispondere.
+[09.021|p47] O forse sì.
+[09.---|p47] * * *
+[09.022|p47] Quel giorno non andai a scuola. Rimasi a casa con la babuška, perché la mamma doveva lavorare: c'era un gruppo di turisti russi da portare al Teatro Antico e poi a Castelmola, e non poteva lasciarli. Papà era al bar. Giulia a scuola. Mattia all'asilo, anzi, in prima elementare, ma lui diceva ancora asilo.
+[09.023|p47] Io stavo seduta sulla sedia accanto al letto della babuška e le cambiavo il panno bagnato sulla fronte ogni mezz'ora. Lei dormiva quasi sempre. Ogni tanto apriva gli occhi e diceva qualcosa in russo, cose confuse: il nome del dedushka, il nome della sua via a San Pietroburgo, una parola che sembrava stufa.
+[09.024|p47] Una volta aprì gli occhi e mi guardò, lucida.
+[09.025|p47] — Veročka — disse. — Il lapot'. È al suo posto?
+[09.026|p47] Io esitai.
+[09.027|p47] — Sì, babuška — mentii. — È al suo posto.
+[09.028|p47] Lei chiuse gli occhi, rassicurata. E io mi sentii la peggiore bugiarda del mondo.
+[09.029|p48] Perché adesso avevo capito. La babuška non era malata per l'influenza. O non solo. Era malata perché Fomà se n'era andato. Il domovoj protegge la famiglia: lo avevo letto, quella settimana, su internet, di nascosto, in tutti i siti che avevo trovato. Il domovoj tiene lontane le malattie, avvisa dei pericoli, fa andare bene le cose di casa. Quando il domovoj è contento, la casa è contenta. Quando il domovoj se ne va...
+[09.030|p48] Quando il domovoj se ne va, la casa resta sola.
+[09.---|p48] * * *
+[09.031|p48] Il sabato la febbre della babuška era ancora alta. La crepa aveva fatto un ramo nuovo, verso la camera dei miei. E io avevo cercato Fomà dappertutto, anche fuori di casa: nella scalinata, nei vasi dei gerani, sotto il portone di nonna Concetta, dietro il bidone della spazzatura in fondo alla discesa. Avevo chiamato il suo nome sottovoce in tutti gli angoli, come si chiama un gatto scappato.
+[09.032|p48] Niente.
+[09.033|p48] La sera, quando il cielo diventò viola e poi blu, mi sedetti sul gradino del balcone, dove la babuška si era seduta il giorno del Pokrov. Guardai il pezzo di mare tra i tetti. Guardai l'Etna, nera. E pensai a quello che aveva detto Donna Rosalia.
+[09.034|p48] Qui sei forestiero. E i forestieri, prima o poi, se ne vanno.
+[09.035|p48] Dove va un domovoj che se ne va? Non ha una casa. Non ha soldi. Non ha documenti. È alto come una bottiglia. Non sa nemmeno parlare bene l'italiano. Dove poteva andare, da solo, in una notte di fine ottobre, con la sua scarpa di corteccia?
+[09.036|p48] Fu allora che sentii la porta del balcone aprirsi dietro di me.
+[09.037|p48] Era Mattia, in pigiama, con il suo coniglio di pezza sotto il braccio.
+[09.038|p48] — Vera — disse. — Lo cerchi, il signore piccolo?
+[09.039|p49] Io mi voltai di scatto.
+[09.040|p49] — Tu lo sai dov'è?
+[09.041|p49] Mattia si sedette accanto a me sul gradino, serio serio, con il coniglio in grembo.
+[09.042|p49] — No — disse. — Però so da che parte è andato.
+[09.c|p49] ✦  ✦   ✦
+
+===== CAPITOLO 10 — Il fratello che quasi vede — TA O R M I N A E M A Z Z A R Ò , U N A D O M E N I C A P O M E R I G G I O =====
+[10.001|p50] — Farina — disse Mattia.
+[10.002|p50] Era domenica, primo pomeriggio. Stavamo in cima alla scalinata, davanti al nostro portone, e Mattia mi indicava il gradino con il dito. Io guardai. Non vidi niente.
+[10.003|p50] — Lì. Guarda bene.
+[10.004|p50] Mi inginocchiai. E allora la vidi: una piccola impronta bianca, più piccola di una moneta da un euro. Un piede nudo, con le dita lunghe. Disegnato nella farina sulla pietra grigia.
+[10.005|p50] — Come facevi a saperlo? — chiesi.
+[10.006|p50] Mattia alzò le spalle.
+[10.007|p50] — Il signore piccolo ha sempre la farina sui piedi. Perché dorme dietro il frigo, e il frigo è vicino al sacco della farina della babuška. Io lo sento camminare la notte, e la mattina ci sono i puntini bianchi per terra. La mamma pensa che sono io che rovescio la farina. Mi sgrida. Ma non sono io.
+[10.008|p51] Lo guardai, il mio fratellino di sei anni, con il cappellino da baseball storto e il coniglio di pezza infilato nello zaino, con le orecchie che uscivano dalla cerniera. Mattia non vedeva Fomà. Me l'aveva detto lui: «io non lo vedo, lo sento». Ma sentiva tutto. Sentiva i passi, le voci, il russare. Vedeva le briciole, le impronte, le cose spostate. Era come uno che non può guardare il sole ma sente il caldo sulla faccia.
+[10.009|p51] — E da che parte vanno, i puntini?
+[10.010|p51] Mattia indicò in basso. Giù per la scalinata. Verso il Corso.
+[10.---|p51] * * *
+[10.011|p51] Dissi alla mamma che portavo Mattia ai giardini della Villa Comunale. La mamma era in camera della babuška, che dormiva con la febbre che finalmente scendeva un pochino, e disse di sì senza nemmeno guardarci, con la testa piena di pensieri. Papà era al bar. Giulia era chiusa in camera.
+[10.012|p51] Uscimmo.
+[10.013|p51] Le impronte di farina erano piccolissime, e sempre più leggere, perché la farina sui piedi di Fomà finiva. Ma Mattia le vedeva. Io non so come facesse. Si fermava, guardava per terra, girava la testa come un cagnolino che annusa, e poi diceva: «di qua». E ogni volta, se mi inginocchiavo e guardavo bene, c'era un puntino bianco. Uno solo. Su un gradino, su un tombino, sul bordo di un marciapiede.
+[10.014|p51] Scendemmo la scalinata. Attraversammo il Corso Umberto, pieno di turisti che mangiavano gelati e fotografavano i balconi. Passammo davanti al bar di papà, e io tirai Mattia per la mano per passare veloci, senza farci vedere. Le impronte andavano verso Porta Messina, e poi giù, verso la stazione della funivia.
+[10.015|p51] — È andato in funivia? — dissi.
+[10.016|p52] — Il signore piccolo è stanco — disse Mattia, serio. — Ha le gambe corte. Le scale sono lunghe.
+[10.017|p52] Aveva ragione. Pensai a Fomà, alto come una bottiglia, che scendeva tutta la scalinata di notte, e poi il Corso, e poi la strada. Era vecchio. Era arrabbiato. Era triste. Certo che aveva preso la funivia. Probabilmente si era nascosto in una cabina, sotto un sedile, e aveva fatto il viaggio gratis.
+[10.018|p52] Avevo i soldi della paghetta in tasca: dieci euro. Comprai due biglietti. La cabina della funivia era rossa, piena di turisti tedeschi con lo zaino. Mattia si appiccicò al vetro, con il naso schiacciato, a guardare il mare che si avvicinava. Sotto di noi c'erano gli ulivi, i fichi d'India, le ville con le piscine azzurre. E in fondo, la baia di Mazzarò, con l'acqua così trasparente che si vedevano i sassi del fondo.
+[10.019|p52] — Vera — disse Mattia, senza staccare il naso dal vetro. — Il signore piccolo torna?
+[10.020|p52] — Non lo so.
+[10.021|p52] — Se non torna, la babuška guarisce lo stesso?
+[10.022|p52] Io non risposi.
+[10.023|p52] Mattia si girò e mi guardò. Aveva gli occhi grigi, come la babuška. Come il dedushka. Come me.
+[10.024|p52] — Io voglio che torna — disse. — Mi piace sentirlo russare.
+[10.---|p52] * * *
+[10.025|p52] A Mazzarò le impronte erano quasi sparite. Mattia girò in tondo sul piazzale della funivia per cinque minuti, con la faccia concentrata, mentre io guardavo l'orologio del telefono e pensavo a cosa avrebbe detto la mamma se avesse saputo che non eravamo alla Villa Comunale.
+[10.026|p53] — Di là — disse Mattia alla fine.
+[10.027|p53] Indicava la strada lungo il mare. Quella che va verso Giardini Naxos, passando sotto la montagna, con il mare a sinistra e le rocce a destra.
+[10.028|p53] — Sei sicuro?
+[10.029|p53] — C'è odore di pane nero.
+[10.030|p53] Io annusai. C'era odore di mare, di benzina e di frittura. Ma Mattia era sicuro, e io avevo imparato a fidarmi di lui.
+[10.031|p53] Ci incamminammo lungo il marciapiede. A sinistra, il mare luccicava sotto il sole del pomeriggio. Passavano le macchine, i motorini, un autobus blu. E dopo una curva, sotto di noi, tra il mare e la montagna, vidi un edificio che conoscevo solo dalle foto: una stazione vecchia, con il tetto spiovente, le finestre ad arco e le pareti color crema, proprio sul bordo della spiaggia.
+[10.032|p53] La stazione di Taormina-Giardini.
+[10.033|p53] — È lì — disse Mattia. — Il signore piccolo vuole prendere il treno.
+[10.---|p53] * * *
+[10.034|p53] Stavamo per scendere verso la stazione, quando sentii una voce dietro di noi.
+[10.035|p53] — Vera! Mattia! Fermi lì!
+[10.036|p53] Mi voltai. Era Giulia. Aveva il fiatone, la faccia rossa, i capelli tutti scompigliati dal vento e il telefono in mano.
+[10.037|p53] — Che cavolo state facendo? — gridò, raggiungendoci. — La mamma vi crede alla Villa! Vi ho visti dalla finestra mentre attraversavate il Corso e vi ho seguiti fin qui! In funivia! Da soli! Con un bambino di sei anni! Siete matti?
+[10.038|p53] — Giulia...
+[10.039|p54] — Niente Giulia. Adesso torniamo a casa. Subito.
+[10.040|p54] Mi prese per il braccio. Io mi divincolai.
+[10.041|p54] — No! Dobbiamo andare alla stazione.
+[10.042|p54] — Alla stazione? Per andare dove?
+[10.043|p54] Io la guardai. Guardai mia sorella, che non credeva a niente, che rideva delle favole, che diceva che le cose strane erano solo cose normali spiegate male.
+[10.044|p54] E decisi di dirle la verità. Tanto peggio di così non poteva andare.
+[10.045|p54] — Dobbiamo trovare il domovoj della babuška — dissi. — Si chiama Fomà. È scappato giovedì notte perché le Donne di Fora gli hanno detto che qui non è di casa. Senza di lui la casa si ammala, e la babuška si ammala, e mamma e papà litigano. Se non lo riportiamo indietro, va tutto a pezzi.
+[10.046|p54] Giulia mi guardò per un lungo momento. Aveva la bocca aperta.
+[10.047|p54] Poi la chiuse.
+[10.048|p54] Poi guardò Mattia, che annuiva serio con il coniglio di pezza che spuntava dallo zaino.
+[10.049|p54] Poi guardò il mare, e la stazione, e il cielo.
+[10.050|p54] — Voi due — disse alla fine, piano — siete completamente pazzi.
+[10.051|p54] Ma non mi lasciò il braccio per tornare a casa. Me lo lasciò e basta. E quando io e Mattia cominciammo a scendere verso la stazione, sentii i suoi passi dietro di noi, arrabbiati, ma che venivano.
+[10.c|p54] ✦  ✦  ✦
+
+===== CAPITOLO 11 — Il treno per il nord — S TA Z I O N E D I TA O R M I N A - G I A R D I N I , L A S T E S S A D O M E N I C A =====
+[11.001|p55] La stazione di Taormina-Giardini è la stazione più bella che abbia mai visto.
+[11.002|p55] Non che ne abbia viste molte. Catania, Messina, quella di Roma una volta, in gita. Ma questa sembra una stazione delle favole: piccola, vecchia, con i pavimenti di marmo, le panchine di legno, le colonnine di ferro dipinte di verde e i lampioni antichi. E soprattutto il mare. Il mare è proprio lì, oltre i binari, così vicino che si sentono le onde mentre si aspetta il treno.
+[11.003|p55] La domenica pomeriggio era quasi vuota. Un signore leggeva il giornale su una panchina. Una coppia di turisti fotografava il soffitto. Un gatto bianco dormiva al sole sul marciapiede del primo binario.
+[11.004|p55] E in fondo al binario, dove finisce la pensilina e comincia il sole, seduto sopra una vecchia scarpa di corteccia, c'era Fomà.
+[11.005|p55] Era voltato verso nord, verso Messina, verso dove vanno i treni che portano via dalla Sicilia. Aveva la barba arrotolata in grembo e le mani sulle ginocchia. Non si muoveva. Sembrava un sasso. Sembrava un pezzo di stazione.
+[11.006|p56] — Eccolo — sussurrai.
+[11.007|p56] — Dove? — disse Giulia.
+[11.008|p56] Io indicai. Giulia guardò. Strizzò gli occhi.
+[11.009|p56] — Vera, lì non c'è niente. C'è una scarpa vecchia.
+[11.010|p56] — È seduto sulla scarpa.
+[11.011|p56] Giulia mi guardò come si guarda una che ha preso troppo sole. Ma non disse niente. Si appoggiò a una colonnina, incrociò le braccia e aspettò.
+[11.012|p56] Io andai avanti. Da sola. Mattia voleva venire, ma gli dissi di restare con Giulia, e lui, per una volta, ubbidì.
+[11.---|p56] * * *
+[11.013|p56] Mi sedetti per terra, sul marciapiede caldo, accanto a lui. Lui non si voltò.
+[11.014|p56] — Ciao, Fomà.
+[11.015|p56] — Vattene — disse. — Sto aspettando il treno.
+[11.016|p56] — Quale treno?
+[11.017|p56] — Il treno per la Russia.
+[11.018|p56] Io guardai il cartellone degli orari, sopra di noi. Il prossimo treno per Messina partiva alle 17:42. Da Messina si poteva andare a Roma, e da Roma a Milano, e da Milano... non lo sapevo. Forse a Vienna. Forse a Mosca, alla fine, dopo tre giorni.
+[11.019|p56] — È lunga, Fomà — dissi. — Tanto lunga.
+[11.020|p57] — Il domovoj ha tempo. Il domovoj è vecchio. Ho fatto la strada dalla Russia alla Sicilia nella pancia di un aereo, dentro una scarpa, dentro una borsa, tra le calze di tua nonna. Posso fare la strada al contrario.
+[11.021|p57] — E dove vai? Il dedushka Kolja non c'è più. L'appartamento è vuoto. La babuška è qui.
+[11.022|p57] Fomà non rispose.
+[11.023|p57] Un treno merci passò sul binario di là, lentamente, con un rumore di ferro lunghissimo. Quando fu passato, il mare ricominciò a farsi sentire.
+[11.024|p57] — Lei ha ragione — disse Fomà, piano. — La signora con il ventaglio. Qui non sono di casa. Il sole è troppo forte. Il mare è troppo blu. Non c'è la neve, non c'è la stufa, non ci sono le betulle. Le persone parlano con le mani. Mangiano le arance a gennaio. Io qui non c'entro niente. Sono un forestiero.
+[11.025|p57] — E allora io?
+[11.026|p57] Si voltò. Per la prima volta mi guardò.
+[11.027|p57] — Tu cosa?
+[11.028|p57] — Io sono metà forestiera — dissi. — Qui, sono la figlia della russa. In Russia, quando ci vado d'estate, sono l'italiana. I bambini del cortile della babuška mi chiamavano ital'janočka, la piccola italiana, e non mi facevano giocare a nascondino perché dicevano che io non sapevo le regole. E a scuola qui, quando la maestra ha fatto l'appello il primo giorno di prima elementare, ha detto «Vera Russo» e tutti hanno riso, perché mia mamma era venuta a prendermi e parlava con l'accento.
+[11.029|p57] Mi tirai le ginocchia al petto.
+[11.030|p57] — Io sono sempre un po' forestiera, Fomà. Da tutte e due le parti. Sempre.
+[11.031|p57] Fomà mi guardava, con i suoi occhietti neri e lucidi.
+[11.032|p57] — E allora come fai? — chiese. E non era una domanda cattiva. Era una domanda vera.
+[11.033|p58] Io ci pensai a lungo.
+[11.034|p58] — Non lo so bene — dissi. — Ma penso che una casa non sia un posto. Non è la Russia, non è la Sicilia. Non è la stufa e non è il frigorifero. Una casa sono le persone che ci stanno dentro. La babuška è qui. La mamma è qui. Io sono qui. Mattia è qui, e ti sente russare la notte, e vuole che torni, me l'ha detto in funivia. Anche Giulia è qui, anche se non ti vede e pensa che sono pazza. — Feci un respiro. — Sei tu che l'hai detto: il domovoj sta dove sta la famiglia. La tua famiglia non è sul treno delle 17:42. È lassù. — E indicai la montagna, e Taormina in cima, con le case appese alla roccia.
+[11.035|p58] Fomà guardò la montagna. Guardò il binario. Guardò la sua scarpa.
+[11.036|p58] Poi disse, con una voce piccola piccola:
+[11.037|p58] — La babuška sta male?
+[11.038|p58] — Ha la febbre. Da quando te ne sei andato.
+[11.039|p58] Fomà chiuse gli occhi. Si tirò la barba, forte, come per farsi male.
+[11.040|p58] — Vecchio scemo — disse a se stesso. — Vecchio domovoj scemo e permaloso.
+[11.---|p58] * * *
+[11.041|p58] Poi riaprì gli occhi e si alzò in piedi sul lapot'. — Torno — disse. — Ma a una condizione. Anzi, a due.
+[11.042|p58] — Quali?
+[11.043|p58] — La prima: mi dovete invitare. Per bene. Come si fa. Non si porta via un domovoj da una stazione come un sacco di patate. Bisogna chiamarlo con le parole giuste.
+[11.044|p58] Io annuii. Avevo sentito la babuška farlo, la prima notte.
+[11.045|p59] — La seconda — disse Fomà, e il naso gli diventò rosso — è che le signore. Quelle tre. Devono chiedermelo anche loro. Devono dire che posso restare. Altrimenti è inutile. Una casa con due padroni che si odiano è una casa malata. L'hai vista anche tu.
+[11.046|p59] Io deglutii. Pensai a Donna Rosalia, con il suo ventaglio e i suoi occhi neri. Pensai a quanto sarebbe stato difficile.
+[11.047|p59] — Va bene — dissi. — Ci provo.
+[11.048|p59] Allora mi inginocchiai sul marciapiede, davanti a lui. Presi il lapot' con tutte e due le mani, come aveva fatto la babuška. E dissi, in russo, le parole che avevo sentito quella prima notte:
+[11.049|p59] — Nonnino, nonnino, vieni con noi. Vieni a casa.
+[11.050|p59] Lo dissi tre volte.
+[11.051|p59] E Fomà saltò dentro la scarpa, e si accoccolò sul fondo, con la barba come una coperta, e disse soltanto:
+[11.052|p59] — Andiamo. Ho fame.
+[11.---|p59] * * *
+[11.053|p59] Mi alzai con la scarpa tra le mani e tornai verso la pensilina. Giulia mi guardava, appoggiata alla colonnina. Mattia mi corse incontro.
+[11.054|p59] — È lì dentro? — disse, guardando il lapot'.
+[11.055|p59] — Sì.
+[11.056|p59] Mattia ci infilò la faccia, quasi.
+[11.057|p59] — Ciao, signore piccolo! Bentornato!
+[11.058|p59] E dal fondo della scarpa venne una voce brontolona, che io sentii benissimo e Mattia mezzo e mezzo:
+[11.059|p59] — Sì, sì. Ciao. Non soffiarmi in faccia.
+[11.060|p59] Giulia era rimasta immobile. Aveva la faccia strana. Pallida.
+[11.061|p60] — Che c'è? — le chiesi.
+[11.062|p60] — Niente — disse Giulia, troppo in fretta. — Andiamo. È tardi. La mamma ci ammazza.
+[11.063|p60] Si girò e cominciò a camminare veloce verso l'uscita. Ma io la vidi, prima che si girasse. Le tremava il labbro.
+[11.064|p60] Molto tempo dopo, mesi dopo, Giulia mi confessò che in quel momento, sulla banchina della stazione, mentre Mattia salutava la scarpa, aveva sentito una vocina. Una vocina da vecchio, piccola, impastata, che diceva:
+[11.065|p60] Grazie, ragazze.
+[11.066|p60] Ma quel giorno non disse niente. Fece finta di non aver sentito. Ci prese per mano tutti e due, uno a destra e una a sinistra, e ci riportò su a Taormina, prima con la funivia e poi a piedi su per la scalinata, senza dire una parola.
+[11.067|p60] Ma non lasciò mai la mia mano. Neanche una volta.
+[11.c|p60] ✦  ✦  ✦
+
+===== CAPITOLO 12 — Donne di fuori — TA O R M I N A , C A S A R U S S O , I L M A RT E D Ì N O T T E =====
+[12.001|p61] Fomà tornò dietro il frigorifero la domenica sera, e mangiò tutto il pane, tutto il sale, tutto il latte, e anche un pezzo di formaggio che non era per lui. Poi si mise a russare così forte che Mattia, dal piano di sopra, rise nel sonno.
+[12.002|p61] E quella notte, per la prima volta da giorni, la luce non saltò.
+[12.003|p61] Ma la crepa era ancora lì. L'acqua era ancora marrone. Il limone aveva ancora i rami nudi. E la babuška aveva ancora la febbre, anche se un po' più bassa. Fomà era tornato, ma la casa non era guarita. Perché la seconda condizione non era ancora stata rispettata.
+[12.004|p61] Le signore.
+[12.---|p61] * * *
+[12.005|p61] Il lunedì passai tutto il giorno a pensare a cosa dire. A scuola non sentii una parola della lezione di storia, e Nicolò mi dovette dare una gomitata quando il professore mi chiamò alla lavagna. Al bar di papà, il pomeriggio, scrissi sul quaderno di scienze tre discorsi diversi. Li cancellai tutti e tre.
+[12.006|p62] Il primo discorso diceva: Fomà è buono. Ma Donna Rosalia avrebbe detto che non le interessava se era buono, era forestiero.
+[12.007|p62] Il secondo diceva: Se litigate la casa si ammala. Ma lo sapevano già. L'avevano visto anche loro. E avevano continuato.
+[12.008|p62] Il terzo diceva: Vi prego. E basta. Ma non pensavo che Donna Rosalia fosse una che si convince con vi prego.
+[12.009|p62] La sera, a cena, nonna Concetta era venuta a portare il brodo di gallina per la babuška, e si era fermata a mangiare con noi. Parlava con mia madre di una signora della parrocchia, e di sua nipote che si sposava, e di sua cugina che veniva da fuori.
+[12.010|p62] — Da fuori dove? — chiese mia madre.
+[12.011|p62] — Da fuori — disse nonna Concetta, come se fosse ovvio. — Da Catania.
+[12.012|p62] Io alzai la testa dal piatto.
+[12.013|p62] — Nonna — dissi. — Catania è a cinquanta chilometri.
+[12.014|p62] — E allora? È fuori. Non è di qua.
+[12.015|p62] — Quindi uno di Catania qui è forestiero?
+[12.016|p62] Nonna Concetta ci pensò.
+[12.017|p62] — Un po' sì — disse. — Non tanto. Ma un po'.
+[12.018|p62] E mi venne un'idea. Una piccola idea, che si accese nella testa come una lampadina in una cucina buia.
+[12.019|p62] Fuori.
+[12.---|p62] * * *
+[12.020|p62] Il martedì a mezzanotte ero in ingresso, seduta per terra con la schiena contro il muro, davanti al portone. Avevo pulito tutto. Il pavimento, il mobile dell'ingresso, le scale. Avevo cambiato le lenzuola a tutti i letti, anche a quello di Giulia, che si era lamentata. Avevo messo un rametto di rosmarino del vaso del balcone su un piattino. Non l'avevo bruciato, perché avevo paura di dare fuoco a qualcosa. L'avevo solo messo lì, profumato.
+[12.021|p63] Alle dodici in punto, dal buco della serratura uscì la nebbia.
+[12.022|p63] Donna Rosalia si formò davanti a me, e mi guardò dall'alto. Dietro di lei, Donna Nina, con le labbra strette. E Donna Tina, che quando mi vide sorrise un pochino, di nascosto, e poi tornò seria.
+[12.023|p63] — È tornato — disse Donna Rosalia. Non era una domanda. — Lo sento. Puzza di pane nero da qui.
+[12.024|p63] — Sì. È tornato.
+[12.025|p63] — L'hai riportato tu.
+[12.026|p63] — Sì.
+[12.027|p63] Donna Rosalia aprì il ventaglio.
+[12.028|p63] — Allora hai deciso da che parte stare.
+[12.029|p63] — No — dissi. Mi alzai in piedi, perché parlare seduta a una signora così mi sembrava una mancanza di rispetto. — Non ho deciso niente. Ho una domanda. Una sola. Posso farla?
+[12.030|p63] Donna Rosalia mi guardò. Donna Nina sbuffò. Donna Tina fece un piccolo cenno con la testa, come per dire: falla.
+[12.031|p63] — Falla — disse Donna Rosalia.
+[12.032|p63] Io feci un respiro profondo.
+[12.033|p63] — Perché vi chiamate Donne di Fora?
+[12.034|p63] Silenzio.
+[12.035|p63] — Che domanda è? — disse Donna Nina.
+[12.036|p64] — È una domanda vera. Fora vuol dire fuori. In siciliano. Lo dice anche la nonna Concetta: quelli di fora sono quelli che vengono da fuori. Da un altro posto. I forestieri. — Guardai Donna Rosalia negli occhi. — Voi vi chiamate Donne di fuori. Perché?
+[12.037|p64] Donna Rosalia non rispose.
+[12.038|p64] Ma il ventaglio si fermò, a metà. E nei suoi occhi neri passò qualcosa che non avevo mai visto. Come un ricordo. Lontano lontano.
+[12.039|p64] — Perché entriamo da fuori — disse Donna Nina, in fretta. — Dal buco della serratura. Veniamo da fuori della casa. È ovvio.
+[12.040|p64] — Può darsi — dissi. — Ma prima? Prima di entrare dal buco della serratura? Da dove venivate? Siete sempre state qui? Siete nate in questa casa?
+[12.041|p64] E fu Donna Tina, di nuovo, a parlare.
+[12.042|p64] — No — disse piano. — Non siamo nate qui. Nessuna di noi.
+[12.043|p64] — Tina — disse Donna Rosalia.
+[12.044|p64] — È vero, Donna Rosalia. Lo sapete anche voi. — Donna Tina fece un passo avanti, e la gonna celeste si allargò sul pavimento. — Io non me lo ricordo bene. È passato tanto tempo. Ma mi ricordo che una volta, all'inizio, eravamo noi quelle che arrivavano. Bussavamo alle case, di notte, e la gente aveva paura, e chiudeva le porte. Ci chiamavano quelle di fuori, e non era un complimento. Era come dire: le estranee. Quelle che non sono di qua. E poi una signora, una sola, in un paese, una notte, ci lasciò la porta aperta. Ci mise il pane sul tavolo e i letti puliti. E noi entrammo, e le portammo fortuna. E da quella volta... — Si fermò. — Da quella volta siamo diventate di casa. Ma il nome è rimasto. Donne di fuori.
+[12.045|p64] Donna Rosalia aveva chiuso gli occhi.
+[12.046|p64] — È una storia vecchia — disse, a bassa voce.
+[12.047|p64] — Ma è vera? — chiesi io.
+[12.048|p65] Donna Rosalia riaprì gli occhi. Mi guardò a lungo.
+[12.049|p65] — È vera — disse. — Anche noi, una volta, eravamo forestiere.
+[12.---|p65] * * *
+[12.050|p65] Nessuno parlò per un po'. Dalla cucina venne un piccolo rumore: un colpo di tosse, o forse uno starnuto, che si fermò a metà. Fomà ascoltava. Lo sapevo. Lo sapevano tutte.
+[12.051|p65] — Fomà ha detto che resta — dissi, piano — solo se glielo chiedete voi. Se gli dite che può stare. Non ve lo chiede perché è orgoglioso. È orgoglioso come voi. — Donna Nina fece una smorfia, ma non disse niente. — Ma se non glielo dite, la casa resta malata. E la babuška resta malata. E mamma e papà continuano a litigare. E io... io resto divisa a metà. Per sempre.
+[12.052|p65] Donna Rosalia guardò verso la cucina. Poi guardò me. Poi guardò il rametto di rosmarino sul piattino, e le scale pulite, e i letti fatti che si vedevano dalle porte aperte del piano di sopra.
+[12.053|p65] — Hai pulito tu? — chiese.
+[12.054|p65] — Sì.
+[12.055|p65] — Anche le scale?
+[12.056|p65] — Anche le scale. E ho cambiato le lenzuola. Anche quelle di Giulia.
+[12.057|p65] Donna Rosalia fece una cosa che non si aspettava nessuno. Sorrise. Un sorriso piccolo, storto, quasi rassegnato.
+[12.058|p65] — Una Russo che pulisce le scale di notte per tre vecchie e un topo con la barba — disse. — Questo non si era mai visto in centocinquant'anni.
+[12.059|p65] Poi chiuse il ventaglio con uno schiocco.
+[12.060|p66] — Va bene — disse. — Gli parleremo. Sabato. La notte dei Morti. Quando tutta la casa è sveglia e la porta è aperta per tutti, vivi e morti, di qua e di fuori. Ma a una condizione.
+[12.061|p66] — Quale?
+[12.062|p66] — Che la casa sia in ordine il martedì, il giovedì e il sabato. Sempre. Da adesso in poi. Le lenzuola stese dritte, con le mollette uguali. E niente briciole di pane nero sotto i letti.
+[12.063|p66] Da dietro il frigorifero, in cucina, venne uno sbuffo offesissimo. Ma nessuno disse niente.
+[12.064|p66] Io sorrisi così tanto che mi fecero male le guance.
+[12.c|p66] ✦  ✦    ✦
+
+===== CAPITOLO 13 — La notte dei Morti — TA O R M I N A , L A N O T T E T R A I L 1 ° E I L 2 N O V E M B R E =====
+[13.001|p67] In Sicilia, la notte tra il primo e il due novembre, i morti tornano a casa.
+[13.002|p67] Non per fare paura. Per portare i regali ai bambini.
+[13.003|p67] Me l'aveva sempre raccontato nonna Concetta, fin da quando ero piccola, e io ci credevo come si crede a Babbo Natale: un po' sì e un po' no, e soprattutto sì quando la mattina trovi i regali. La notte dei Morti, i nonni e i bisnonni che non ci sono più tornano dall'aldilà, entrano in casa, e lasciano a ogni bambino un cesto, il cannistru, pieno di dolci: la frutta martorana, che sembra frutta vera ma è di pasta di mandorle; i pupi di zucchero, che sono statuine colorate di paladini e ballerine; le ossa di morto, che sono biscotti bianchi e duri che si spezzano i denti; e i tetù, ricoperti di glassa. E a volte, in fondo al cesto, un giocattolo, o un vestito nuovo. E i bambini, la mattina del due, li cercano per casa, perché i morti li nascondono.
+[13.004|p67] Quell'anno nonna Concetta preparò i cesti per noi tre, come sempre. Me ne accorsi perché il primo pomeriggio la vidi salire la scalinata con tre borse della pasticceria e la faccia di chi non ha comprato niente.
+[13.005|p68] — Cosa c'è nelle borse, nonna?
+[13.006|p68] — Niente. Roba per la parrocchia.
+[13.007|p68] Io sorrisi. Non dissi niente.
+[13.008|p68] La babuška, intanto, era guarita a metà. La febbre era scesa da quando Fomà era tornato, ma non del tutto: aveva ancora la tosse, e la sera si stancava subito. Quel pomeriggio, però, si alzò dal letto per la prima volta da una settimana, si vestì, si mise il fazzoletto, e scese in cucina.
+[13.009|p68] — Cosa fai, mamma? — disse mia madre. — Devi riposare.
+[13.010|p68] — Faccio il pane — disse la babuška.
+[13.011|p68] E fece il pane. Un pane rotondo, scuro, con i semi di cumino, nel nostro forno elettrico che non aveva mai visto un pane così. Ci mise tutto il pomeriggio. Quando la mamma le chiese perché, rispose soltanto:
+[13.012|p68] — In Russia, a novembre, c'è il sabato dei morti. Si fa il pane, si va al cimitero, si lascia il pane sulla tomba. Per ricordarli. Quest'anno Kolja è lontano. Il pane glielo lascio qui.
+[13.013|p68] La mamma non disse niente. Andò ad abbracciarla, da dietro, mentre impastava, e rimasero così a lungo, con le mani piene di farina.
+[13.---|p68] * * *
+[13.014|p68] Quella notte non dormì nessuno.
+[13.015|p68] Ufficialmente, sì. Ufficialmente alle undici erano tutti a letto.
+[13.016|p68] Ma io, dalla mia stanza, sentii tutto.
+[13.017|p69] Alle undici e mezza sentii la porta di casa aprirsi piano. Passi leggeri, di qualcuno che saliva le scale saltando il nono gradino perché conosceva la casa da quarant'anni. Nonna Concetta, con le chiavi di riserva. Sentii il fruscio delle borse della pasticceria. Sentii nonna Concetta che entrava in cucina.
+[13.018|p69] E dieci minuti dopo sentii la porta della babuška che si apriva. Passi lenti, strascicati, in pantofole. La babuška che scendeva le scale. Anche lei saltò il nono gradino.
+[13.019|p69] E poi un silenzio lunghissimo.
+[13.020|p69] Io scesi. Non potevo resistere.
+[13.021|p69] Mi fermai sulla porta della cucina. E vidi le mie due nonne.
+[13.022|p69] Nonna Concetta era in piedi accanto al tavolo, in vestaglia fucsia, con un cesto di vimini in mano, pieno di frutta martorana. Sul tavolo aveva già messo un piattino con tre biscotti, un bicchierino di rosolio e un rametto di rosmarino che fumava piano. Per le signore.
+[13.023|p69] La babuška era in piedi accanto al frigorifero, in vestaglia di lana, con il pane rotondo in mano. Per terra, davanti al frigo, aveva già messo una scodella di latte, il sale e una candela accesa. Per Fomà.
+[13.024|p69] Si guardavano. Ognuna con la sua offerta in mano. Beccate.
+[13.025|p69] Ci fu un momento lunghissimo in cui nessuna delle due disse niente.
+[13.026|p69] Poi nonna Concetta guardò la scodella di latte sul pavimento. E la babuška guardò il rosmarino che fumava sul tavolo.
+[13.027|p69] — Anche lei? — disse nonna Concetta.
+[13.028|p69] — Anche lei? — disse la babuška.
+[13.029|p69] E poi successe la cosa più incredibile di tutta la storia. Più incredibile del vecchietto nella scarpa, più incredibile delle signore di nebbia.
+[13.030|p69] Le mie due nonne si misero a ridere.
+[13.031|p70] Prima piano, con le mani davanti alla bocca. Poi forte. Poi così forte che nonna Concetta dovette sedersi, e la babuška si appoggiò al frigorifero, e tutte e due avevano le lacrime agli occhi, e ridevano, ridevano, come due ragazzine beccate a fare una cosa proibita.
+[13.032|p70] — Da quanto tempo lo sa? — chiese nonna Concetta, quando riuscì a respirare.
+[13.033|p70] — Da sempre — disse la babuška. — Mia nonna mi ha insegnato a dargli il latte. E lei?
+[13.034|p70] — Da sempre. Mia suocera mi ha insegnato il rosmarino. Il martedì, il giovedì e il sabato. — Nonna Concetta si asciugò gli occhi. — E perché non me l'ha detto?
+[13.035|p70] — Perché pensavo che lei mi avrebbe presa per matta. E lei, perché non me l'ha detto?
+[13.036|p70] — Perché pensavo che lei mi avrebbe presa per matta.
+[13.037|p70] E ricominciarono a ridere.
+[13.---|p70] * * *
+[13.038|p70] Fu allora che, dal buco della serratura, entrò la nebbia. Le Donne di Fora si formarono nell'ingresso, e poi vennero in cucina, una dopo l'altra, piano. Donna Rosalia per prima, poi Donna Nina, poi Donna Tina. Le nonne smisero di ridere. Non le vedevano, lo capii subito. Ma sentivano qualcosa: il profumo di rosmarino che si faceva più forte, l'aria che diventava più fresca. Nonna Concetta si fece il segno della croce, piano. La babuška si strinse la vestaglia.
+[13.039|p70] E da dietro il frigorifero uscì Fomà, sul suo lapot'.
+[13.040|p70] Si fermò davanti alla candela. Le signore si fermarono davanti al tavolo. Tra di loro c'era un metro di pavimento della cucina, e le mie due nonne, e io.
+[13.041|p71] Donna Rosalia parlò per prima. Lo fece come si fa tutto in Sicilia quando è importante: con calma, e con tante parole prima di quella che conta.
+[13.042|p71] — Signor domovoj — disse. — Stanotte è la notte dei Morti. Stanotte la porta di questa casa è aperta per tutti: per i vivi e per i morti, per quelli di qua e per quelli di fuori. Anche noi, una volta, eravamo di fuori. Ce l'ha ricordato la bambina. — Fece una pausa. — Questa casa è grande abbastanza. Se volete restare, restate.
+[13.043|p71] Fomà la guardò a lungo, con i suoi occhietti neri.
+[13.044|p71] — Grazie — disse alla fine, brusco. Poi, dopo un momento, ancora più brusco: — Signora.
+[13.045|p71] Donna Rosalia fece un piccolo inchino con il ventaglio. Fomà fece un piccolo inchino con la barba.
+[13.046|p71] E così facemmo il patto. Lo scrissi io, sul quaderno di scienze, all'ultima pagina, sotto i sospettati. Fomà si sarebbe occupato della casa di giorno, e della cucina, e della stufa, cioè del frigorifero. Le Donne di Fora si sarebbero occupate della casa di notte, e delle stanze, e dei letti. Il latte era per tutti. I biscotti alle mandorle anche, Fomà insistette. E nessuno avrebbe più toccato la moka di nonna Concetta.
+[13.047|p71] Le Donne firmarono con un soffio di nebbia sulla pagina, che lasciò un profumo di rosmarino. Fomà firmò con un'impronta di farina.
+[13.---|p71] * * *
+[13.048|p71] La mattina del due novembre, la crepa nel muro delle scale non c'era più.
+[13.049|p71] Non era stata riparata. Era sparita. Il muro era liscio e bianco come se non fosse mai successo niente. L'acqua del rubinetto era limpida e fresca. La luce non saltò più, quel giorno, né quello dopo, né mai più.
+[13.050|p72] La babuška scese a fare colazione senza tosse, con le guance rosa, e mangiò due piatti di kaša e una pesca di pasta di mandorle.
+[13.051|p72] E il limone, nel cortile, aveva fatto un fiore. Uno solo. Bianco e profumato, su un ramo nudo, a novembre. Nonna Concetta lo guardò dalla finestra per un tempo lunghissimo, senza dire niente, con una mano sul cuore.
+[13.052|p72] Nei cesti dei Morti, quell'anno, c'erano le solite cose: frutta martorana, pupi di zucchero, ossa di morto, un pallone per Mattia e un profumo per Giulia. Ma nel mio, in fondo, sotto i tetù, c'erano due cose che non c'erano mai state.
+[13.053|p72] La prima era un ditale d'argento, vecchio e un po' ammaccato, con una R incisa sopra. Nonna Concetta, quando lo vide, diventò pallida. Disse che era di nonno Turi: lo usava per cucire le vele della barca, da giovane, prima di aprire il bar. Disse che lo aveva perso trent'anni fa.
+[13.054|p72] La seconda era un cucchiaio di legno, piccolo, dipinto di rosso e oro, come quelli russi. La babuška, quando lo vide, si sedette. Disse che era del dedushka Kolja. Lo aveva intagliato lui, da ragazzo, al villaggio. Lo teneva nel cassetto della cucina a San Pietroburgo. Non l'aveva portato. Era sicura di non averlo portato.
+[13.055|p72] Io presi il ditale e il cucchiaio, uno per mano. E per caso, giocando, misi il ditale sul manico del cucchiaio.
+[13.056|p72] Ci stava perfetto. Come se fossero stati fatti per stare insieme.
+[13.c|p72] ✦  ✦   ✦
+
+===== CAPITOLO 14 — Solo per un po' — TA O R M I N A , N O V E M B R E =====
+[14.001|p73] Il primo temporale dell'autunno arrivò il quattro novembre, e fu come se Taormina tirasse un sospiro di sollievo.
+[14.002|p73] Piovve tutta la notte. La mattina le scalinate erano lucide e scivolose, i gatti stavano tutti sotto i portoni con l'aria offesa, e l'aria sapeva di terra bagnata e di zagara. I turisti erano spariti di colpo, come se la pioggia li avesse lavati via. Al bar di papà, finalmente, entravano solo quelli del paese, che ordinavano il caffè e il cornetto e parlavano della pioggia come di una persona che non vedevano da tanto.
+[14.003|p73] E la sera del quattro novembre, a cena, mio padre posò la forchetta e disse:
+[14.004|p73] — Allora. Dobbiamo parlare di una cosa.
+[14.005|p73] Tutti si fermarono. Io sentii la mano fredda nella pancia, quella della sera del litigio.
+[14.006|p73] Mio padre guardò mia madre. Mia madre guardò mio padre. Si fecero un piccolo cenno, come fanno quando hanno già deciso una cosa e devono solo dirla.
+[14.007|p74] — Abbiamo pensato — disse mia madre — che la babuška resta con noi per l'inverno.
+[14.008|p74] La babuška, che stava tagliando il pane, si fermò con il coltello a mezz'aria.
+[14.009|p74] — Per l'inverno? — disse.
+[14.010|p74] — Per l'inverno — disse mio padre. — In Russia l'inverno è lungo, e il suo appartamento ha quattro piani di scale, e il ginocchio... insomma. Qui c'è il sole. E poi... — E qui mio padre arrossì un pochino. — E poi i pirožki al cavolo mi mancherebbero. Ecco. L'ho detto.
+[14.011|p74] Giulia fece un verso che poteva essere una risata.
+[14.012|p74] — E lo studio? — disse la babuška. — I tuoi conti, Salvatore?
+[14.013|p74] — Li faccio al bar. Tanto d'inverno c'è tempo. E poi — mio padre guardò la mamma — abbiamo pensato di chiudere il pezzo di terrazzo sopra la cucina. Farci una stanza piccola. Con una finestra sul mare. Ci vorrà qualche mese. E se dopo l'inverno lei vuole tornare a San Pietroburgo, torna, e la stanza diventa il mio studio. E se no...
+[14.014|p74] Non finì la frase. Non serviva.
+[14.015|p74] La babuška posò il coltello. Guardò mio padre, a lungo, con i suoi occhi grigi pieni di pieghe. Poi si alzò, fece il giro del tavolo, e gli diede tre baci sulle guance, destra, sinistra, destra.
+[14.016|p74] — Salvatore — disse. — Sei un brav'uomo. Magro, ma bravo.
+[14.017|p74] E mio padre aveva di nuovo le orecchie rosse.
+[14.018|p74] Da dietro il frigorifero venne un rumore. Una specie di singhiozzo, o forse uno starnuto. Mattia si girò di scatto e sorrise. Io guardai il piatto per non ridere. La babuška, tornando al suo posto, passò davanti al frigo e gli diede due colpetti con la mano, come si fa con un cane per dirgli: buono.
+[14.---|p74] * * *
+[14.019|p75] Più tardi, quella sera, ero seduta sul gradino del balcone, con il quaderno di scienze sulle ginocchia.
+[14.020|p75] Non era più un quaderno di scienze, ormai. Le prime pagine avevano ancora le cellule e la fotosintesi, ma da metà in poi era diventato un'altra cosa. C'erano i sospettati, gli indizi, le frecce. C'erano le impronte di farina disegnate a matita, e un ritratto di Fomà che non gli somigliava per niente, e uno di Donna Rosalia con il ventaglio che invece era venuto bene. C'era il patto, con la firma di nebbia che ancora profumava di rosmarino e l'impronta di farina. E c'era una pagina con scritto in grande, in stampatello:
+[14.021|p75] CASA RUSSO.
+[14.022|p75] Sotto, avevo fatto un elenco. Chi abita qui. Papà. Mamma. Giulia. Io. Mattia. La babuška, per l'inverno. Nonna Concetta, due scalinate più su, ma qui a pranzo la domenica e alle sette e mezza tutte le mattine per il caffè. Il limone. Fomà. Donna Rosalia, Donna Nina e Donna Tina, il martedì, il giovedì e il sabato.
+[14.023|p75] E poi, in fondo, un'altra riga. Ci avevo pensato a lungo prima di scriverla.
+[14.024|p75] E il nonno Turi e il dedushka Kolja. La notte dei Morti.
+[14.025|p75] Guardai la pagina, e pensai a quella domanda che mi aveva fatto Nicolò, il primo giorno di scuola. Quale metà?
+[14.026|p76] Adesso sapevo la risposta. Non c'era una metà. Non ero mezza russa e mezza siciliana, come una pizza con due gusti. Ero tutte e due le cose insieme, intere, mescolate, come la farina e l'acqua nel pane della babuška. E proprio per questo vedevo tutti. Proprio per questo potevo stare in mezzo.
+[14.027|p76] Non ero divisa. Ero un ponte.
+[14.028|p76] Scrissi anche questo, in fondo alla pagina. Poi chiusi il quaderno.
+[14.---|p76] * * *
+[14.029|p76] Mattia uscì sul balcone in pigiama, con il coniglio di pezza, e si sedette accanto a me. Io lo abbracciai, e lui si lasciò abbracciare, il che era raro.
+[14.030|p76] — Vera — disse. — Lo sai cosa voglio quest'anno?
+[14.031|p76] — Cosa?
+[14.032|p76] — Quest'anno non voglio la Befana. — Lo disse serio, come una decisione importante. — Voglio Ded Moroz. Quello russo. Il Nonno Gelo. La babuška dice che arriva a Capodanno con la slitta e i cavalli, e che porta i regali sotto l'albero, e che ha la nipote fatta di neve. La Befana è vecchia e brutta e porta il carbone. Io voglio Ded Moroz.
+[14.033|p76] — Mattia...
+[14.034|p76] — Ho già scritto la lettera. — Tirò fuori dalla tasca del pigiama un foglio piegato in quattro, tutto scarabocchiato. — La babuška me la traduce in russo domani. Poi la mettiamo sulla finestra.
+[14.035|p76] Io guardai il foglio. C'era un disegno di un signore con la barba bianca, una slitta, tre cavalli. E in un angolo, piccola piccola, una vecchietta con una scopa, cancellata con una grossa X nera.
+[14.036|p76] Stavo per dire qualcosa. Non so cosa. Forse che la Befana non era brutta. Forse che si potevano avere tutti e due.
+[14.037|p77] Ma in quel momento sentii un rumore, sopra di noi.
+[14.038|p77] Veniva dal tetto. Un rumore leggero, strisciato, come di rami secchi trascinati sulle tegole. Fsss. Fsss.
+[14.039|p77] Come una scopa.
+[14.040|p77] Mattia non sentì niente. Stava piegando la sua lettera.
+[14.041|p77] Io alzai la testa. Sopra il tetto, contro le nuvole grigie che correvano sopra Taormina, mi sembrò di vedere un'ombra. Un'ombra lunga e storta, con una gobba, che si allontanava nel cielo. E mi sembrò di sentire, per un attimo, portata dal vento, una voce di vecchia. Una voce arrabbiata, offesissima, che brontolava in siciliano stretto:
+[14.042|p77] Brutta io? Carbone io? E il Nonno Gelo, eh? Il Nonno Gelo! Ora vediamo.
+[14.043|p77] Poi niente. Solo la pioggia che ricominciava, piano, sulle tegole.
+[14.044|p77] Io rimasi lì, con la bocca aperta, e il quaderno stretto al petto.
+[14.045|p77] Dalla cucina, di sotto, sentii Fomà che russava. Dal buco della serratura, piano, entrava un filo di nebbia che sapeva di rosmarino. Era martedì.
+[14.046|p77] E l’inverno stava arrivando.
+[14.c|p77] ✦   ✦  ✦
+
+===== APPENDICE (pagine 78–81, non narrativa) =====
+[AP.c|p78] Chi abita in Casa Russo
+[AP.047|p79] Vera Russo — 12 anni, prima media. Metà italiana e metà russa, ironica e testarda. È l'unica che vede tutti gli spiriti della casa. Giulia — 16 anni, la sorella grande. Non crede a niente. O quasi. Mattia — 6 anni, il fratellino. Non vede gli spiriti, ma li sente: i passi, le voci, il russare. Mamma Irina — nata a San Pietroburgo, fa la guida turistica in russo a Taormina. Papà Salvo — siciliano, ha un bar sul Corso Umberto. Babuška Galina — la mamma di Irina, 74 anni. Arriva dalla Russia «solo per un po'», con tre valigie e una scarpa. Nonna Concetta — la mamma di Salvo, 71 anni, due scalinate più su. Fa il caffè con la sua moka tutte le mattine alle sette e mezza. Fomà — il domovoj della famiglia Ivanov, la famiglia della babuška. Alto come una bottiglia, barbuto, brontolone. Vive dietro il frigorifero. Donna Rosalia, Donna Nina, Donna Tina — le tre Donne di Fora di casa Russo. Entrano dal buco della serratura il martedì, il giovedì e il sabato notte.
+[AP.c|p79] Piccolo dizionario di Casa Russo
+[AP.048|p80] Babuška (russo) — nonna. Dedushka (russo) — nonno. Domovoj (russo) — lo spirito della casa: «quello della casa». Lapot' (russo) — scarpa intrecciata di corteccia di tiglio o di betulla, che usavano i contadini russi. Pirožki (russo) — fagottini di pasta ripieni di cavolo, carne, patate o mele. Kaša (russo) — pappa di cereali; quella della babuška è di grano saraceno. Kefir — latte fermentato da bere, un po' acido. Boršč (russo) — zuppa rossa di barbabietole. Valenki (russo) — stivali di feltro per l'inverno. Pokrov (russo) — «velo, mantello»: festa del 14 ottobre. Fora (siciliano) — fuori. Cannistru (siciliano) — il cesto di dolci che i Morti portano ai bambini. Frutta martorana — frutta finta di pasta di mandorle, dipinta a mano. Ossa di morto, tetù — biscotti siciliani della festa dei Morti.
+[AP.c|p80] Le due tradizioni
+[AP.049|p80] Cosa è vero Nelle fiabe e nelle credenze popolari russe il domovoj è lo spirito che protegge la casa: un piccolo vecchio barbuto e peloso che vive dietro la stufa. Gli si lasciano pane, sale e latte. Se si offende fa dispetti: nasconde le cose, bussa, intreccia le criniere dei cavalli.
+[AP.050|p80] Quando una famiglia traslocava, si invitava il domovoj a venire nella casa nuova. In molti villaggi lo si portava dentro un vecchio lapot'.
+[AP.051|p80] Le Donne di Fora (o «donne di fuori») sono figure del folklore siciliano, raccolte dall'etnologo Giuseppe Pitrè nell'Ottocento: un po'
+[AP.052|p80] fate e un po' streghe, andavano in gruppo, uscivano di notte il martedì, il giovedì e il sabato, entravano dal buco della serratura e portavano fortuna alle case pulite e in ordine, dove trovavano i letti fatti. Si diceva che amassero il profumo di rosmarino, alloro e incenso.
+[AP.053|p80] Il Pokrov (14 ottobre) è una festa della Chiesa ortodossa: ricorda il velo con cui la Madonna, secondo il racconto, protesse i fedeli a Costantinopoli. In campagna era il giorno in cui si aspettava la prima neve.
+[AP.054|p80] In Sicilia, nella notte tra il 1° e il 2 novembre, si racconta che i morti della famiglia tornino a portare i regali ai bambini.
+[AP.055|p80] In Russia ci sono dei sabati dei morti, giorni in cui si ricordano i defunti; uno cade all'inizio di novembre.
+[AP.056|p81] La funivia che scende da Taormina a Mazzarò e la stazione di Taormina-Giardini, in riva al mare, esistono davvero. Cosa è inventato La famiglia Russo, la famiglia Ivanov, la casa nella scalinata e il suo limone sono di fantasia.
+[AP.057|p81] Fomà, Donna Rosalia, Donna Nina e Donna Tina sono personaggi inventati: nella tradizione le Donne di Fora sono un gruppo senza nomi.
+[AP.058|p81] La storia di come le Donne di Fora diventarono «di casa», il patto della notte dei Morti e la casa che si ammala sono invenzioni del libro. NELLA STESSA COLLANA Due case, una famiglia 1. Il domovoj nella scarpa (Autunno) 2. La Befana contro Baba Jaga (Inverno) 3. La moglie del domovoj (Primavera) 4. Il fiore della felce (Estate)
+[AP.c|px82] Continua…
+[AP.059|px83] VLAD EDITORE
+
