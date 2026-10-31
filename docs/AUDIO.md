@@ -193,7 +193,7 @@ Elenco generato da `work/strumenti/estrai_vox.py` (testo esatto da `work/libro.t
 | SCN-14-* | cena calda; Salvo impacciato e tenero; narratrice luminosa sul «ponte»; ombra in siciliano offesissima e comica; finale sottovoce |
 
 ### 4.2 Tabella completa
-*(generata: vedi sotto; la colonna Car. è il numero di caratteri del testo pronunciato)*
+*(generata da `work/strumenti/estrai_vox.py` + `aggiorna_audio.py`; Car. = caratteri del testo pronunciato)*
 
 | ID | Scena | Personaggio | Lingua | Testo pronunciato | Priorità | Car. |
 |---|---|---|---|---|---|---|
@@ -406,6 +406,7 @@ Elenco generato da `work/strumenti/estrai_vox.py` (testo esatto da `work/libro.t
 | VOX-13-09 | SCN-13-05 | BABUŠKA | it | Anche lei? | should | 10 |
 | VOX-13-10 | SCN-13-05 | BABUŠKA | it | Da sempre Mia nonna mi ha insegnato a dargli il latte. E lei? | should | 61 |
 | VOX-13-11 | SCN-13-05 | BABUŠKA | it | Perché pensavo che lei mi avrebbe presa per matta. E lei, perché non me l'ha detto? | should | 83 |
+| VOX-13-12 | SCN-13-05 | BABUŠKA+CONCETTA | it | [risata a due voci, 6 s] | must | 24 |
 | VOX-13-13 | SCN-13-06 | ROSALIA | it | Signor domovoj Stanotte è la notte dei Morti. Stanotte la porta di questa casa è aperta per tutti: per i vivi e per i morti, per quelli di qua e per quelli d… | must | 296 |
 | VOX-13-14 | SCN-13-06 | FOMÀ | it | Grazie Signora. | must | 15 |
 | VOX-13-15 | SCN-13-09 | CONCETTA | it | Questo è di Turi. Ci cuciva le vele della barca, da giovane, prima di aprire il bar. L'ho perso trent'anni fa. | should | 110 |
@@ -429,14 +430,14 @@ Elenco generato da `work/strumenti/estrai_vox.py` (testo esatto da `work/libro.t
 
 ### 4.3 Totali e piano dei crediti
 
-| Rilascio | Battute | Caratteri totali | di cui *must* | Crediti stimati con 2 take (1 credito ≈ 1 carattere) | Piano |
+| Rilascio | Battute | Caratteri totali | di cui *must* | Crediti con 2 take (1 credito ≈ 1 carattere) | Piano |
 |---|---|---|---|---|---|
-| v1.0 | 61 | 3982 | 3982 | 7964 (*must*) / 7964 (tutte) | 1 mese di ElevenLabs gratuito (≈ 8.000 crediti) per tutte le *must*; versi brevi nel mese successivo |
+| v1.0 | 61 | 3982 | 3982 | 7964 (*must*) / 7964 (tutte) | 1 mese di ElevenLabs gratuito (≈ 8.000 crediti) per tutte le battute; versi brevi nel mese successivo |
 | v2.0 | 55 | 6400 | 2331 | 4662 (*must*) / 12800 (tutte) | 2 mesi di ElevenLabs gratuito; le *should* lunghe (racconto del Pokrov) su Fish Audio se il mese non basta |
-| v3.0 | 113 | 9873 | 5875 | 11750 (*must*) / 19746 (tutte) | 2–3 mesi di ElevenLabs gratuito oppure Fish Audio per le *should* |
-| **Totale** | 229 | 20255 | 12188 | 24376 / 40510 | — |
+| v3.0 | 114 | 9897 | 5899 | 11798 (*must*) / 19794 (tutte) | 2–3 mesi di ElevenLabs gratuito oppure Fish Audio per le *should* |
+| **Totale** | 230 | 20279 | 12212 | 24424 / 40558 | — |
 
-Versi brevi (§6): circa 9 personaggi × 8 versi × 3 varianti, ≈ 2.500 caratteri di prompt, una sessione dedicata. La produzione delle voci di ogni rilascio comincia nella fase di produzione dei contenuti (Fase 4 per la v1.0) e si chiude prima della Beta.
+Versi brevi (§6): circa 9 personaggi × 8 versi × 3 varianti, ≈ 2.500 caratteri, una sessione dedicata. Le voci di ogni rilascio si producono nella fase dei contenuti (Fase 4 per la v1.0) e si chiudono prima della Beta.
 
 ## 5. Voci: brief per ElevenLabs e Fish Audio
 

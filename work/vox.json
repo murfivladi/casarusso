@@ -1672,6 +1672,14 @@
   "car": 83
  },
  {
+  "id": "VOX-13-12",
+  "scena": "SCN-13-05",
+  "chi": "BABUŠKA+CONCETTA",
+  "lingua": "it",
+  "testo": "[risata a due voci, 6 s]",
+  "car": 24
+ },
+ {
   "id": "VOX-13-13",
   "scena": "SCN-13-06",
   "chi": "ROSALIA",

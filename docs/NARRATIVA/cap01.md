@@ -83,7 +83,7 @@ Su schermo nero Vera si presenta: una russa che si chiama Russo, una sorella che
 ### SCN-01-05 — Giulia (dialogo; la «Convenzione di Ginevra»)
 - **Trigger**: interagire con PG-GIULIA (appoggiata alla colonna 2 con il telefono).
 - **Beat**: B-01-03.
-- PEN-01-06 (avvicinandosi) [LIBRO §01.009]: «Giulia era appoggiata a una colonna con il telefono in mano e la faccia di chi è stata trascinata fuori dal letto contro la Convenzione di Ginevra.»
+- PEN-01-06 [LIBRO §01.009] (avvicinandosi): «Giulia era appoggiata a una colonna con il telefono in mano e la faccia di chi è stata trascinata fuori dal letto contro la Convenzione di Ginevra.»
 - DLG-01-GIULIA-01 GIULIA [NUOVO]: «Che vuoi.»
   - `*` (1) «Ti hanno trascinata fuori dal letto?» → DLG-01-GIULIA-02
   - `*` (2) «Mamma dice di mettere via il telefono.» → rap_giulia −1 → DLG-01-GIULIA-04
@@ -226,7 +226,7 @@ Su schermo nero Vera si presenta: una russa che si chiama Russo, una sorella che
   - MATTIA [NUOVO]: «Vera. In Russia i gatti dicono miao in russo?» → VERA [NUOVO]: «Dicono "mjau". Con la j.» → MATTIA: «Mjau.» (ride) → RUS non sblocca (gioco di parole).
   - MATTIA [NUOVO]: «La babuška dorme con noi?» → VERA [NUOVO]: «Nello studio di papà.» → MATTIA: «E papà dove studia?» → VERA: «Papà non studia. Fa i conti.»
 - **Scelta** (sottovoce, **mai alla babuška**: il libro dice «Io non dissi niente», 01.043):
-  - `*` (1) «Chiedere sottovoce a Mattia se ha sentito qualcosa dalla borsa.» → flag_auto_chiesto = true → MATTIA [NUOVO] (sottovoce, serissimo): «Io sento solo la pancia di papà che brontola.» → PEN-01-30 [NUOVO]: «Per ora.»
+  - `*` (1) «Chiedere sottovoce a Mattia se ha sentito qualcosa dalla borsa.» → flag_auto_chiesto = true → MATTIA [NUOVO] (sottovoce, serissimo): «Io sento solo la pancia di papà che brontola.» → PEN-01-30 [NUOVO]: «Per adesso.»
   - `*` (2) «Chiedere sottovoce a Giulia.» {cond: sempre} → flag_auto_chiesto = true → ramo alleato `{flag_giulia_ginevra or rap_giulia >= 2}`: GIULIA [NUOVO] «Sentito cosa? Io sento solo quello che ho nelle cuffie. Però la nonna stringe quella borsa come se dentro ci fosse il gatto.» · ramo normale: GIULIA [NUOVO] «Vera. Ho le cuffie. È il motivo per cui ho le cuffie.»
   - `*` (3) «Osservare in silenzio.» → PEN-01-31 [NUOVO]: «Osservare. Come fanno le investigatrici. Le investigatrici non chiedono, guardano.»
 - **Giulia alleata** (`flag_giulia_ginevra or rap_giulia >= 2`) — scena alternativa (D-58):

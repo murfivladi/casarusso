@@ -1,12 +1,12 @@
 # Pipeline degli asset
 
-Come si produce ogni asset del gioco, secondo D-31 (Claude fa tutto in Blender con script headless, nessuna rifinitura manuale), D-32 (immagine → 3D con richieste a Vlad), D-33 (modelli dal web CC0/CC-BY). Formati e soglie del validatore: `TDD.md` §8 e §10. Stile: `ART_BIBLE.md`.
+Come si produce ogni asset del gioco, secondo D-31 (Claude fa tutto in Blender con script headless, nessun lavoro manuale di Vlad in Blender), D-32 (immagine → 3D con richieste a Vlad), D-33 (modelli dal web CC0/CC-BY). Formati e soglie del validatore: `TDD.md` §8 e §10. Stile: `ART_BIBLE.md`.
 
 ## 1. Classi di asset e percorso
 
 | Classe | Percorso | Esempi |
 |---|---|---|
-| **A — Immagine → 3D** | Nano Banana (Vlad) → Tripo o Hitem3D (Vlad) → `assets_in/` → Blender automatico (Claude) | tutti i personaggi, Fomà, le Donne (corpo e vestito), oggetti fatti a mano ed eroi: lapot', borsa a fiori, valigie con lo spago, cartello di Mattia, telefoni, ditale, cucchiaio, moka, vetrinetta con tazzine, quaderno (copertina), coniglio di pezza |
+| **A — Immagine → 3D** | Nano Banana (Vlad) → Tripo o Hitem3D (Vlad) → `assets_in/` → Blender automatico (Claude) | tutti i personaggi, Fomà, le Donne (corpo e vestito), oggetti artigianali ed eroi: lapot', borsa a fiori, valigie con lo spago, cartello di Mattia, telefoni, ditale, cucchiaio, moka, vetrinetta con tazzine, quaderno (copertina), coniglio di pezza |
 | **B — Modelli dal web** (CC0/CC-BY) | Claude cerca e verifica la licenza → scheda per Vlad → Vlad scarica in `assets_in/web/` → Blender (rielaborazione allo stile) | arredi generici, sedie e panchine dell'aeroporto, carrelli, segnaletica, alberi e piante, auto di sfondo, base della monovolume se adatta |
 | **C — Procedurale in Blender** | script Python | architettura (Casa Russo, aeroporto, stazione), terreno da DEM, edifici da OSM, kit modulare delle facciate, scalinate, ringhiere, persiane, oggetti semplici (stoviglie, bottiglie, casse d'acqua) |
 | **D — Texture PBR** | librerie CC0 (Poly Haven, ambientCG) o materiali procedurali baked in Blender | intonaci, pietre, maioliche (motivi originali), legni, metalli, tessuti |
@@ -82,7 +82,7 @@ Se uno strumento non permette esattamente la fascia indicata, si sceglie il valo
 | 11 Materiali | `export/materials.py` | PBR glTF (pelle con subsurface tramite estensioni supportate o parametri del materiale lato motore), sheen per tessuti | ≤ 3 materiali |
 | 12 Export | `export/export_glb.py` + glTF-Transform | GLB, meshopt, KTX2 | validatore (TDD §10) |
 
-### 5.2 Render di revisione (al posto della rifinitura manuale)
+### 5.2 Render di revisione (al posto del lavoro manuale)
 Ogni asset genera in `review/<asset>/` immagini PNG che Claude **ispeziona visivamente** (lettura delle immagini) prima di accettarlo; Vlad le riceve come foglio di contatto per approvazione artistica, senza dover aprire Blender.
 | Render | Asset | Cosa si guarda |
 |---|---|---|
@@ -110,7 +110,7 @@ Import → pulizia → decimazione a budget (15 000 eroe / 3 000 secondario) con
 | OSM | `taormina/osm_import.py` | edifici estrusi, tetti per tipo, strade e scalinate scavate, muri |
 | Kit facciate | `kit/build_kit.py` | moduli (pianoterra con portone, piano con finestra/balcone, cornicione, angolo, gronda) in 6 stili; regole di assegnazione |
 | Edifici simbolo | `taormina/landmarks/*.py` | uno script per edificio con misure dalle foto (es. `porta_messina.py`) |
-| Interni | `env/casa_russo.py`, `env/aeroporto.py`, `env/bar.py`, `env/scuola.py`, `env/stazione.py` | piante di `LIVELLI.md` |
+| Interni | `env/casarusso.py`, `env/aeroporto.py`, `env/bar.py`, `env/scuola.py`, `env/stazione.py` | piante di `LIVELLI.md` |
 | UV2 + lightmap | `bake/lightmap.py` | UV2 automatiche (packing), bake Cycles 4 ore, denoise OIDN |
 | Collisioni, navmesh sorgente | `export/collisions.py` | primitive `COL_` |
 | Celle | `export/cells.py` | taglio per griglia, LOD, manifesto |

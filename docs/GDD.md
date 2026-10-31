@@ -22,7 +22,7 @@ Ogni sistema serve il tema.
 | Stato della casa | La casa si ammala quando le due metà litigano e guarisce col patto: il mondo rende fisico il conflitto |
 | Chi vede cosa | Vera vede tutti *perché* è tutte e due le cose (08.045): la percezione è la meccanica centrale |
 | Collezioni | Parole russe e foto di Taormina: si colleziona l'una e l'altra metà |
-| Ditale e cucchiaio | Ultimo gesto del giocatore: unire a mano i due oggetti dei nonni |
+| Ditale e cucchiaio | Ultimo gesto del giocatore: unire con le proprie mani i due oggetti dei nonni |
 
 ### 1.3 Pilastri
 1. **Fedeltà al libro**: eventi, battute e tono del libro restano quelli (D-06). Il testo nuovo è sempre marcato [NUOVO] e scritto con la voce del libro.
@@ -116,7 +116,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 - **Regole**: raggio dal centro dello schermo, distanza massima 2,2 m (oggetti) e 3,0 m (persone); cono di tolleranza 4°. Un oggetto interattivo mostra un **contorno caldo sottile** (2 px, colore `#F2D49B`, opacità 0,7) e un'etichetta di una parola («Guarda», «Parla», «Prendi», «Fotografa», «Siediti», «Inginocchiati», «Ascolta»). Le persone girano la testa verso Vera entro 3 m (SIS-13). Gli spiriti non sono evidenziati prima della loro prima apparizione.
 - **Stati**: `nessuno` → `puntato` (contorno) → `in uso` (azione) → `usato` (alcuni oggetti tornano `puntato`, altri si disattivano).
 - **Dati salvati**: `mondo.interagiti[]` (ID oggetti già usati che cambiano stato), `mondo.oggetti{id:{stato}}`.
-- **Interfaccia**: contorno + etichetta in basso al centro (stile UI §7 dell'ART_BIBLE); su tablet l'oggetto puntato si può anche toccare direttamente.
+- **Interfaccia**: contorno + etichetta in basso al centro (stile UI §13 dell'ART_BIBLE); su tablet l'oggetto puntato si può anche toccare direttamente.
 - **Accessibilità**: contorno più spesso (4 px) e colore ad alto contrasto in opzione; «evidenzia tutti gli interattivi vicini» tenendo premuto Tab / LB per 1 s.
 - **Casi limite**: due oggetti sovrapposti → vince il più vicino al centro; oggetto dietro vetro → non interattivo salvo eccezioni marcate (vetrinetta del cap. 4).
 - **Dipendenze**: SIS-01, raycast Babylon, SIS-03.
@@ -128,11 +128,11 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 - **Regole**: storie Ink compilate (inkjs 2.4). Testo che si scrive a **42 caratteri/s** (opzione 20–80 o istantaneo); il primo tocco completa la riga, il secondo avanza. **1–4 scelte**; nessun timer sulle scelte (eccezione: nessuna). Durante il dialogo il personaggio si gira verso Vera (rotazione max 120°/s), la guarda (SIS-13), riproduce animazioni di parlato e gesti (tag Ink `#anim:annuisce`). Le battute doppiate seguono l'audio (avanzamento automatico opzionale). Le battute in russo mostrano il **sottotitolo italiano** e, se l'opzione è attiva, la traslitterazione sotto in corsivo piccolo. Tag Ink supportati: `#parla:PG-ID`, `#vox:VOX-ID`, `#sfx:SFX-ID`, `#anim:nome`, `#cam:nome`, `#pensiero`, `#quaderno:ID`, `#foto:soggetto`, `#rap:nome:+1`, `#lingua:ru|it|scn`, `#attesa:ms`.
 - **Stati**: `chiuso` → `apertura` (0,3 s, la camera si stabilizza) → `riga` (scrittura) → `scelte` → `riga`… → `chiusura`.
 - **Dati salvati**: `ink.stato` (JSON di `story.state.toJson()`), `ink.cronologia[]` (ultime 200 righe: `{id, pg, testo, lingua}`); variabili specchiate in `rapporti`, `flag`, `casa`, `val`.
-- **Interfaccia**: riquadro in basso, 3 righe max, nome del personaggio in maiuscoletto; scelte numerate a destra; colore del nome per personaggio (ART_BIBLE §7).
+- **Interfaccia**: riquadro in basso, 3 righe max, nome del personaggio in maiuscoletto; scelte numerate a destra; colore del nome per personaggio (ART_BIBLE §13).
 - **Accessibilità**: dimensione testo S/M/L/XL; sfondo del riquadro opacità 0–100%; avanzamento automatico; lettura dei sottotitoli con contrasto AA.
 - **Casi limite**: dialogo interrotto da caricamento → si riprende dall'ultimo nodo stabile (`ink.stato`); scelta già fatta in altri slot → nessun effetto incrociato; dialogo con personaggio che cammina → si ferma.
 - **Dipendenze**: inkjs, SIS-13, AUDIO, SIS-06 (quaderno).
-- **Criteri**: (1) `cr.vai("SCN-01-05")`, `cr.interagisci("PG-GIULIA")`, `cr.ui().dialogo.scelte.length === 3`; (2) `cr.scegli(2)` imposta `cr.var("flag_giulia_ginevra") === true` e `rap_giulia === 2`; (3) dopo `cr.salva("1")` e `cr.carica("1")` la cronologia contiene la stessa ultima riga; (4) una riga `#lingua:ru` mostra il sottotitolo italiano esatto previsto dalla scena.
+- **Criteri**: (1) `cr.vai("SCN-01-05")`, `cr.interagisci("PG-GIULIA")`, `cr.ui().dialogo.scelte.length === 3`; (2) `cr.scegli(1)` e poi `cr.scegli(1)` impostano `cr.var("flag_giulia_ginevra") === true` e `rap_giulia === 1` (default −1, +2); (3) dopo `cr.salva("1")` e `cr.carica("1")` la cronologia contiene la stessa ultima riga; (4) una riga `#lingua:ru` mostra il sottotitolo italiano esatto previsto dalla scena.
 
 ### SIS-04 Pensieri di Vera
 - **Scopo**: dare la voce ironica di Vera senza fermare il gioco.
@@ -144,7 +144,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 - **Accessibilità**: opzione «pensieri sempre in pausa» (attende un tasto); lettore di schermo.
 - **Casi limite**: pensiero durante un dialogo → ritardato alla chiusura.
 - **Dipendenze**: SIS-03 (cronologia), trigger di area/sguardo, testi in Ink (knot `pensieri`).
-- **Criteri**: `cr.vai("SCN-01-07")`; guardare `OBJ-01-POSTER-ETNA` per 1 s → `cr.ui().pensiero.testo` uguale a `PEN-01-07` e `cr.ui().pensiero.corsivo === true`.
+- **Criteri**: `cr.vai("SCN-01-07")`; guardare `OBJ-01-POSTER-ETNA` per 1 s → `cr.ui().pensiero.testo` uguale a `PEN-01-11` e `cr.ui().pensiero.corsivo === true`.
 
 ### SIS-05 Sottotitoli dei suoni
 - **Scopo**: rendere accessibili i suoni importanti (D-28).
@@ -164,7 +164,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 - **Regole**: libro 3D in primo piano (mani di Vera visibili) su sfondo sfocato; il gioco è in pausa. Sezioni con linguette: **Obiettivo** (prima pagina aperta sempre) · **Indizi** (IND-) · **Parole russe** (RUS-) · **Ricordi** (RIC-) · **Foto** (FOT-, album Luoghi/Gatti/Persone/Capitoli) · **Sospettati e frecce** (dal cap. 5; le frecce si tracciano trascinando da un sospettato a un indizio) · **Il Patto** (cap. 13) · **CASA RUSSO** (cap. 14). Le prime pagine sono di scienze (cellule e fotosintesi, disegni a biro blu e matita, D-41). Le nuove voci si **scrivono a matita/biro animata** (2 s) con il suono SFX-090 la prima volta che si apre il quaderno dopo lo sblocco; una piccola orecchia segna le sezioni con novità. Nel cap. 4 ogni giorno di indagine ha una pagina con lo spazio per la prova (SIS-21).
 - **Stati**: `chiuso` → `aperto(sezione,pagina)` → `scrittura` (animazione) → `aperto`.
 - **Dati salvati**: `quaderno.voci[] {id, sbloccata (data di gioco ISO), letta}`, `quaderno.obiettivo` (ID OBJ-), `quaderno.sospettati.frecce[] [da, a]`, `quaderno.patto` (bool), `quaderno.paginaCasaRusso` (bool), `quaderno.ultimaPagina {sezione, pagina}`.
-- **Interfaccia**: carta a quadretti 5 mm, margine rosso, testo a mano (font ART_BIBLE §7); il testo delle voci è anche disponibile in versione stampatello ad alta leggibilità (opzione).
+- **Interfaccia**: carta a quadretti 5 mm, margine rosso, grafia di Vera (font ART_BIBLE §13); il testo delle voci è anche disponibile in versione stampatello ad alta leggibilità (opzione).
 - **Accessibilità**: «testo leggibile» sostituisce la grafia con font chiaro; lettura con lettore di schermo del testo delle pagine (ARIA live region).
 - **Casi limite**: sblocco di più voci insieme → si scrivono in sequenza; quaderno aperto durante un evento a tempo → impossibile (le scene a tempo lo disabilitano con icona grigia).
 - **Dipendenze**: SIS-03, SIS-07, SIS-09.
@@ -185,7 +185,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 ### SIS-08 Missioni, obiettivi e marker discreto
 - **Scopo**: guidare senza togliere autonomia (D-16).
 - **Input**: nessuno diretto; il marker si mostra/nasconde dalle opzioni o tenendo premuto J per 0,6 s.
-- **Regole**: missione = capitolo (`MIS-CC`) o secondaria (`MIS-S-NN`). Ogni scena ha un **obiettivo** (`OBJ-CC-NN`) scritto a mano nella prima pagina del quaderno, con la voce di Vera (es. «Parlare con la famiglia. Almeno con tre. Mattia conta doppio, perché scappa.»). **Marker discreto**: piccolo cerchio caldo con punto (14 px) proiettato sull'obiettivo, visibile solo se l'obiettivo è fuori vista per più di 20 s o se il giocatore resta fermo 30 s; scompare entro 8 m. Disattivabile (D-16). Eventi a script attivati da: area, interazione, tempo, variabile.
+- **Regole**: missione = capitolo (`MIS-CC`) o secondaria (`MIS-S-NN`). Ogni scena ha un **obiettivo** (`OBJ-CC-NN`) scritto a biro nella prima pagina del quaderno, con la voce di Vera (es. «Parlare con la famiglia. Almeno con tre. Mattia conta doppio, perché scappa.»). **Marker discreto**: piccolo cerchio caldo con punto (14 px) proiettato sull'obiettivo, visibile solo se l'obiettivo è fuori vista per più di 20 s o se il giocatore resta fermo 30 s; scompare entro 8 m. Disattivabile (D-16). Eventi a script attivati da: area, interazione, tempo, variabile.
 - **Stati della missione**: `bloccata` → `attiva` → `completata`; secondarie anche `fallita_morbida` (si riprova).
 - **Dati salvati**: `storia.capitolo`, `storia.scena`, `storia.checkpoint`, `storia.capitoliCompletati[]`, `missioni.attive[] {id, passo}`, `missioni.completate[]`, `quaderno.obiettivo`.
 - **Interfaccia**: notifica in alto a sinistra «Nuovo obiettivo» con l'icona della matita per 3 s.
@@ -227,7 +227,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 - **Input**: telefono per leggere l'ora (SIS-07); debug `cr.data`.
 - **Accessibilità**: opzione «ferma il tempo in libero» (scala 0) per chi gioca lentamente.
 - **Casi limite**: cambio di giorno durante una missione secondaria → la missione resta attiva se la finestra lo consente; notte delle Donne durante una scena di trama → la scena ha la precedenza.
-- **Dipendenze**: TDD §5 (luce dinamica), ART_BIBLE §2 (palette per ora e mese), SIS-12, SIS-13.
+- **Dipendenze**: TDD §5 (luce dinamica), ART_BIBLE §2 (palette oraria e mensile), SIS-12, SIS-13.
 - **Criteri**: `cr.data("2025-09-16","23:45")` dopo il cap. 3 → `cr.stato().tempo` e `cr.ui().notteDonne === true`; `cr.data("2025-09-17","23:45")` → false; il 4/11 `tempo.meteo === "pioggia"`.
 
 ### SIS-12 Stato della casa (crepa, luce, acqua, limone)
@@ -264,7 +264,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 - **Accessibilità**: —
 - **Casi limite**: valori fuori intervallo → limitati a −3/+3; salvataggi vecchi senza un `rap_` nuovo → default.
 - **Dipendenze**: SIS-03, NARRATIVA/00_struttura (dizionario delle variabili).
-- **Criteri**: `cr.var("rap_giulia",2)`; `cr.vai("SCN-01-15")` → la scena usa il ramo `giulia_alleata` (`cr.ui().dialogo` contiene la riga `DLG-01-GIULIA-20`).
+- **Criteri**: `cr.var("rap_giulia",2)`; `cr.vai("SCN-01-15")` → la scena usa il ramo `giulia_alleata` (`cr.ui().dialogo` mostra la battuta «Sta ripassando la Convenzione di Ginevra. Lasciala stare.»).
 
 ### SIS-15 Collezioni
 - **Scopo**: raccogliere le due metà di Vera (D-69).
@@ -284,7 +284,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 - **Regole**: turno di 6 minuti reali (pomeriggio). I clienti chiedono una cosa a voce (testo + parole chiave): caffè, macchiato, cappuccino (solo la mattina: se un turista lo chiede al pomeriggio, papà fa una faccia), granita al limone/mandorla/caffè con brioche, cornetto, arancino (dalla vetrina), acqua. Vera prepara con 2–4 passi (prendi tazzina, macchina, servi; granita: coppa, gusto, brioche). Ordini sbagliati: il cliente ride, papà corregge (nessuna penalità). Clienti con battute ([NUOVO], `mondo_libero.md`), che cambiano con capitolo e stagione (turisti in pantaloncini a ottobre; solo paesani dopo il 4 novembre, 14.001). Compiti al tavolino in fondo vicino al bagno (06.001): sedersi fa passare 1 ora e dà a volte un pensiero.
 - **Dati salvati**: `bar.turni`, `bar.ordiniServiti`, `bar.miglioreTurno`, `bar.clientiConosciuti[]`.
 - **Stati**: `fuori turno` → `turno` (ordini in coda, max 3) → `fine turno` (papà commenta).
-- **Interfaccia**: il blocchetto delle comande di papà appare in basso a sinistra con gli ordini scritti a mano.
+- **Interfaccia**: il blocchetto delle comande di papà appare in basso a sinistra con gli ordini scritti a penna.
 - **Accessibilità**: opzione «ordini con figure» (icone accanto alle parole).
 - **Casi limite**: turno interrotto dalla sera → si chiude con il commento di papà; capitolo in cui il bar è chiuso (sera del cap. 14) → interazione disabilitata con pensiero.
 - **Dipendenze**: SIS-13 (clienti), mondo_libero (battute), LIVELLI (bar).
@@ -405,7 +405,7 @@ Template fisso: **Scopo · Input · Regole · Stati e transizioni · Dati salvat
 - **Stati**: `guidata(percorso)` / `cinematica(timeline)`.
 - **Dati salvati**: `mondo.cinematicheViste[]`.
 - **Interfaccia**: bande nere 2,39:1 solo nelle cinematiche; nessuna nelle guidate.
-- **Accessibilità**: riduzione movimento: le camere a mano diventano fisse; sottotitoli sempre attivi in cinematica.
+- **Accessibilità**: riduzione movimento: le camere in spalla diventano fisse; sottotitoli sempre attivi in cinematica.
 - **Casi limite**: caricamento a metà cinematica → si riparte dall'inizio della cinematica.
 - **Dipendenze**: timeline di animazione (TDD), AUDIO, SIS-03.
 - **Criteri**: `cr.vai("SCN-01-13")` → durata 7,0 ± 0,2 s; DOF attivo (`cr.render().dof === true`).
@@ -492,7 +492,7 @@ Ogni raccordo ha una durata massima; oltre il massimo il gioco «spinge» con un
 ## 6. Flussi UX
 
 ### 6.1 Primo avvio
-1. Pagina di caricamento (sfondo nero, scritta a mano «Casa Russo» che si disegna, barra sottile): scarica il nucleo (≤ 12 MB) e il manifesto.
+1. Pagina di caricamento (sfondo nero, scritta a biro «Casa Russo» che si disegna, barra sottile): scarica il nucleo (≤ 12 MB) e il manifesto.
 2. **Rilevamento**: WebGPU → altrimenti WebGL2; se nessuno dei due, pagina che spiega quali browser usare. Su telefono (schermo < 7" o `pointer: coarse` e diagonale < 7"): avviso «Questo gioco è pensato per PC e tablet» con possibilità di continuare.
 3. **Preset automatico** (TDD §12.4): prova di 3 s sulla scena del titolo; mostra «Qualità scelta: Medio» con «Cambia».
 4. **Lingua**: solo italiano (D-67) → nessuna scelta; schermata unica «Sottotitoli»: dimensione (anteprima con la frase «Mi chiamo Vera Russo, ho dodici anni…»), suoni sottotitolati sì/no, traslitterazione russa sì/no.

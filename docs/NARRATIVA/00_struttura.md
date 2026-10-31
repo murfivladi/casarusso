@@ -9,8 +9,8 @@ Questo file fissa la struttura dei 14 capitoli, il **dizionario delle variabili*
 - **Citazione per ID**: per i capitoli 1–3 le battute [LIBRO] sono riportate per esteso. Per i capitoli 4–14, i blocchi di dialogo del libro sono indicati con l'intervallo di paragrafi (es. `[LIBRO §04.010–04.021]`); in Fase 2 lo strumento `tools/ink-import` copia quei paragrafi da `work/libro.txt` nel file Ink **verbatim**, separando narrazione (→ pensieri di Vera o didascalie di regia) e battute (→ righe di dialogo). Il testo [NUOVO] e tutte le scelte sono scritti per esteso.
 - **Formato dei dialoghi** (pronto per Ink):
   ```
-  DLG-01-GIULIA-01  GIULIA [NUOVO]: «Che vuoi.»
-    + (1) «…» [NUOVO]            → rap_giulia +2; flag_giulia_ginevra = true → DLG-01-GIULIA-02
+  DLG-00-ESEMPIO-01  GIULIA [NUOVO]: «Che vuoi.»
+    + (1) «…» [NUOVO]            → rap_giulia +2; flag_giulia_ginevra = true → DLG-00-ESEMPIO-02
     + (2) «…» {cond: rap_giulia >= 0}  → …
   ```
   `+` = scelta che resta disponibile se si torna al personaggio; `*` = scelta che sparisce dopo l'uso; `{cond: …}` = condizione; `→` = effetti e nodo successivo.

@@ -21,7 +21,7 @@ Vera diventa investigatrice: sull'ultima pagina del quaderno di scienze scrive S
 - **Trigger**: sabato 4 ottobre, pomeriggio, camera di Vera (da «Vai al prossimo capitolo» del libero o automaticamente).
 - **Beat**: B-05-01.
 - **Obiettivo** OBJ-05-01 [NUOVO]: «Fare l'investigatrice. Quaderno, sospettati, indizi, frecce.»
-- **Svolgimento**: si sblocca la sezione **Sospettati e frecce** (SIS-06). Vera scrive a mano (animazione) le righe del libro; il giocatore poi collega con frecce le prove del cap. 4 ai sospettati (tutorial).
+- **Svolgimento**: si sblocca la sezione **Sospettati e frecce** (SIS-06). Vera scrive a biro (animazione) le righe del libro; il giocatore poi collega con frecce le prove del cap. 4 ai sospettati (tutorial).
   - PEN-05-01 [LIBRO §05.001]: «Il primo sabato di ottobre decisi di fare l'investigatrice. Avevo letto abbastanza libri gialli da sapere come si fa. Si prende un quaderno, si scrivono i sospettati, si scrivono gli indizi, e poi si fanno le frecce.»
   - Scrittura sul quaderno [LIBRO §05.002]: «SOSPETTATI: Fomà (domovoj, dietro il frigo). Donna Rosalia, Donna Nina, Donna Tina (Donne di Fora, buco della serratura).»
   - Scrittura sul quaderno [LIBRO §05.004]: «ALTRI SOSPETTATI: babuška Galina. Nonna Concetta.»

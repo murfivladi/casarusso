@@ -24,6 +24,7 @@ out = ["# Indice del libro «Il domovoj nella scarpa»", "",
        "Documento di lavoro della Fase 0. Generato da `work/strumenti/genera_indice.py` a partire da `work/libro.txt` "
        "(testo estratto dal PDF con `pdftotext -layout`, capolettere e paragrafi spezzati ricomposti, corsivi verificati "
        "con un secondo passaggio sui font: vedi `work/corsivi_libro.txt`).", "",
+       "**Battute e narrazione.** Qui sotto, per ogni capitolo, sono riportate verbatim tutte le battute di dialogo; la narrazione di Vera (pensieri, intro, chiusure) è citata nei capitoli di `docs/NARRATIVA/` con lo stesso ID e il testo integrale con ID è in `work/libro.txt`.", "",
        "**Posizioni.** Ogni paragrafo ha un ID `CC.NNN` (capitolo.paragrafo) e la pagina del PDF. Tutti i documenti citano il libro con questi ID.", "",
        "**Calendario.** Verificato con codice (`python3 -c` su `datetime`): 13/9/2025 sabato · 15/9 lunedì (inizio lezioni in Sicilia, D.A. 718/2025) · "
        "16/9 martedì · 18/9 giovedì · 4/10 sabato · 14/10 martedì · 21/10 martedì · 23/10 giovedì · 24/10 venerdì · 26/10 domenica · "

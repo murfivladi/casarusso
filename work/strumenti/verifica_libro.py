@@ -28,7 +28,7 @@ for f in sorted(glob.glob(os.path.join(BASE,'docs','**','*.md'),recursive=True))
             rest=line[m.end():]
             q1=rest.find('«')
             nxt=re.search(r'\[LIBRO §',rest)
-            if q1<0 or (nxt and nxt.start()<q1) or q1>12: continue
+            if q1<0 or (nxt and nxt.start()<q1) or q1>24: continue
             d=0; end=None
             for i,ch in enumerate(rest[q1:],q1):
                 if ch=='«': d+=1
@@ -36,6 +36,10 @@ for f in sorted(glob.glob(os.path.join(BASE,'docs','**','*.md'),recursive=True))
                     d-=1
                     if d==0: end=i; break
             seg=rest[q1+1:end] if end else rest[q1+1:]
+            if re.search('[а-яА-ЯёЁ]',seg):
+                st=re.search(r'sottotitolo(?: \[LIBRO[^\]]*\])? «((?:[^«»]|«[^»]*»)*)»',rest)
+                if not st: continue
+                seg=st.group(1)
             n+=1
             T=norm(txt)
             frags=[x.strip().strip('…').strip() for x in re.split(r'[.!?…:;]\s|\s—\s|\s·\s|\.$',norm(seg)) if len(x.strip())>=10]

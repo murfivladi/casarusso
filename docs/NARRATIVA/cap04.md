@@ -69,7 +69,7 @@ Quella notte Donna Rosalia fa a Vera tre domande e scopre che il «topo» è un 
 - **Voce del quaderno**: IND-04-02 [NUOVO] «Ven 19 sera: il kefir è cagliato. Donna Nina l'aveva detto: "Gli faccio cagliare il latte". Ora la babuška pensa che sia stata nonna Concetta.»
 
 ### Sabato 20 – domenica 21 (raccordo)
-- **Tipo**: raccordo (massimo 4 min): sabato pomeriggio libero breve in casa e scalinata (le nonne si evitano: Concetta non viene la domenica, eccezione [NUOVO] → PEN-04-08 «La domenica nonna Concetta non venne a pranzo. "Mal di testa." In quarant'anni non aveva mai avuto mal di testa.»). Notte di sabato: le Donne passano (notte delle Donne): Vera le vede nell'ingresso parlottare (nessun dialogo con lei, solo NINA [NUOVO] «La forestiera ha guardato storto Donna Concetta. Bene.»).
+- **Tipo**: raccordo (massimo 4 min): sabato pomeriggio libero breve in casa e scalinata (le nonne si evitano: Concetta non viene la domenica, eccezione [NUOVO] → PEN-04-08 [NUOVO] «La domenica nonna Concetta non venne a pranzo. "Mal di testa." In quarant'anni non aveva mai avuto mal di testa.»). Notte di sabato: le Donne passano (notte delle Donne): Vera le vede nell'ingresso parlottare (nessun dialogo con lei, solo NINA [NUOVO] «La forestiera ha guardato storto Donna Concetta. Bene.»).
 
 ### SCN-04-06 — Lunedì 22: le lenzuola (scoperta + prova) · CP-04-C
 - **Beat**: B-04-07.

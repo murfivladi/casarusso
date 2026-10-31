@@ -45,7 +45,7 @@ casarusso/
 │   ├── scripts/              import/, retopo/, uv/, bake/, rig/, anim/, taormina/, kit/, export/, review/
 │   └── sources/              .blend (Git LFS)
 ├── assets_in/                consegne di Vlad (Git LFS): immagini, modelli 3D, dati, audio
-├── assets/                   output pronti per il gioco: .glb, .ktx2, .env, audio (generati, non a mano)
+├── assets/                   output pronti per il gioco: .glb, .ktx2, .env, audio (generati dagli script)
 ├── tools/                    validator/, manifest/, ink-import/, taormina/, vox/, check-docs/
 └── tests/                    e2e/ (Playwright), visual/ (screenshot di riferimento), perf/, fixtures/ (salvataggi)
 ```
@@ -261,7 +261,7 @@ export interface DebugConsole { [comando: string]: (...args: any[]) => unknown }
 
 ## 5. Illuminazione
 - **Base baked in Cycles** (Blender 5.2): per ogni cella e per 4 ore di riferimento (mattina 9:00, pomeriggio 15:30, tramonto, notte) lightmap HDR con rimbalzi e AO, su **secondo canale UV** non sovrapposto (padding 4 px a 1024, 8 px a 2048), codificata RGBD in KTX2 UASTC HDR dove supportato, altrimenti RGBD 8 bit.
-- **Interpolazione per ora**: il gioco fonde le due lightmap più vicine all'ora corrente (shader di blend nel materiale; costo 1 campionamento in più), con la luce del sole dinamica che aggiunge le ombre dirette (CascadedShadowGenerator) e il colore del cielo.
+- **Interpolazione oraria**: il gioco fonde le due lightmap più vicine all'ora corrente (shader di blend nel materiale; costo 1 campionamento in più), con la luce del sole dinamica che aggiunge le ombre dirette (CascadedShadowGenerator) e il colore del cielo.
 - **Ambiente**: HDR per cella e ora renderizzati in Blender (equirettangolari 2K) → `.env` (prefiltered) con lo strumento IBL di Babylon in CI; sonde di riflessione locali (ReflectionProbe) negli interni chiave.
 - **Personaggi e oggetti dinamici**: luce in tempo reale + IBL della cella + light probes sferiche (coefficienti SH baked in una griglia di 2 m negli interni, 8 m all'esterno).
 - **Meteo**: pioggia = modificatori dei materiali (roughness, albedo, pozzanghere), cielo coperto (HDR alternativo baked), luce diffusa.
@@ -405,7 +405,7 @@ export interface DebugConsole { [comando: string]: (...args: any[]) => unknown }
 | Memoria texture | ≤ 1,5 GB | **≤ 450 MB** | corretto (D-85) |
 | Memoria complessiva della pagina | ≤ 3 GB | **≤ 1,3 GB** | nuovo (D-85) |
 | Personaggio | 40 000 tri | LOD 15 000 | confermato |
-| Fomà | 40 000 + 16–24 gusci | 40 000 + 10 gusci | «pelo semplificato» = meno gusci, stessa tecnica |
+| Fomà | 40 000 + 16–24 gusci | 40 000 + 10 gusci | il «pelo» ridotto del piano = meno gusci, stessa tecnica |
 | Scena con tre Donne | ≤ 3,5 ms GPU per i VFX | ≤ 6 ms | nuovo |
 | Primo avvio fino al titolo | ≤ 30 s (connessione 30 Mbit/s) | ≤ 45 s | confermato |
 | Cambio cella | nessuno scatto > 50 ms | nessuno scatto > 66 ms | misurato nel test perf |
@@ -438,7 +438,7 @@ export interface DebugConsole { [comando: string]: (...args: any[]) => unknown }
 4. Durante il gioco: se per 10 s il frame time supera il budget del 15%, la scala di risoluzione scende di 5% (fino al minimo del preset); se resta sopra, notifica discreta «Vuoi passare a Basso?».
 
 ### 12.5 Misura delle prestazioni
-Scena di prova (aeroporto + Corso + cucina con tre Donne) eseguita da Playwright su Chromium headless con GPU (PC di CI con GPU) e a mano sull'iPad di Vlad con `?perf=1` (overlay che registra 60 s e mostra p50/p95/p99 del frame time e la memoria; esporta un JSON da inviare).
+Scena di prova (aeroporto + Corso + cucina con tre Donne) eseguita da Playwright su Chromium headless con GPU (PC di CI con GPU) e con prove manuali sull'iPad di Vlad con `?perf=1` (overlay che registra 60 s e mostra p50/p95/p99 del frame time e la memoria; esporta un JSON da inviare).
 
 ## 13. Build, CI, hosting, versioni
 - **Build**: `vite build` → `dist/` con asset con hash; generazione di cataloghi e manifesto (`tools/manifest`), import Ink (`tools/ink-import`), compilazione Ink (inklecate).
@@ -459,7 +459,7 @@ Scena di prova (aeroporto + Corso + cucina con tre Donne) eseguita da Playwright
 | R-03 | Nebbia delle Donne costosa | cali di FPS | budget 3,5/6 ms, particelle e volumetria a mezza risoluzione su tablet; test sul tablet dalla Fase 2 |
 | R-04 | Safari su iPad: memoria e reload della scheda | crash | budget 450 MB texture / 1,3 GB pagina; monitor della memoria; scaricamento aggressivo; test a ogni traguardo |
 | R-05 | Modelli da Tripo/Hitem3D imprecisi (mani, vestiti) | deformazioni | pulizia dei pesi via script, pose di deformazione renderizzate e ispezionate da Claude con soglie numeriche (PIPELINE §5); se non passa: nuova scheda di richiesta con correzioni del prompt o della fascia poligoni |
-| R-06 | Nessuna rifinitura manuale (D-31) | qualità artistica | controlli automatici + render di revisione obbligatori + confronto con le immagini di riferimento; Vlad approva le immagini e i render, non modifica i modelli |
+| R-06 | Nessun lavoro manuale di Vlad in Blender (D-31) | qualità artistica | controlli automatici + render di revisione obbligatori + confronto con le immagini di riferimento; Vlad approva le immagini e i render, non modifica i modelli |
 | R-07 | «Tutto giocabile in 3D» allunga i capitoli | durata | massimi dei raccordi; misura a ogni Beta |
 | R-08 | Salvataggi tra versioni | perdita di progressi | schema versionato, migrazioni testate con fixture |
 | R-09 | Licenze di dati e foto | uso non consentito | registro in CREDITI; ortofoto solo come riferimento finché non è verificata (Q-02) |

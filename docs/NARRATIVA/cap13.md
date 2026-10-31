@@ -53,7 +53,7 @@ In Sicilia, la notte tra il primo e il due novembre, i morti tornano a casa a po
 - **Beat**: B-13-05.
 - **Testo del libro**: [LIBRO §13.021–13.037] — integrale (Vera sulla porta della cucina; Concetta accanto al tavolo in vestaglia fucsia con un cesto di vimini pieno di frutta martorana; sul tavolo il piattino con tre biscotti, il rosolio e un rametto di rosmarino che fuma piano — per le signore; la babuška accanto al frigo in vestaglia di lana col pane rotondo; per terra la scodella di latte, il sale e una candela accesa — per Fomà; si guardano, beccate; il momento lunghissimo; «Anche lei?» «Anche lei?»; la cosa più incredibile: le due nonne ridono — piano con le mani davanti alla bocca, poi forte, Concetta deve sedersi, la babuška si appoggia al frigo, le lacrime; «Da quanto tempo lo sa?» «Da sempre. Mia nonna mi ha insegnato a dargli il latte. E lei?» «Da sempre. Mia suocera mi ha insegnato il rosmarino. Il martedì, il giovedì e il sabato. E perché non me l'ha detto?» «Perché pensavo che lei mi avrebbe presa per matta. E lei, perché non me l'ha detto?» «Perché pensavo che lei mi avrebbe presa per matta.»; ricominciano a ridere).
 - **Lingua**: le nonne tra loro in italiano (si danno del «lei»); la babuška con accento.
-- Doppiato (scena chiave): CONCETTA §13.027, 13.032, 13.034, 13.036 [VOX-13-05…08]; BABUŠKA §13.028, 13.033, 13.035 [VOX-13-09…11]; SFX-066 «[risata delle due nonne]» (VOX-13-12, risata registrata a due voci).
+- Doppiato (scena chiave): CONCETTA §13.027, 13.032, 13.034, 13.036 [VOX-13-05…08]; BABUŠKA §13.028, 13.033, 13.035 [VOX-13-09…11]; SFX-066 «[risata delle due nonne]» [VOX-13-12] (risata registrata a due voci).
 - **Regia**: Vera non visibile alle nonne (resta nell'ombra della porta, nessuna interazione possibile tranne guardare); la risata ha tre fasi (ANI-CON-07, ANI-BAB-11).
 - **Voce del quaderno**: IND-13-03 [NUOVO] «Notte dei Morti: le mie due nonne beccate in cucina. Concetta col rosmarino per le Donne, la babuška col latte per Fomà. "Anche lei?" "Anche lei?" Hanno riso fino a piangere. Lo sapevano da sempre. Avevano paura di sembrare matte.»
 
@@ -67,7 +67,7 @@ In Sicilia, la notte tra il primo e il due novembre, i morti tornano a casa a po
 ### SCN-13-07 — Il patto (quaderno, interazione) · CP-13-C
 - **Beat**: B-13-07.
 - **Obiettivo** OBJ-13-07 [NUOVO]: «Scrivere il patto. In bella. Con la biro blu.»
-- **Svolgimento**: il quaderno si apre all'ultima pagina, sotto i sospettati; si sblocca la sezione **Il Patto**. Il giocatore «scrive» le clausole (una per pressione: ogni clausola si scrive a mano in 2 s), poi le firme:
+- **Svolgimento**: il quaderno si apre all'ultima pagina, sotto i sospettati; si sblocca la sezione **Il Patto**. Il giocatore «scrive» le clausole (una per pressione: ogni clausola si scrive a biro in 2 s), poi le firme:
   - Clausole [LIBRO §13.046, trasformate in elenco dalla mano di Vera]:
     1. «Fomà si occupa della casa di giorno, e della cucina, e della stufa, cioè del frigorifero.»
     2. «Le Donne di Fora si occupano della casa di notte, e delle stanze, e dei letti.»

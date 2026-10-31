@@ -229,8 +229,8 @@ Gli ID FOT di trama sono nei capitoli; quelli liberi in `NARRATIVA/mondo_libero.
 
 ## 10. Griglia di streaming di Taormina
 
-- **Sistema**: ETRS89/UTM 33N. **Origine della griglia**: E 524 000, N 4 187 500. **Cella**: 128 × 128 m. ID: `TAO-cCC-rRR` (colonna verso est, riga verso nord). Ogni cella ha: `.glb` geometria (3 LOD), lightmap per ora di riferimento (mattina, pomeriggio, tramonto, notte), navmesh, collisioni, manifesto (TDD §6).
-- **Sempre in memoria**: Casa Russo (`CR-INT`, `CR-EXT`), scalinata `TAO-SCA-01a/b`, terreno lontano (DEM 10 m semplificato + skyline dell'Etna e della costa da Copernicus GLO-30, 1 mesh), cielo e acqua.
+- **Sistema**: ETRS89/UTM 33N. **Origine della griglia**: E 524 000, N 4 187 500. **Cella**: 128 × 128 m. ID: `TAO-cCC-rRR` (colonna verso est, riga verso nord). Ogni cella ha: `.glb` geometria (3 LOD), lightmap per ciascuna ora di riferimento (mattina, pomeriggio, tramonto, notte), navmesh, collisioni, manifesto (TDD §6).
+- **Sempre in memoria**: Casa Russo (`CR-INT`, `CR-EXT`), scalinata `TAO-SCA-01a/b`, terreno lontano (DEM 10 m decimato + skyline dell'Etna e della costa da Copernicus GLO-30, 1 mesh), cielo e acqua.
 - **Raggio di caricamento**: celle entro 192 m caricate a LOD0, 192–448 m a LOD1, oltre come impostor/LOD2 fino a 1,5 km; scaricamento con isteresi di 64 m.
 
 | Rilascio | Celle (indicative, da confermare con i dati in Fase 4) | Contenuto |

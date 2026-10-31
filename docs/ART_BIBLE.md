@@ -9,7 +9,7 @@ Stile: **atmosferico realistico** (documento di gioco §3). Riferimento di quali
 4. **Sguardo di una dodicenne**: camera a 1,41 m, ottiche naturali, profondità di campo solo nei primi piani narrativi.
 5. **Niente marchi**: insegne, veicoli, abbigliamento e prodotti generici.
 
-## 2. Palette per ora e per mese
+## 2. Palette oraria e mensile
 
 ### 2.1 Ora del giorno (valori di riferimento per cielo, luce diretta, ombre)
 | Momento | Cielo zenit | Luce diretta | Ombre / ambiente | Temperatura | Note |
