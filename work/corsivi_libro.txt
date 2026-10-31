@@ -1,0 +1,137 @@
+# Testo in corsivo nel PDF (font LiberationSerif-Italic), per pagina. Corsivo = parole straniere, pensieri/voci riportate, scritte del quaderno.
+p4	matrioške
+p4	Quanto
+p4	un  po'
+p4	Veročka
+p6	lapot'
+p6	Etcì.
+p7	buono,
+p7	siamo quasi arrivati.
+p9	pirožki
+p9	pirožki
+p10	lapot'
+p10	lapot'
+p11	Fu
+p11	lapot'
+p12	Buona notte, buona notte
+p12	nonnino
+p12	domovoj
+p13	Pachycephalosaurus
+p15	storte
+p16	Casa sua?
+p16	lapot'
+p16	domovoj
+p17	lapot'
+p18	domovoj
+p19	domovoj
+p19	lapot'
+p20	ah
+p20	Gallinelle.
+p20	Adesso vediamo.
+p20	kefir
+p20	kefir
+p20	kefir
+p20	kefir
+p23	SOSPETTATI:  Fomà  (domovoj,  dietro  il  frigo).  Donna  Rosalia,  Donna
+p23	Nina, Donna Tina (Donne di Fora, buco della serratura).
+p23	ALTRI SOSPETTATI: babuška Galina. Nonna Concetta.
+p24	pazienza
+p25	kaša
+p26	LE NONNE SANNO. TUTTE E DUE. E FANNO FINTA DI NO.
+p26	Perché?
+p26	boršč
+p27	boršč
+p28	Pokrov
+p28	Pokrov
+p29	Pokrov
+p29	Pokrov
+p29	Pokrov
+p29	Pokrov, Pokrov, copri la terra di neve, e
+p29	me di un fidanzato.
+p29	valenki
+p29	Pokrov
+p29	domovoj
+p30	Pokrov
+p30	Pokrov
+p30	Pokrov
+p30	domovoj
+p31	domovoj
+p31	domovoj
+p31	Pokrov
+p31	Veročka
+p33	Pokrov
+p34	tac
+p34	tac
+p36	un  po'
+p37	forse sarebbe
+p37	meglio.
+p38	Pokrov
+p39	lapot'
+p40	domovoj
+p40	loro
+p40	domovoj
+p40	domovoj
+p41	La nostra
+p41	crac
+p41	mia
+p41	nostra
+p41	siciliana
+p41	russa
+p41	pirožki
+p42	lapot'
+p44	lapot'
+p46	stufa
+p46	lapot'
+p46	domovoj
+p47	domovoj
+p47	domovoj
+p47	domovoj
+p47	domovoj
+p47	Pokrov
+p47	Qui sei forestiero. E i forestieri, prima o poi, se ne vanno.
+p47	domovoj
+p52	Fermi lì!
+p53	stazione
+p53	domovoj
+p55	domovoj
+p55	domovoj
+p56	ital'janočka
+p57	domovoj
+p57	domovoj
+p57	lapot'
+p57	domovoj
+p58	lapot'
+p58	lapot'
+p59	Grazie, ragazze.
+p61	Fomà è buono
+p61	Se litigate la casa si ammala
+p61	Vi prego
+p61	vi prego
+p61	Fuori.
+p62	falla
+p63	Donne di fuori
+p63	quelle
+p63	di fuori
+p63	di casa
+p65	Sempre
+p66	cannistru
+p66	tetù
+p69	lei
+p69	lapot'
+p70	domovoj
+p70	kaša
+p71	tetù
+p73	pirožki
+p73	buono
+p74	CASA RUSSO.
+p74	Chi abita qui.
+p74	E il nonno Turi e il dedushka Kolja. La notte dei Morti.
+p74	Quale metà?
+p76	Fsss. Fsss.
+p76	Brutta  io?  Carbone  io?  E  il  Nonno  Gelo,  eh?  Il  Nonno  Gelo!  Ora
+p76	vediamo.
+p77	domovoj
+p81	(Autunno)
+p81	(Inverno)
+p81	(Primavera)
+p81	(Estate)
